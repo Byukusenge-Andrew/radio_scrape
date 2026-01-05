@@ -1,0 +1,302 @@
+[
+    {
+        "name": "Abc Global Radio ",
+        "stream_url": "https://stream.zeno.fm/tvb2jrc38hmuv",
+        "homepage": "https://onlineradiobox.com/tz/abcglobal/?cs=tz.abcglobal",
+        "country": "United Republic Of Tanzania",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "stream_url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "homepage": "https://mp3islam.com/",
+        "country": "United Republic Of Tanzania",
+        "language": "arabic",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Capital Radio",
+        "stream_url": "https://capitalradio.radioca.st/stream",
+        "homepage": "https://www.capitalradio.co.tz/",
+        "country": "United Republic Of Tanzania",
+        "language": "english,swahili",
+        "tags": "news,talk",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "Christian FM Radio",
+        "stream_url": "http://stream.zeno.fm/eequgfw72hhvv",
+        "homepage": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FyeLUI0UyY7R64PJY_cI_cPWHmb16KR3Hdy8qWJcX5Sg%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzJhNzc5ZjhiLTk3MmYtNDNhYS1iYTY3LTIwMDM1NTExNjE3My9pbWFnZS8_dXBkYXRlZD0xNjcyODQwMzg5MDAw.webp&w=750&q=75",
+        "country": "United Republic Of Tanzania",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Clouds FM",
+        "stream_url": "http://eu6.fastcast4u.com:5306/;",
+        "homepage": "https://cloudsmedia.co.tz/home/clouds-fm",
+        "country": "United Republic Of Tanzania",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Clouds FM",
+        "stream_url": "http://eu6.fastcast4u.com:5306/;",
+        "homepage": "https://www.cloudsfm.com/",
+        "country": "United Republic Of Tanzania",
+        "language": "swahili",
+        "tags": "pop,top 40",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Deliverance Radio ",
+        "stream_url": "https://stream.zeno.fm/mtrcigb9yhitv",
+        "homepage": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F4YpVj6s7UHzs8tk6bavm7uvWA40hhaj1tDz2gwCWl78%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2NmYTJkYWY0LWZjZjktNDk5ZS04MzQzLWI3MmJjMjRhYWY2YS9pbWFnZS8_dXBkYXRlZD0xNzA2MjIyOTQyMDAw.webp&w=750&q=100",
+        "country": "United Republic Of Tanzania",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "DFM Radio ",
+        "stream_url": "https://stream.zeno.fm/fygodpmrgcquv",
+        "homepage": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FKfTplKtGn5cQXCar4Xd2EgOiBSHrtECAox0HV9CgBuc%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzdiZDRjMmVjLTVhZTMtNDZiNS05NTk1LTdjMTQ2OTgwODU4YS9pbWFnZS8_dXBkYXRlZD0xNzE0ODQzNzM1MDAw.webp&w=750&q=100",
+        "country": "United Republic Of Tanzania",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "East Africa Radio FM",
+        "stream_url": "https://eatv.radioca.st/stream",
+        "homepage": "https://www.eastafricaradio.com/",
+        "country": "United Republic Of Tanzania",
+        "language": "swahili",
+        "tags": "african music,pop,soccer,sport,talk",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "El olama fm",
+        "stream_url": "https://stream.zeno.fm/4xt5iodsby3tv",
+        "homepage": "https://elolamafm.vercel.app/",
+        "country": "United Republic Of Tanzania",
+        "language": "english,swahili",
+        "tags": "entertainment,jazz,news,religious,stories",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Heaven FM Radio",
+        "stream_url": "http://stream.zeno.fm/eequgfw72hhvv",
+        "homepage": "http://zeno.fm/heaven-fm-radio/",
+        "country": "United Republic Of Tanzania",
+        "language": "swahili/",
+        "tags": "gospel/",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Heaven FM Radio",
+        "stream_url": "http://stream.zeno.fm/eequgfw72hhvv",
+        "homepage": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FjVwXjJnAN_TFwdnscjgzoRtEirCylumB5_sOFRQUbDM%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0lsdGlDbUFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0lscWlLb0FnTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTY1NzYwMTQzNDAwMA.webp&w=750&q=75",
+        "country": "United Republic Of Tanzania",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Heaven Radio",
+        "stream_url": "http://stream.zeno.fm/eequgfw72hhvv",
+        "homepage": "http://zeno.fm/radio/heaven-fm-radio/",
+        "country": "United Republic Of Tanzania",
+        "language": "swahili",
+        "tags": "gospel",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "IBN TV",
+        "stream_url": "http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8",
+        "homepage": "http://www.ibn-tv.com/",
+        "country": "United Republic Of Tanzania",
+        "language": "english",
+        "tags": "",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "ImbaNasi",
+        "stream_url": "https://stream.zeno.fm/dsfhivkawjiuv",
+        "homepage": "http://imbanasi.com/",
+        "country": "United Republic Of Tanzania",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Ishizwe FM ",
+        "stream_url": "https://stream.zeno.fm/zhhawbqoikatv",
+        "homepage": "https://ishizwemedia.co.t/",
+        "country": "United Republic Of Tanzania",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "K9 FM",
+        "stream_url": "https://stream.zeno.fm/crg9qh3i3wduv",
+        "homepage": "https://ishizwemedia.co.tz/",
+        "country": "United Republic Of Tanzania",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Kipiti Radio",
+        "stream_url": "http://stream.zeno.fm/7ebq5q3tcv8uv",
+        "homepage": "http://kipitiradio.blogspot.com/",
+        "country": "United Republic Of Tanzania",
+        "language": "",
+        "tags": "international",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Mungu Kwanza",
+        "stream_url": "https://mungukwanza.radioca.st/;",
+        "homepage": "https://mungukwanza.com/",
+        "country": "United Republic Of Tanzania",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Mungu Kwanza Radio",
+        "stream_url": "https://mungukwanza.radioca.st/;",
+        "homepage": "https://mungukwanza.com/",
+        "country": "United Republic Of Tanzania",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Nuru FM",
+        "stream_url": "https://radiotadio.co.tz/nuru-fm-stream",
+        "homepage": "https://radiotadio.co.tz/nurufm/",
+        "country": "United Republic Of Tanzania",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Radio Kwizera",
+        "stream_url": "http://uk4-vn.mixstream.net:8052/;listen.mp3",
+        "homepage": "http://www.radiokwizera.com/",
+        "country": "United Republic Of Tanzania",
+        "language": "swahili",
+        "tags": "catholic,local news",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "RADIO MARIA TANZANIA",
+        "stream_url": "http://dreamsiteradiocp2.com:8034/stream",
+        "homepage": "http://www.radiomaria.co.tz/",
+        "country": "United Republic Of Tanzania",
+        "language": "",
+        "tags": "catholic,religion,talk",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "Radio Mbiu",
+        "stream_url": "http://dreamsiteradiocp5.com:8004/stream.mp3",
+        "homepage": "https://www.radiombiu.co.tz/",
+        "country": "United Republic Of Tanzania",
+        "language": "swahili",
+        "tags": "news,sport",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "Radio Ngamia",
+        "stream_url": "http://stream.zeno.fm/41e3gsdgmdouv",
+        "homepage": "http://radiongamia.com/",
+        "country": "United Republic Of Tanzania",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Radio One Stereo",
+        "stream_url": "https://radioonetanzania.radioca.st/stream",
+        "homepage": "https://www.radio1.co.tz/",
+        "country": "United Republic Of Tanzania",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Radio Uhai",
+        "stream_url": "https://s2.citrus3.com:8050/stream",
+        "homepage": "https://www.radiouhai.co.tz/",
+        "country": "United Republic Of Tanzania",
+        "language": "swahili",
+        "tags": "christian",
+        "codec": "AAC",
+        "bitrate": 32
+    },
+    {
+        "name": "street One radio",
+        "stream_url": "http://stream.zeno.fm/d3as2fmadnruv",
+        "homepage": "https://streetoneradiotz.blogspot.com/",
+        "country": "United Republic Of Tanzania",
+        "language": "english",
+        "tags": "african music,folk,jazz,pop,top hits",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "sunsee fm",
+        "stream_url": "https://stream.zeno.fm/pjyrau0imf3uv",
+        "homepage": "https://stream.zeno.fm/pjyrau0imf3uv",
+        "country": "United Republic Of Tanzania",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Wasafi Fm",
+        "stream_url": "http://streaming.radionomy.com/JamendoLounge",
+        "homepage": "https://www.wcbwasafi.com/",
+        "country": "United Republic Of Tanzania",
+        "language": "swahili",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    }
+]

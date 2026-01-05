@@ -1,0 +1,4012 @@
+[
+    {
+        "name": " B105 105.3 Brisbane",
+        "stream_url": "https://wz4liw.scahw.com.au/live/4bbb_128.stream/playlist.m3u8",
+        "homepage": "https://www.hit.com.au/brisbane",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary",
+        "codec": "AAC",
+        "bitrate": 130
+    },
+    {
+        "name": " Sky News Australia Radio",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWSAAC.aac",
+        "homepage": "https://www.skynews.com.au/sky-news-radio",
+        "country": "Australia",
+        "language": "english",
+        "tags": "conservative,discussion,news,politics,rightwing,sky news,talk",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "=KECO=70s ROCK ",
+        "stream_url": "http://jfm1.hostingradio.ru:14536/rock70.mp3",
+        "homepage": "http://jfm1.hostingradio.ru:14536/rock70.mp3",
+        "country": "Australia",
+        "language": "engilsh",
+        "tags": "70s rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "=KECO=ROCK BALLADS",
+        "stream_url": "http://online.radioroks.ua/RadioROKS_Ballads_HD",
+        "homepage": "http://online.radioroks.ua/RadioROKS_Ballads_HD",
+        "country": "Australia",
+        "language": "engilsh",
+        "tags": "70s rock ballads",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "101 FM - Logan - 101.1 FM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/4CBLAAC.aac",
+        "homepage": "https://101fm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,miscellaneous,talk",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "101 FM - Logan - 101.1 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/4CBL.mp3",
+        "homepage": "https://101fm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,miscellaneous,talk",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "101.3 FM Collie Community Radio",
+        "stream_url": "http://144.6.133.42:88/broadwave.mp3?src=1&rate=1",
+        "homepage": "http://colliecommunityradio.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "101.5 FM - Moreton Bay's Own - Caboolture (AAC)",
+        "stream_url": "http://stream.lava.net.au/au_qld_4our_caboolture1015",
+        "homepage": "https://1015fm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "101.9 The Fox Melbourne",
+        "stream_url": "https://wz3liw.scahw.com.au/live/3fox_128.stream/playlist.m3u8",
+        "homepage": "https://www.hit.com.au/fox",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary",
+        "codec": "AAC",
+        "bitrate": 130
+    },
+    {
+        "name": "102.7 FM Toowoomba",
+        "stream_url": "http://s7.voscast.com:10184/4DDBFM",
+        "homepage": "https://1027.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio",
+        "codec": "AAC+",
+        "bitrate": 96
+    },
+    {
+        "name": "1029 Hot Tomato",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HOTTOMATO.mp3",
+        "homepage": "https://www.mygc.com.au/1029-hot-tomato/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "1035FM Orange",
+        "stream_url": "https://stream2.cnmns.net/orange1035",
+        "homepage": "https://1035fm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "christian,community",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "104.1 Territory FM - Darwin - 104.1 FM (MP3)",
+        "stream_url": "https://streaming.territoryfm.com:8443/TerritoryFM",
+        "homepage": "https://territoryfm.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,full service,news,talk",
+        "codec": "MP3",
+        "bitrate": 185
+    },
+    {
+        "name": "107.1 SAFM Adelaide",
+        "stream_url": "https://wz5liw.scahw.com.au/live/5ssa_128.stream/playlist.m3u8",
+        "homepage": "https://www.hit.com.au/adelaide/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,pop",
+        "codec": "AAC",
+        "bitrate": 130
+    },
+    {
+        "name": "107.3 HFM Gosnells",
+        "stream_url": "http://45.77.235.175:8000/;",
+        "homepage": "https://www.facebook.com/1073HFM",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio",
+        "codec": "MP3",
+        "bitrate": 120
+    },
+    {
+        "name": "107.9 LIFE Adelaide",
+        "stream_url": "https://stream04.sigile.net/1079life-64-aac",
+        "homepage": "https://mylifefm.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "christian,community",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "1079 life - Good Taste Radio",
+        "stream_url": "https://stream01.sigile.net/1079life-64-aac",
+        "homepage": "https://mylifefm.com/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "1116 SEN Melbourne",
+        "stream_url": "http://13.54.221.214:8000/sen.mp3",
+        "homepage": "http://www.sen.com.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "1170 SEN Sydney",
+        "stream_url": "https://d11fwwlrb0wuhh.cloudfront.net/playlist.m3u8",
+        "homepage": "https://www.sen.com.au/listen-live-sen-sydney/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "sport",
+        "codec": "AAC",
+        "bitrate": 65
+    },
+    {
+        "name": "2 Triple B - Bellingen - 107.3 FM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2BBBAAC.aac",
+        "homepage": "https://www.2bbb.net.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,miscellaneous,talk",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "2 Triple B - Bellingen - 107.3 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2BBB.mp3",
+        "homepage": "https://www.2bbb.net.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,miscellaneous,talk",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2AC澳洲华人电台粤语广播",
+        "stream_url": "http://s1.voscast.com:10442/stream",
+        "homepage": "https://www.2ac.com.au/",
+        "country": "Australia",
+        "language": "cantonese",
+        "tags": "full service",
+        "codec": "MP3",
+        "bitrate": 48
+    },
+    {
+        "name": "2AIR FM - Coffs Harbour - 107.9 FM (MP3)",
+        "stream_url": "http://s10.myradiostream.com:10122/;",
+        "homepage": "https://www.2airfm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,music",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "2ARM - Armidale - 92.1 FM (AAC)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC109_SC",
+        "homepage": "https://2arm.net.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "2AY - Albury - 1494 AM",
+        "stream_url": "http://worldradio.online/proxy/?q=https://wz2liw.scahw.com.au/live/2ay_128.stream/playlist.m3u8",
+        "homepage": "https://2ay.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "classic hits,commercial,news,talk",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "2AY - Albury - 1494 AM",
+        "stream_url": "https://wz2liw.scahw.com.au/live/2ay_128.stream/playlist.m3u8",
+        "homepage": "https://2ay.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "classic hits,news,talk",
+        "codec": "AAC",
+        "bitrate": 130
+    },
+    {
+        "name": "2AY - Albury - 1494 AM (HTTP)",
+        "stream_url": "http://wz2liw.scahw.com.au/live/2ay_128.stream/playlist.m3u8",
+        "homepage": "https://2ay.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "classic hits,news,talk",
+        "codec": "AAC",
+        "bitrate": 130
+    },
+    {
+        "name": "2BBB Bellingen",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/2BBBAAC.aac",
+        "homepage": "https://www.2bbb.net.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "2BOB Radio - Taree - 104.7 FM (AAC)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2BOBAAC.aac",
+        "homepage": "http://www.2bobradio.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "alternative,community radio,miscellaneous,music",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "2BOB Radio - Taree - 104.7 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2BOB.mp3",
+        "homepage": "http://www.2bobradio.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "alternative,community radio,miscellaneous,music",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2BOB Radio 104.7FM",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/2BOB.mp3",
+        "homepage": "http://www.2bobradio.org.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2BRW Braidwood FM",
+        "stream_url": "https://audio-edge-5bkfj.fra.h.radiomast.io/ba864be6-11d1-4e13-aa74-f8e8781f64f6",
+        "homepage": "https://braidwoodradio.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "braidwood,classic rock,communiy,variety",
+        "codec": "AAC",
+        "bitrate": 144
+    },
+    {
+        "name": "2BS - Bathurst - 95.1 FM (MP3)",
+        "stream_url": "http://usa20.fastcast4u.com/stream",
+        "homepage": "https://www.2bs.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,miscellaneous,talk",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2CA - 1053 AM",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2CA.mp3",
+        "homepage": "https://2ca.com.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "decades",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "2CA - Canberra - 1053 AM (AAC)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2CAAAC.aac",
+        "homepage": "https://2ca.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "classic hits,oldies",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "2CBD FM - Glen Innes - 105.9 FM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2CBDAAC.aac",
+        "homepage": "https://radio2cbd.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "classic hits,community radio,local",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "2CBD FM - Glen Innes - 105.9 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2CBD.mp3",
+        "homepage": "https://radio2cbd.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "classic hits,community radio,local",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2CC - 1206 AM",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2CCAAC.aac",
+        "homepage": "https://www.2cc.net.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "news talk",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "2CC Talking Canberra",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCAAC.aac",
+        "homepage": "https://www.2cc.net.au/",
+        "country": "Australia",
+        "language": "english/",
+        "tags": "news talk,talk",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "2CHR - Cessnock - 96.5 FM (AAC)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2CHRAAC.aac",
+        "homepage": "https://www.2chr.org/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,easy listening,music",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "2CHR - Cessnock - 96.5 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2CHR.mp3",
+        "homepage": "https://www.2chr.org/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,easy listening,music",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2Day FM",
+        "stream_url": "http://legacy.scahw.com.au/2day_32",
+        "homepage": "https://www.hit.com.au/2day/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 33
+    },
+    {
+        "name": "2DayFM 104.1 Sydney",
+        "stream_url": "https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8",
+        "homepage": "https://www.hit.com.au/2day",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary",
+        "codec": "AAC",
+        "bitrate": 130
+    },
+    {
+        "name": "2DRY FM - Broken Hill - 107.7 FM (AAC)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2DRYAAC.aac",
+        "homepage": "https://www.2dryfm.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,music",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "2DRY FM - Broken Hill - 107.7 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2DRY.mp3",
+        "homepage": "https://www.2dryfm.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,music",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2EC",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BEG_2ECAAC.aac",
+        "homepage": "https://www.2ec.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,local news",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "2EC - Bega / Batemans Bay - 94.5 FM / 105.9 FM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BEG_2ECAAC.aac",
+        "homepage": "https://www.2ec.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "classic hits,commercial,talk",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "2EC - Bega / Batemans Bay - 94.5 FM / 105.9 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BEG_2EC.mp3",
+        "homepage": "https://www.2ec.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "classic hits,commercial,talk",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2FBI \"FBi Radio\" 94.5 FM Sydney, NSW",
+        "stream_url": "https://streamer.fbiradio.com/stream",
+        "homepage": "http://fbiradio.com/",
+        "country": "Australia",
+        "language": "",
+        "tags": "community,eclectic,sydney",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "2GB - Sydney - 873 AM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2GB.mp3",
+        "homepage": "https://www.2gb.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "news,talk radio",
+        "codec": "MP3",
+        "bitrate": 48
+    },
+    {
+        "name": "2GB 873 Sydney",
+        "stream_url": "https://28093.live.streamtheworld.com/2GBAAC_O/HLS/playlist.m3u8",
+        "homepage": "https://www.2gb.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "news,sport,talk,talkback",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "2GB Sydney (Low Video Stream No Ads)",
+        "stream_url": "https://2gblive.akamaized.net/hls/live/2033805-b/2GB/2GB360B/chunklist.m3u8",
+        "homepage": "https://www.2gb.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "news,radio webcams,sport,sydney,talk,webcam",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "2GHR Greater Hume Radio",
+        "stream_url": "https://stream.2ghr.org.au:8000/2ghr",
+        "homepage": "https://2ghr.org.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 64
+    },
+    {
+        "name": "2GHR Greater Hume Radio - Holbrook - 96.7 FM (AAC)",
+        "stream_url": "http://az1.syd2.hostyourservices.au/listen/2ghr/2ghr",
+        "homepage": "https://2ghr.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,music,news,talk",
+        "codec": "AAC",
+        "bitrate": 64
+    },
+    {
+        "name": "2GLF 89.3 - Liverpool - 89.3 FM (AAC)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2GLFAAC.aac",
+        "homepage": "https://893fm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "2GLF 89.3 - Liverpool - 89.3 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2GLF.mp3",
+        "homepage": "https://893fm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2HAY FM - Hay - 92.1 FM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2HAYAAC.aac",
+        "homepage": "https://2hayfm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,current affairs,entertainment,information,local news,variety",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "2HAY FM - Hay - 92.1 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2HAY.mp3",
+        "homepage": "https://2hayfm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,current affairs,entertainment,information,local news,variety",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2LT - Lithgow - 900 AM (MP3)",
+        "stream_url": "http://au1.fastcast4u.com/proxy/2lt",
+        "homepage": "https://www.2lt.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "classic hits,news,talk",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2Max FM - Narrabri - 91.3 FM (AAC)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2MAXAAC.aac",
+        "homepage": "https://2maxfm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,miscellaneous,music",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "2Max FM - Narrabri - 91.3 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2MAX.mp3",
+        "homepage": "https://2maxfm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,miscellaneous,music",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2MCE - Bathurst - 92.3 FM (MP3)",
+        "stream_url": "https://stream.2mce.org/2MCE",
+        "homepage": "https://2mce.org/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio",
+        "codec": "MP3",
+        "bitrate": 141
+    },
+    {
+        "name": "2MCR - Campbelltown - 100.3 FM (MP3)",
+        "stream_url": "http://cast4.my-control-panel.com/proxy/tim1/som",
+        "homepage": "http://www.2mcr.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,music",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2MCR 100.3 - Sounds of Macarthur - Macarthur Community Radio",
+        "stream_url": "https://cast4.my-control-panel.com/proxy/tim1/som",
+        "homepage": "https://2mcr.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "australian music,community radio,easy listening,oldies,talkback,world music",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2MIA - Griffith - 95.1 FM (AAC)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2MIAAAC.aac",
+        "homepage": "https://www.2miafm.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,local",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "2MIA - Griffith - 95.1 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2MIA.mp3",
+        "homepage": "https://www.2miafm.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,local",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2MNO Monaro FM",
+        "stream_url": "http://220.233.66.253:88/broadwave.m3u",
+        "homepage": "http://www.2mno.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "2MNO Monaro FM - 90.5 FM",
+        "stream_url": "http://220.233.66.253:88/broadwave.mp3",
+        "homepage": "http://www.2mno.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "2NCR - River FM",
+        "stream_url": "https://audio-edge-d34v9.syd.o.radiomast.io/2317de18-b1e4-4472-bc63-366b1d785252?t=nightvision&cachebuster=7967348993554254",
+        "homepage": "http://2ncr.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 96
+    },
+    {
+        "name": "2NM - Muswellbrook - 981 AM (AAC)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MUS_2NMAAC.aac",
+        "homepage": "https://www.2nm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,classic hits,local,sports,talk",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "2NM - Muswellbrook - 981 AM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MUS_2NM.mp3",
+        "homepage": "https://www.2nm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,classic hits,local,sports,talk",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2NUR FM - Newcastle - 103.7 FM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2NURFMAAC.aac",
+        "homepage": "https://www.2nurfm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,easy listening,student radio",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "2NUR FM - Newcastle - 103.7 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2NURFM.mp3",
+        "homepage": "https://www.2nurfm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,easy listening,student radio",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2NURFM",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/2NURFM.mp3",
+        "homepage": "https://www.2nurfm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "easy listening",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2NVR - Nambucca Valley Radio - Nambucca Heads - 105.9 FM (MP3)",
+        "stream_url": "http://s14.myradiostream.com/19092/listen.mp3",
+        "homepage": "https://2nvr.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,local,oldies",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2QN - Deniliquin - 1521 AM",
+        "stream_url": "http://worldradio.online/proxy/?q=http://wz2liw.scahw.com.au/live/2qn_128.stream/playlist.m3u8",
+        "homepage": "https://2qn.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,classical,commercial,news,talk",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "2QN - Deniliquin - 1521 AM",
+        "stream_url": "http://wz2liw.scahw.com.au/live/2qn_128.stream/playlist.m3u8",
+        "homepage": "https://2qn.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,classic hits,news,talk",
+        "codec": "AAC",
+        "bitrate": 130
+    },
+    {
+        "name": "2RRR - Ryde - 88.5 FM (AAC)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2rrrAAC.aac",
+        "homepage": "https://www.2rrr.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "2RRR - Ryde - 88.5 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2rrr.mp3",
+        "homepage": "https://www.2rrr.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2RRR Ryde",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/2rrrAAC.aac",
+        "homepage": "https://www.2rrr.org.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "2SEA - Eden - 104.7 FM (AAC)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2SEA_EDENAAC.aac",
+        "homepage": "https://www.2sea.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,music,news,talk",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "2SEA - Eden - 104.7 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2SEA_EDEN.mp3",
+        "homepage": "https://www.2sea.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,music,news,talk",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2SER 107.3 FM",
+        "stream_url": "http://138.25.219.25:840/2ser128.MP3",
+        "homepage": "https://2ser.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "alternative,college radio,community,country,dance,eclectic,educational,non profit",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2SM SRN Sydney",
+        "stream_url": "https://cast4.asurahosting.com/proxy/2sm1269/stream",
+        "homepage": "https://2sm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "news talk,sport,talkback",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "2SSR - Sutherland - 99.7 FM (MP3)",
+        "stream_url": "http://radio12.shoutcast.net.au:2020/stream/8000",
+        "homepage": "https://www.2ssr.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,music",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "2SSR-FM",
+        "stream_url": "https://radio12.shoutcast.net.au:8000/stream",
+        "homepage": "https://www.2ssr.com.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "2ST - Nowra - 91.7 FM (AAC)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/NOW_2STAAC.aac",
+        "homepage": "https://www.2st.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "2ST - Nowra - 91.7 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/NOW_2ST.mp3",
+        "homepage": "https://www.2st.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2ST - Southern Highlands - 102.9 FM (AAC)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BOW_2STAAC.aac",
+        "homepage": "https://www.2st.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "2ST - Southern Highlands - 102.9 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BOW_2ST.mp3",
+        "homepage": "https://www.2st.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2TripleO",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/2OOOAAC.aac",
+        "homepage": "https://www.radio2tripleo.com.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "2TripleO - Sydney - 98.5 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2OOO.mp3",
+        "homepage": "https://www.radio2tripleo.com.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "community radio,multilingual",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2UE - Sydney - 954 AM",
+        "stream_url": "http://wz2liw.scahw.com.au/live/2ue_128.stream/playlist.m3u8",
+        "homepage": "https://2ue.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "classic hits,oldies",
+        "codec": "AAC",
+        "bitrate": 130
+    },
+    {
+        "name": "2UE - Sydney - 954 AM",
+        "stream_url": "http://worldradio.online/proxy/?q=http://wz2liw.scahw.com.au/live/2ue_128.stream/playlist.m3u8",
+        "homepage": "https://2ue.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "classic hits,commercial,oldies",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "2WAY FM - Port Macquarie - 103.9 FM (MP3)",
+        "stream_url": "http://s34.myradiostream.com/12612/;",
+        "homepage": "https://2wayfm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,miscellaneous,music",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2WCR - Warrumbungle Community Radio - Coonabarabran - 99.5 FM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2WCRAAC.aac",
+        "homepage": "http://2wcrfm.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,easy listening,indigenous,variety",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "2WCR - Warrumbungle Community Radio - Coonabarabran - 99.5 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2WCR.mp3",
+        "homepage": "http://2wcrfm.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,easy listening,indigenous,variety",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2XX - Canberra - 98.3 FM (AAC)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2XXAAC.aac",
+        "homepage": "https://www.2xxfm.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "alternative,community radio",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "2XX - Canberra - 98.3 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2XX.mp3",
+        "homepage": "https://www.2xxfm.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "alternative,community radio",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2YYY - Young - 92.3 FM (MP3)",
+        "stream_url": "http://streaming.2yyyradio.com/radio/8000/radio.mp3",
+        "homepage": "https://2yyyradio.com/wordpress/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,miscellaneous,music",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "3ABN Australia Radio",
+        "stream_url": "https://stream.3abnaustralia.org.au:8443/stream",
+        "homepage": "https://www.3abnaustralia.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "gospel",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "3AW - Melbourne - 693 AM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/3AW.mp3",
+        "homepage": "https://www.3aw.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "news,talk radio",
+        "codec": "MP3",
+        "bitrate": 48
+    },
+    {
+        "name": "3AW 693  Melbourne, VIC, Australia Talk AM 693 ",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/3AW.mp3",
+        "homepage": "https://www.3aw.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "news,news talk",
+        "codec": "MP3",
+        "bitrate": 48
+    },
+    {
+        "name": "3BA - Ballarat - 102.3 FM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BAL_3BAAAC.aac",
+        "homepage": "https://www.3ba.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "classic hits,commercial,music,news,oldies,sport,talk",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "3BA - Ballarat - 102.3 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BAL_3BA.mp3",
+        "homepage": "https://www.3ba.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "classic hits,commercial,music,news,oldies,sport,talk",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "3BBR - Drouin - 103.1 FM (MP3)",
+        "stream_url": "http://bbr0.radioca.st/stream",
+        "homepage": "https://3bbrfm.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,miscellaneous",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "3CR",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/3CR.mp3",
+        "homepage": "https://www.3cr.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "3CR - Melbourne - 855 AM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/3CRAAC.aac",
+        "homepage": "https://www.3cr.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,miscellaneous",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "3CR - Melbourne - 855 AM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/3CR.mp3",
+        "homepage": "https://www.3cr.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,miscellaneous",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "3CR Community Radio",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/3CRAAC.aac",
+        "homepage": "https://www.3cr.org.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "3CS - Colac - 1134 AM",
+        "stream_url": "http://wz3liw.scahw.com.au/live/3cs_128.stream/playlist.m3u8",
+        "homepage": "https://3cs.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "commercial,music,news,talk",
+        "codec": "AAC",
+        "bitrate": 130
+    },
+    {
+        "name": "3CS - Colac - 1134 AM",
+        "stream_url": "http://worldradio.online/proxy/?q=http://wz3liw.scahw.com.au/live/3cs_128.stream/playlist.m3u8",
+        "homepage": "https://3cs.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "commercial,music,news,talk",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "3GG - Warragul - 531 AM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/3GGAAC.aac",
+        "homepage": "https://www.3gg.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "classic hits,commercial",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "3HA - Hamilton / Portland - 92.9 FM / 981 AM",
+        "stream_url": "http://wz3liw.scahw.com.au/live/3ha_128.stream/playlist.m3u8",
+        "homepage": "https://www.3ha.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "commercial,music,news,talk",
+        "codec": "AAC+",
+        "bitrate": 65
+    },
+    {
+        "name": "3KND - Melbourne - 1503 AM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/3KNDAAC.aac",
+        "homepage": "https://www.3knd.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,indigenous,miscellaneous",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "3KND - Melbourne - 1503 AM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/3KND.mp3",
+        "homepage": "https://www.3knd.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,indigenous,miscellaneous",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "3MBS - Melbourne, 103.5 MHz FM",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/3MBS.mp3",
+        "homepage": "https://3mbs.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "classical",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "3MBS - Melbourne, 103.5 MHz FM",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/3MBS_DAB",
+        "homepage": "https://3mbs.org.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "classical",
+        "codec": "FLV",
+        "bitrate": 0
+    },
+    {
+        "name": "3MGB Wilderness Radio - Mallacoota / Genoa - 101.7 FM / 96.9 FM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/3MGBAAC.aac",
+        "homepage": "https://www.3mgb.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,miscellaneous",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "3MGB Wilderness Radio - Mallacoota / Genoa - 101.7 FM / 96.9 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/3MGB.mp3",
+        "homepage": "https://www.3mgb.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,miscellaneous",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "3MP - Melbourne - 1377 AM",
+        "stream_url": "http://worldradio.online/proxy/?q=http://wz3liw.scahw.com.au/live/3mp_128.stream/playlist.m3u8",
+        "homepage": "https://3mp.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "commercial,easy listening",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "3MP - Melbourne - 1377 AM",
+        "stream_url": "http://wz3liw.scahw.com.au/live/3mp_128.stream/playlist.m3u8",
+        "homepage": "https://3mp.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "commercial,easy listening",
+        "codec": "AAC",
+        "bitrate": 130
+    },
+    {
+        "name": "3NE - Wangaratta - 1566 AM",
+        "stream_url": "https://wz3liw.scahw.com.au/live/3ne_128.stream/playlist.m3u8",
+        "homepage": "https://3ne.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,commercial",
+        "codec": "AAC+",
+        "bitrate": 129
+    },
+    {
+        "name": "3NE - Wangaratta - 1566 AM",
+        "stream_url": "http://worldradio.online/proxy/?q=http://wz3liw.scahw.com.au/live/3ne_128.stream/playlist.m3u8",
+        "homepage": "https://3ne.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,commercial",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "3NE - Wangaratta - 1566 AM (HTTP)",
+        "stream_url": "http://wz3liw.scahw.com.au/live/3ne_128.stream/playlist.m3u8",
+        "homepage": "https://3ne.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,commercial",
+        "codec": "AAC+",
+        "bitrate": 129
+    },
+    {
+        "name": "3RRR \"Triple R\" 102.7 FM Melbourne, VIC (low bitrate live stream)",
+        "stream_url": "http://ondemand.rrr.org.au/stream/ws-lq.m3u",
+        "homepage": "http://www.rrr.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,indie,low bandwidth",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "3SER - Casey Radio - Casey, Melbourne - 97.7 FM (AAC)",
+        "stream_url": "http://s3.radio.co/s8f8288fe9/low",
+        "homepage": "https://www.caseyradio.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio",
+        "codec": "AAC",
+        "bitrate": 64
+    },
+    {
+        "name": "3SH - Swan Hill - 1332 AM",
+        "stream_url": "http://worldradio.online/proxy/?q=http://wz3liw.scahw.com.au/live/3sh_128.stream/playlist.m3u8",
+        "homepage": "https://3sh.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "commercial,music,news,talk",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "3SH - Swan Hill - 1332 AM",
+        "stream_url": "http://wz3liw.scahw.com.au/live/3sh_128.stream/playlist.m3u8",
+        "homepage": "https://3sh.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "commercial,music,news,talk",
+        "codec": "AAC",
+        "bitrate": 130
+    },
+    {
+        "name": "3WBC - Box Hill, Melbourne - 94.1 FM (AAC+)",
+        "stream_url": "https://stream.tcom.net.au/3wbc",
+        "homepage": "https://www.3wbc.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,local,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "3WM - Horsham - 1089 AM",
+        "stream_url": "http://wz3liw.scahw.com.au/live/3wm_128.stream/playlist.m3u8",
+        "homepage": "https://3wm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "commercial,music,news,talk",
+        "codec": "AAC",
+        "bitrate": 130
+    },
+    {
+        "name": "3WM - Horsham - 1089 AM",
+        "stream_url": "http://worldradio.online/proxy/?q=http://wz3liw.scahw.com.au/live/3wm_128.stream/playlist.m3u8",
+        "homepage": "https://3wm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "commercial,music,news,talk",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "3YB FM - Warrnambool - 94.5 FM",
+        "stream_url": "http://wz3liw.scahw.com.au/live/3yb_128.stream/playlist.m3u8",
+        "homepage": "https://3ybfm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,news,sports,talk",
+        "codec": "AAC+",
+        "bitrate": 65
+    },
+    {
+        "name": "3YB FM - Warrnambool - 94.5 FM",
+        "stream_url": "http://worldradio.online/proxy/?q=http://wz3liw.scahw.com.au/live/3yb_128.stream/playlist.m3u8",
+        "homepage": "https://3ybfm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,commercial,news,sport,talk",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "3ZZZ - Melbourne - 92.3 FM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/3ZZZAAC.aac",
+        "homepage": "https://www.3zzz.com.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "multilingual,talk",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "3ZZZ - Melbourne - 92.3 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/3ZZZ.mp3",
+        "homepage": "https://www.3zzz.com.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "multilingual,talk",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "4BC - Brisbane - 882 AM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/4BC.mp3",
+        "homepage": "https://www.4bc.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "news,talk radio",
+        "codec": "MP3",
+        "bitrate": 96
+    },
+    {
+        "name": "4BH - Brisbane - 1116 AM",
+        "stream_url": "http://worldradio.online/proxy/?q=http://wz4liw.scahw.com.au/live/4bh_128.stream/playlist.m3u8",
+        "homepage": "https://www.4bh.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "classic hits,commercial,oldies",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "4BH - Brisbane - 1116 AM",
+        "stream_url": "http://wz4liw.scahw.com.au/live/4bh_128.stream/playlist.m3u8",
+        "homepage": "https://www.4bh.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "classic hits,oldies",
+        "codec": "AAC",
+        "bitrate": 130
+    },
+    {
+        "name": "4BU - Bundaberg - 1332 AM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BUN_4BUAAC.aac",
+        "homepage": "https://www.4bu.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,commercial",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "4BU - Bundaberg - 1332 AM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BUN_4BU.mp3",
+        "homepage": "https://www.4bu.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,commercial",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "4BU 1332 AM Classic Hits Bundaberg",
+        "stream_url": "http://www.surfmusic.de/m3u/4bu-1332-am,18581.m3u",
+        "homepage": "https://www.4bu.com.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "4CA - Cairns - 846 AM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CAAAC.aac",
+        "homepage": "https://www.4ca.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,commercial",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "4CA - Cairns - 846 AM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CA.mp3",
+        "homepage": "https://www.4ca.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,commercial",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "4CA 846 AM Far North QLD Classic Hits",
+        "stream_url": "http://www.surfmusic.de/m3u/4ca-864-am,18582.m3u",
+        "homepage": "https://www.4ca.com.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "4CC - Gladstone - 927 AM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/GLA_4CCAAC.aac",
+        "homepage": "https://www.4cc.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,commercial",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "4CC - Gladstone - 927 AM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/GLA_4CC.mp3",
+        "homepage": "https://www.4cc.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,commercial",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "4EB",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/4EB.mp3",
+        "homepage": "https://www.4eb.org.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "4EB - Brisbane - 98.1 FM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/4EBAAC.aac",
+        "homepage": "https://www.4eb.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,multilingual,variety",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "4EB - Brisbane - 98.1 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/4EB.mp3",
+        "homepage": "https://www.4eb.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,multilingual,variety",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "4K1G - Townsville - 107.1 FM (MP3)",
+        "stream_url": "http://usa4.fastcast4u.com/proxy/4k1g?mp=/stream",
+        "homepage": "https://www.4k1g.org/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,indigenous,local,variety",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "4K1G 107.1FM TATSICM Indigenous Community Radio Townsville",
+        "stream_url": "https://usa4.fastcast4u.com/proxy/4k1g?mp=/stream",
+        "homepage": "https://www.4k1g.org/",
+        "country": "Australia",
+        "language": "australian indigenous,english,torres strait creole",
+        "tags": "classic rock,comedy,education,heritage,indigenous current affairs,news",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "4MBS Classic FM - Brisbane",
+        "stream_url": "https://stream.4mbs.com.au/4mbsclassicfm",
+        "homepage": "https://www.4mbs.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "arts,brisbane,classical",
+        "codec": "AAC",
+        "bitrate": 256
+    },
+    {
+        "name": "4MK - Mackay - 1026 AM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MAC_4MKAAC.aac",
+        "homepage": "https://www.4mk.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,commercial",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "4MK - Mackay - 1026 AM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MAC_4MK.mp3",
+        "homepage": "https://www.4mk.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,commercial",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "4OUR 101.5 fm",
+        "stream_url": "http://streaming.lava.net.au/au_qld_4our_caboolture1015",
+        "homepage": "https://1015fm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "country,folk",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "4RFM - Moranbah - 96.9 FM (AAC+ 320k)",
+        "stream_url": "https://stream.4rfm.com.au/1",
+        "homepage": "https://4rfm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,local,miscellaneous",
+        "codec": "AAC+",
+        "bitrate": 320
+    },
+    {
+        "name": "4RO - Rockhampton - 990 AM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ROC_4ROAAC.aac",
+        "homepage": "https://www.4ro.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,commercial",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "4RO - Rockhampton - 990 AM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ROC_4RO.mp3",
+        "homepage": "https://www.4ro.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,commercial",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "4RPH Reading Radio ",
+        "stream_url": "https://audio-edge-vqwx4.yyz.g.radiomast.io/2416c895-f32d-4faa-90a6-b2cf9212488d",
+        "homepage": "https://readingradio.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "reading,spoken word",
+        "codec": "AAC",
+        "bitrate": 40
+    },
+    {
+        "name": "4RR - Charleville - 105.7 FM (HD) (MP3)",
+        "stream_url": "http://azure.bullantcomm.com:8030/HD",
+        "homepage": "https://4rr.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,indigenous",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "4RR - Charleville - 105.7 FM (Mobile) (MP3)",
+        "stream_url": "http://azure.bullantcomm.com:8030/Mobile",
+        "homepage": "https://4rr.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,indigenous",
+        "codec": "MP3",
+        "bitrate": 32
+    },
+    {
+        "name": "4RR - Charleville - 105.7 FM (SD) (MP3)",
+        "stream_url": "http://azure.bullantcomm.com:8030/SD",
+        "homepage": "https://4rr.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,indigenous",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "4RR - Charleville - 105.7 FM (Transmission) (MP3)",
+        "stream_url": "http://azure.bullantcomm.com:8030/Transmission",
+        "homepage": "https://4rr.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,indigenous",
+        "codec": "MP3",
+        "bitrate": 256
+    },
+    {
+        "name": "4TTT-FM 103.9MHz Community Radio Townsville",
+        "stream_url": "https://onlineradiobox.com/json/au/triplet/play?platform=web%22%20streamType=%22mp3",
+        "homepage": "https://www.triplet.com.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 96
+    },
+    {
+        "name": "4YOU - Rockhampton - 98.5 FM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/4YOUAAC.aac",
+        "homepage": "https://www.4you.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,easy listening",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "4YOU - Rockhampton - 98.5 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/4YOU.mp3",
+        "homepage": "https://www.4you.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,easy listening",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "4zzz",
+        "stream_url": "https://iheart.4zzz.org.au/4zzz",
+        "homepage": "https://4zzz.org.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "brisbane,independent",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "4ZZZ Digital",
+        "stream_url": "https://iheart.4zzz.org.au/zed-digital",
+        "homepage": "https://4zzz.org.au/",
+        "country": "Australia",
+        "language": "englsih",
+        "tags": "community politics music radical",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "5 Triple Z",
+        "stream_url": "http://usa7.fastcast4u.com:5868/;",
+        "homepage": "https://5triplez.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community,youth",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "5AA",
+        "stream_url": "http://streaming.novaentertainment.com.au/fiveaa?type=.mp3",
+        "homepage": "http://www.fiveaa.com.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "news,talk",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "5EBI 103.1 FM",
+        "stream_url": "https://icecast1.myradio.click/cast2_64k.aacp",
+        "homepage": "https://5ebi.com.au/",
+        "country": "Australia",
+        "language": "multiculti",
+        "tags": "mix",
+        "codec": "AAC",
+        "bitrate": 192
+    },
+    {
+        "name": "5GTR",
+        "stream_url": "http://203.45.194.8:88/broadwave.mp3",
+        "homepage": "https://www.5gtr.net/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "blues,classical,community radio,country,jazz,metal",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "5MBS",
+        "stream_url": "https://stream.sigile.net/5mbs-128-mp3",
+        "homepage": "https://5mbs.com/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "5MBS 99.9FM (AAC 64)",
+        "stream_url": "https://stream.sigile.net/5mbs-64-aac",
+        "homepage": "https://5mbs.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adelaide,blues,classical,jazz,world music",
+        "codec": "AAC",
+        "bitrate": 64
+    },
+    {
+        "name": "5THE FM Millicent ",
+        "stream_url": "https://s6.myradiostream.com:48146/listen.mp3",
+        "homepage": "https://www.5-thefm.org/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "6DBY Larrkardi Radio",
+        "stream_url": "https://firstnationsmedia.stream/8042/stream",
+        "homepage": "https://www.6dby.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community,indigenous",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "6PR - Perth - 882 AM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/6PR.mp3",
+        "homepage": "https://www.6pr.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "news,talk radio",
+        "codec": "MP3",
+        "bitrate": 48
+    },
+    {
+        "name": "70's To 90's Hits - Melbourne (MP3)",
+        "stream_url": "http://stream.zeno.fm/9y1n4cn8dd0uv",
+        "homepage": "http://www.70sto90shits.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1970s,1980s,1990s,classic hits,hits",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "70s Classics - Sydney (MP3)",
+        "stream_url": "http://stream.zeno.fm/glsntnn7et8vv",
+        "homepage": "http://www.70sclassics.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1970s,70's,70s,70s disco,70s rock,70s rock ballads,70s soft rock,classics,hits 70's",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "774 ABC Melbourne",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/3LRW/mp3/;",
+        "homepage": "https://abc.net.au/radio/melbourne/",
+        "country": "Australia",
+        "language": "",
+        "tags": "talk & speech",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "7HO Classic Hits - Hobart (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HOCLASSICHITSAAC.aac",
+        "homepage": "https://www.7hofm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "classic hits,talk",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "7HO Classic Hits - Hobart (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HOCLASSICHITS.mp3",
+        "homepage": "https://www.7hofm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "classic hits,talk",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "7HO FM Hobart",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HO.mp3",
+        "homepage": "",
+        "country": "Australia",
+        "language": "english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "7HO River - Hobart (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HORIVERAAC.aac",
+        "homepage": "https://www.7hofm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "variety",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "7HO River - Hobart (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HORIVER.mp3",
+        "homepage": "https://www.7hofm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "variety",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "7HOFM - Hobart - 101.7 FM (AAC)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HOAAC.aac",
+        "homepage": "https://www.7hofm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,local programming,news",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "7RPH \"Print Radio Tasmania\"",
+        "stream_url": "http://165.228.181.146:88/broadwave.mp3?src=1&rate=1",
+        "homepage": "http://www.7rph.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "radio reading service",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "7WAY 105.3 Way FM - Launceston, TAS",
+        "stream_url": "https://stream2.cnmns.net/wayfm-mp3",
+        "homepage": "https://www.wayfm.org.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "christian,faith",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "80s 90s Super Pop Hits",
+        "stream_url": "https://s4.myradiostream.com:7344/listen.mp3?",
+        "homepage": "https://www.radio-australia.org/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "80s,90s,hits",
+        "codec": "AAC+",
+        "bitrate": 192
+    },
+    {
+        "name": "88.3 Southern FM",
+        "stream_url": "https://stream.swifthosting.com.au/;",
+        "homepage": "https://www.southernfm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "88.3 Southern FM - Melbourne - 88.3 FM (MP3)",
+        "stream_url": "http://stream.swifthosting.com.au/;",
+        "homepage": "https://www.southernfm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "88.5 fm",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ELLENBROOK_RADIOAAC.aac",
+        "homepage": "https://885fm.com.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "88.9 FM Richmond Valley Radio",
+        "stream_url": "http://stream.radio889.org.au:9300/listen.aac",
+        "homepage": "http://www.radio889.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio",
+        "codec": "AAC+",
+        "bitrate": 112
+    },
+    {
+        "name": "89.3 Gulf FM",
+        "stream_url": "https://stream.sigile.net/gulffm-64-aac",
+        "homepage": "https://gulffm.com.au/#",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 64
+    },
+    {
+        "name": "89.9 The Light",
+        "stream_url": "https://stream.thelight.com.au:8130/;/;stream/1",
+        "homepage": "https://thelight.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "christian,melbourne,positive",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "89.9 TheLight",
+        "stream_url": "https://stream.thelight.com.au:8130/stream/",
+        "homepage": "https://thelight.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "christian,easy listening,music,pop,positive,religious,rock",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "8CCC - Alice Springs / Tennant Creek - 102.1 FM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/8CCCAAC.aac",
+        "homepage": "https://www.8ccc.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,miscellaneous",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "8CCC - Alice Springs / Tennant Creek - 102.1 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/8CCC.mp3",
+        "homepage": "https://www.8ccc.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,miscellaneous",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "90.1 Happy Fm",
+        "stream_url": "https://stream.sigile.net/happyfm-128-mp3?1692452622660",
+        "homepage": "https://happyfm.org.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "90.1 NBC FM - Narwee - 90.1 FM (AAC)",
+        "stream_url": "https://studio.901nbcfm.com.au:8902/newstream",
+        "homepage": "https://www.901nbcfm.com.au/",
+        "country": "Australia",
+        "language": "arabic,cantonese,english,greek,macedonian,mandarin,nepali,spanish",
+        "tags": "community radio,local",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "91.1 Hot FM - Maroochydore - 91.1 FM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MAR_HOT91AAC.aac",
+        "homepage": "https://www.911hotfm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "commercial,contemporary hit radio",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "91.1 Hot FM - Maroochydore - 91.1 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MAR_HOT91.mp3",
+        "homepage": "https://www.911hotfm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "commercial,contemporary hit radio",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "917TheWave",
+        "stream_url": "https://tls3.coastdev.net/6mm-mp3",
+        "homepage": "https://www.917thewave.com.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 192
+    },
+    {
+        "name": "93.7 Edge FM Bega",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/2BARAAC.aac",
+        "homepage": "https://edgefm.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "93.9 ",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GEE_BAY939AAC.aac",
+        "homepage": "",
+        "country": "Australia",
+        "language": "",
+        "tags": "decades",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "94.1 FM - Gold Coast - 94.1 FM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/941FMAAC.aac",
+        "homepage": "https://www.941fm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,community radio,rock",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "94.1 FM - Gold Coast - 94.1 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/941FM.mp3",
+        "homepage": "https://www.941fm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,community radio,rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "94.9 Power FM - Nowra - 94.9 FM (AAC)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/NOW_POWER_FMAAC.aac",
+        "homepage": "https://www.949powerfm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "hot adult contemporary",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "94.9 Power FM - Nowra - 94.9 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/NOW_POWER_FM.mp3",
+        "homepage": "https://www.949powerfm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "hot adult contemporary",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "96.5 Inner FM - Melbourne - 96.5 FM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/3NRAAC.aac",
+        "homepage": "https://www.innerfm.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,miscellaneous",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "96five Brisbane",
+        "stream_url": "https://stream1.cnmns.net/96five",
+        "homepage": "https://www.96five.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "christian,community",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "96fm",
+        "stream_url": "https://ais-arn.streamguys1.com/au_012/playlist.m3u8",
+        "homepage": "https://www.96fm.com.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "96FM - Perth - 96.1 FM (AAC)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_96FMAAC.aac",
+        "homepage": "https://www.96fm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "active rock,mainstream rock,rock",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "96FM - Perth - 96.1 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_96FM.mp3",
+        "homepage": "https://www.96fm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "active rock,mainstream rock,rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "96three FM - Geelong, Melbourne - 96.3 FM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/3GGRAAC.aac",
+        "homepage": "https://www.96three.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "christian,community radio",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "96three FM - Geelong, Melbourne - 96.3 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/3GGR.mp3",
+        "homepage": "https://www.96three.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "christian,community radio",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "97.1 Sweet FM",
+        "stream_url": "https://falcon.shoutca.st/tunein/charlie1.pls",
+        "homepage": "https://www.sweetfm.com.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "97.3 Coast FM",
+        "stream_url": "https://tls1.coastdev.net/coast-mp3?_=370422",
+        "homepage": "https://www.coastlive.com.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 192
+    },
+    {
+        "name": "97.3fm Brisbane",
+        "stream_url": "https://ais-arn.streamguys1.com/au_011_icy",
+        "homepage": "https://www.973fm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "hot adult contemporary",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "979fm - Melton, Melbourne - 97.9 FM (AAC)",
+        "stream_url": "http://s15.myradiostream.com:12846/listen.mp3",
+        "homepage": "http://www.979fm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio",
+        "codec": "AAC",
+        "bitrate": 192
+    },
+    {
+        "name": "98.1 Power FM - Muswellbrook - 98.1 FM (AAC)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MUS_POWER_FMAAC.aac",
+        "homepage": "https://www.981powerfm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,soft rock,top 40",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "98.1 Power FM - Muswellbrook - 98.1 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MUS_POWER_FM.mp3",
+        "homepage": "https://www.981powerfm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "adult contemporary,soft rock,top 40",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "98.9 TYGA FM New Norfolk",
+        "stream_url": "https://radio12.shoutcast.net.au:2020/stream/8012",
+        "homepage": "https://www.tygafm.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "99.7 Bridge FM",
+        "stream_url": "http://provisioning.streamtheworld.com/pls/997BRIDGEFMAAC.pls",
+        "homepage": "https://997fm.com.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "99.7 Bridge FM - Redcliffe - 99.7 FM (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/997BRIDGEFMAAC.aac",
+        "homepage": "https://997fm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,rock,variety",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "99.7 Bridge FM - Redcliffe - 99.7 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/997BRIDGEFM.mp3",
+        "homepage": "https://997fm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,rock,variety",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "ABC 106.5MHz FM Mount Isa QLD Northwest Queensland Local Radio",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038355/localmtisa/masterhq.m3u8",
+        "homepage": "https://www.abc.net.au/northwest",
+        "country": "Australia",
+        "language": "english",
+        "tags": "contemporary,current affairs,local radio,news,sport,weather",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC 540kHz AM Longreach QLD Western Queensland Local Radio 20220701",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038331/locallongreach/masterhq.m3u8",
+        "homepage": "https://www.abc.net.au/westqld",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community,contemporary,current affairs,local radio,news,sport,weather",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC 612kHz AM Brisbane QLD Queensland Local Radio 20220701",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038304/localbrisbane/masterhq.m3u8",
+        "homepage": "https://www.abc.net.au/brisbane",
+        "country": "Australia",
+        "language": "english",
+        "tags": "contemporary,current affairs,local radio,news,weather",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC 702kHz AM Sydney NSW Local Radio 20220701",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038302/localsydney/masterhq.m3u8",
+        "homepage": "https://www.abc.net.au/sydney",
+        "country": "Australia",
+        "language": "english",
+        "tags": "contemporary,current affairs,local radio,news,weather",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC 801kHz AM Cairns QLD Far North Queensland Local Radio 20220701",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038337/localcairns/masterhq.m3u8",
+        "homepage": "https://www.abc.net.au/farnorth",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community,contemporary,local radio,news,weather",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC 837kHz AM Rockhampton QLD Central Queensland Local Radio 20231009",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038251/localcapricornia/masterhq.m3u8",
+        "homepage": "https://www.abc.net.au/capricornia",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community,local radio,news,sport,weather",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC A-League Live (MP3)",
+        "stream_url": "http://live-radio02.mediahubaustralia.com/IT2W/mp3/;",
+        "homepage": "https://radio.abc.net.au/stations/itinerant_two/live?play=true",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,live sports,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Ballarat Local Radio",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038263/localballarat/index.m3u8",
+        "homepage": "https://www.abc.net.au/ballarat",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC Central Coast",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038258/localcentralcoast/masterhq.m3u8",
+        "homepage": "https://www.abc.net.au/centralcoast",
+        "country": "Australia",
+        "language": "english",
+        "tags": "2bl/t,abc,abc australia,central coast,gosford,news,talk",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC Classic",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/6FMW/aac/",
+        "homepage": "",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Classic (QLD)",
+        "stream_url": "https://live-radio01.mediahubaustralia.com/4FMW/aac/",
+        "homepage": "https://www.abc.net.au/listenlive/classic",
+        "country": "Australia",
+        "language": "english",
+        "tags": "classical,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Classic 2 HLS",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038317/classic2/index.m3u8",
+        "homepage": "https://www.abc.net.au/classic",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,classical,public radio",
+        "codec": "AAC",
+        "bitrate": 238
+    },
+    {
+        "name": "ABC Classic 2 Stream (AAC)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/FM2W/aac/",
+        "homepage": "https://radio.abc.net.au/stations/classic2/live",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,classical,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Classic 2 Stream (MP3)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/FM2W/mp3/",
+        "homepage": "https://radio.abc.net.au/stations/classic2/live",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,classical,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Classic FM (AAC)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/2FMW/aac/",
+        "homepage": "http://www.abc.net.au/classic/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,classical,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Classic FM (MP3)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3",
+        "homepage": "http://www.abc.net.au/classic/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,classical,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Classic FM (SA)",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038351/classicfmsa/masterhq.m3u8",
+        "homepage": "https://www.abc.net.au/listen/classic",
+        "country": "Australia",
+        "language": "",
+        "tags": "classical,news",
+        "codec": "AAC",
+        "bitrate": 238
+    },
+    {
+        "name": "ABC Classic FM 20220701",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8",
+        "homepage": "https://www.abc.net.au/classic/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "classic,news,soundtrack,weather",
+        "codec": "AAC",
+        "bitrate": 238
+    },
+    {
+        "name": "ABC Classic HLS",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/index.m3u8",
+        "homepage": "https://www.abc.net.au/classic",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,classical,public radio",
+        "codec": "AAC",
+        "bitrate": 238
+    },
+    {
+        "name": "ABC Classic QLD HLS",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038352/classicfmqld/index.m3u8",
+        "homepage": "https://www.abc.net.au/classic",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,classical,public radio",
+        "codec": "AAC",
+        "bitrate": 238
+    },
+    {
+        "name": "ABC Classic SA HLS",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038351/classicfmsa/index.m3u8",
+        "homepage": "https://www.abc.net.au/classic",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,classical,public radio",
+        "codec": "AAC",
+        "bitrate": 238
+    },
+    {
+        "name": "ABC Coffs Coast",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038246/localcoffscoast/index.m3u8",
+        "homepage": "https://help.abc.net.au/hc/en-us/articles/4402927208079-Where-can-I-find-direct-stream-URLs-for-ABC-Radio-stations",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC Country",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/CTRW/mp3/;",
+        "homepage": "http://abc.net.au/radio/country/",
+        "country": "Australia",
+        "language": "",
+        "tags": "country",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Country (AAC)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/CTRW/aac/",
+        "homepage": "https://radio.abc.net.au/stations/country/live",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,country,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Country (MP3)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/CTRW/mp3/;*.mp3",
+        "homepage": "https://radio.abc.net.au/stations/country/live",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,country,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Country 20220701",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038322/abccountry/masterhq.m3u8",
+        "homepage": "https://www.abc.net.au/radio/country/live/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "country",
+        "codec": "AAC",
+        "bitrate": 238
+    },
+    {
+        "name": "ABC Double J (MP3)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/DJDW/mp3/",
+        "homepage": "http://doublej.net.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,jazz,pop,public radio,rock,soul,world music",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Extra (AAC)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/XTDW/aac/",
+        "homepage": "https://radio.abc.net.au/stations/extra/live",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,features,information,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Extra (MP3)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/XTDW/mp3/",
+        "homepage": "https://radio.abc.net.au/stations/extra/live",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,features,information,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Grandstand (AAC)",
+        "stream_url": "http://live-radio02.mediahubaustralia.com/GSDW/aac/;",
+        "homepage": "https://radio.abc.net.au/stations/grandstand/live",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,public radio,sport,sports news",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Grandstand (MP3)",
+        "stream_url": "http://live-radio02.mediahubaustralia.com/GSDW/mp3/;",
+        "homepage": "http://www.abc.net.au/news/sport/grandstand-radio-broadcast-schedule/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,public radio,sport,talk",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Jazz (AAC)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/JAZW/aac/",
+        "homepage": "http://abcjazz.net.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,jazz,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Jazz (MP3)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/JAZW/mp3/",
+        "homepage": "http://abcjazz.net.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,jazz,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Jazz 20220701",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038319/abcjazz/masterhq.m3u8",
+        "homepage": "https://www.abc.net.au/jazz/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "blues,jazz,smooth jazz",
+        "codec": "AAC",
+        "bitrate": 238
+    },
+    {
+        "name": "ABC Jazz HLS",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038319/abcjazz/index.m3u8",
+        "homepage": "https://www.abc.net.au/jazz",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,jazz,public radio",
+        "codec": "AAC",
+        "bitrate": 238
+    },
+    {
+        "name": "ABC Local Radio 100.7  Gippsland, VIC (MP3)",
+        "stream_url": "http://live-radio02.mediahubaustralia.com/3SALE/mp3/;",
+        "homepage": "http://www.abc.net.au/gippsland/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,information,local news,news,public radio,sale",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 105.7 Darwin, NT (AAC)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/8LRW/aac/",
+        "homepage": "http://www.abc.net.au/darwin/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,darwin,information,local news,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 105.7 Darwin, NT (MP3)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/8LRW/mp3/",
+        "homepage": "http://www.abc.net.au/darwin/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,darwin,information,local news,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 1233 Newcastle, NSW (AAC)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/2NEWW/aac/",
+        "homepage": "http://www.abc.net.au/newcastle/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,information,local news,newcastle,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 1233 Newcastle, NSW (MP3)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/2NEWW/mp3/",
+        "homepage": "http://www.abc.net.au/newcastle/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,information,local news,newcastle,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 531 South West WA",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038338/localbunbury/index.m3u8",
+        "homepage": "https://www.abc.net.au/wheatbelt",
+        "country": "Australia",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC Local Radio 540 Western Queensland, Longreach, QLD  (MP3)",
+        "stream_url": "http://live-radio02.mediahubaustralia.com/4LONW/mp3/;",
+        "homepage": "http://www.abc.net.au/westqld/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,information,local news,longreach,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 612 Brisbane (AAC)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/4LRW/aac/",
+        "homepage": "http://www.abc.net.au/radio/brisbane/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,brisbane,information,local news,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 612 Brisbane (MP3)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/4LRW/mp3/",
+        "homepage": "http://www.abc.net.au/brisbane/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,brisbane,local news,news",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 630 North Queensland 20230609",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038157-b/localnorthqld/masterhq.m3u8",
+        "homepage": "https://www.abc.net.au/northqld",
+        "country": "Australia",
+        "language": "english",
+        "tags": "local,news,sport,talk,weather",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC Local Radio 639 \"North and West\", Port Pirie, SA (MP3)",
+        "stream_url": "http://live-radio02.mediahubaustralia.com/5PIRW/mp3/;",
+        "homepage": "http://www.abc.net.au/northandwest/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,information,local news,news,port pirie,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 648 Goldfields, Kalgoorlie, WA (MP3)",
+        "stream_url": "http://live-radio02.mediahubaustralia.com/6KLGW/mp3/;",
+        "homepage": "http://www.abc.net.au/goldfields/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,information,kalgoorlie,local news,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 657 Western Plains, Dubbo, NSW (MP3)",
+        "stream_url": "http://live-radio02.mediahubaustralia.com/2DUBW/mp3/;",
+        "homepage": "http://www.abc.net.au/westernplains/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,dubbo,information,local news,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 666 Canberra (AAC)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/1LRW/aac/",
+        "homepage": "http://www.abc.net.au/radio/canberra/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,canberra,information,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 666 Canberra, ACT (MP3)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/1LRW/mp3/",
+        "homepage": "http://www.abc.net.au/radio/canberra/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,canberra,information,local news,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 675 Kimberley, WA (MP3)",
+        "stream_url": "http://live-radio02.mediahubaustralia.com/6BRMW/mp3/;",
+        "homepage": "http://www.abc.net.au/kimberley/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,information,kimberley,local news,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 684 South West WA, Busselton (MP3)",
+        "stream_url": "http://live-radio02.mediahubaustralia.com/6BUNW/mp3/;",
+        "homepage": "http://www.abc.net.au/southwestwa/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,busselton,information,local news,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 702 North West WA (MP3)",
+        "stream_url": "http://live-radio02.mediahubaustralia.com/6KARW/mp3/;",
+        "homepage": "http://www.abc.net.au/northwestwa/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,information,karratha,local news,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 702 Sydney (AAC)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/2LRW/aac/",
+        "homepage": "http://www.abc.net.au/sydney/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,information,local news,news,public radio,sydney",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 702 Sydney (MP3)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/2LRW/mp3/",
+        "homepage": "http://www.abc.net.au/radio/sydney/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,features,local news,news,public radio,sydney",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 720 Perth (AAC)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/6LRW/aac/",
+        "homepage": "http://www.abc.net.au/perth/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,local programming,news,perth,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 720 Perth, WA (MP3)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/6LRW/mp3/",
+        "homepage": "http://www.abc.net.au/perth/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,information,local news,news,perth,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 747 Southern Queensland, Toowoomba (MP3)",
+        "stream_url": "http://live-radio02.mediahubaustralia.com/4TOOW/mp3/;",
+        "homepage": "http://www.abc.net.au/southqld/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,information,local news,news,public radio,toowoomba",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 774 Melbourne (AAC)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/3LRW/aac/",
+        "homepage": "http://www.abc.net.au/radio/melbourne/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,information,local news,melbourne,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 774 Melbourne (MP3)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/3LRW/mp3/",
+        "homepage": "http://www.abc.net.au/melbourne/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,information,melbourne,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 783 Alice Springs, NT (MP3)",
+        "stream_url": "http://live-radio02.mediahubaustralia.com/8ALIW/mp3/;",
+        "homepage": "http://www.abc.net.au/alicesprings/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,alice springs,information,local news,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 801 Far North Queensland (MP3)",
+        "stream_url": "http://live-radio02.mediahubaustralia.com/4CRNW/mp3/;",
+        "homepage": "http://www.abc.net.au/farnorth/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,cairns,information,local news,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 891 Adelaide (AAC)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/5LRW/aac/",
+        "homepage": "http://www.abc.net.au/adelaide/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,adelaide,information,local news,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 891 Adelaide (MP3)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/5LRW/mp3/",
+        "homepage": "http://www.abc.net.au/adelaide/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,adelaide,information,local news,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 91.7 Gold Coast, QLD (AAC)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/4GLDW/aac/",
+        "homepage": "http://www.abc.net.au/goldcoast/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,gold coast,information,local news,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 91.7 Gold Coast, QLD (MP3)",
+        "stream_url": "http://www.abc.net.au/res/streaming/audio/mp3/local_goldcoast.pls",
+        "homepage": "http://www.abc.net.au/goldcoast/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,gold coast,information,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 91.7 Northern Tasmania - Launceston, TAS (MP3)",
+        "stream_url": "http://live-radio02.mediahubaustralia.com/7LAUW/mp3/;",
+        "homepage": "https://radio.abc.net.au/stations/local_northtas/live",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,information,launceston,local,news,northern tasmania,public",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 91.7 Northern Tasmania AAC",
+        "stream_url": "http://www.abc.net.au/res/streaming/audio/aac/local_northtas.pls",
+        "homepage": "https://radio.abc.net.au/stations/local_northtas/live",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,information,launceston,local,news,northern tasmania,public",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 936 Hobart  MP3",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/7LRW/mp3/",
+        "homepage": "https://radio.abc.net.au/stations/local_hobart/live",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,hobart,information,local,news,public",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 936 Hobart AAC",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/7LRW/aac/",
+        "homepage": "https://radio.abc.net.au/stations/local_hobart/live",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,hobart,information,local,news,public",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 97.3 Illawarra, NSW (MP3)",
+        "stream_url": "http://live-radio03.mediahubaustralia.com/2WOLW/mp3/",
+        "homepage": "https://www.abc.net.au/radio/illawarra/live/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,australia,illawarra",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Local Radio 97.7 Goulburn Murray, VIC (MP3)",
+        "stream_url": "http://live-radio02.mediahubaustralia.com/3WOD/mp3/;",
+        "homepage": "http://www.abc.net.au/goulburnmurray/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,goulburn,information,local news,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC New England North West (AAC)",
+        "stream_url": "http://live-radio03.mediahubaustralia.com/2TAMW/aac/",
+        "homepage": "https://www.abc.net.au/newengland/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC News Radio",
+        "stream_url": "http://www.abc.net.au/res/streaming/audio/aac/news_radio.pls",
+        "homepage": "https://www.abc.net.au/news/newsradio/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "news",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC News Radio MP3",
+        "stream_url": "http://www.abc.net.au/res/streaming/audio/mp3/news_radio.pls",
+        "homepage": "https://www.abc.net.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC NewsRadio",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/index.m3u8",
+        "homepage": "https://www.abc.net.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 88
+    },
+    {
+        "name": "ABC Newsradio",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/PBW/aac/",
+        "homepage": "",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC North Coast",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038170/localnorthcoast/index.m3u8",
+        "homepage": "https://www.abc.net.au/listen/live/northcoast",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC Perth",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038301/localperth/index.m3u8",
+        "homepage": "https://www.abc.net.au/listen/live/perth",
+        "country": "Australia",
+        "language": "english",
+        "tags": "variety",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC Radio Adelaide",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038298/localadelaide/index.m3u8",
+        "homepage": "https://www.abc.net.au/listen/live/adelaide",
+        "country": "Australia",
+        "language": "",
+        "tags": "news,talkback",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC Radio Australia",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038266/ramulti/masterhq.m3u8",
+        "homepage": "https://www.abc.net.au/pacific/live",
+        "country": "Australia",
+        "language": "english",
+        "tags": "news,talk",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC Radio Australia (AAC)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/RAEW/aac/",
+        "homepage": "https://www.abc.net.au/radio-australia/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "current affairs,news",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Radio Australia (MP3)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/RAEW/mp3/",
+        "homepage": "https://www.abc.net.au/radio-australia/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "current affairs,news",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Radio Canberra",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038303/localcanberra/masterhq.m3u8",
+        "homepage": "https://www.abc.net.au/listen/live/canberra",
+        "country": "Australia",
+        "language": "english",
+        "tags": "news,talk",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC Radio DARWIN",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038307/localdarwin/index.m3u8?source=web",
+        "homepage": "https://www.abc.net.au/darwin",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC Radio Hobart",
+        "stream_url": "http://www.abc.net.au/res/streaming/audio/mp3/local_hobart.pls",
+        "homepage": "https://www.abc.net.au/hobart",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Radio Melbourne",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038300/localmelbourne/masterhq.m3u8",
+        "homepage": "https://www.abc.net.au/listen/live/melbourne",
+        "country": "Australia",
+        "language": "english",
+        "tags": "news,talk",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC Radio National AAC+",
+        "stream_url": "http://www.abc.net.au/res/streaming/audio/aac/radio_national.pls",
+        "homepage": "http://www.abc.net.au/radionational/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,features,information,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Radio National HLS",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038318/rnnsw/index.m3u8",
+        "homepage": "https://www.abc.net.au/radionational",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,information,news,public radio,talk",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC Radio National Live 20220701",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038318/rnnsw/masterhq.m3u8",
+        "homepage": "https://www.abc.net.au/radionational/live/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "current affairs,news",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC Radio National MP3",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/2RNW/mp3/",
+        "homepage": "http://www.abc.net.au/radionational/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,features,information,news,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Radio National QLD HLS",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038353/rnqld/index.m3u8",
+        "homepage": "https://www.abc.net.au/radionational",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,information,news,public radio,talk",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC Radio National SA HLS",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038333/rnsa/index.m3u8",
+        "homepage": "https://www.abc.net.au/radionational",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,information,news,public radio,talk",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC Radio National WA HLS",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038354/rnwa/index.m3u8",
+        "homepage": "https://www.abc.net.au/radionational",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,information,news,public radio,talk",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC Radio Perth",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/6RNW/aac",
+        "homepage": "",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Radio Perth",
+        "stream_url": "http://www.abc.net.au/res/streaming/audio/mp3/local_perth.pls",
+        "homepage": "https://www.abc.net.au/radio/perth/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Radio South East NSW",
+        "stream_url": "http://abc.net.au/res/streaming/audio-live/shout-mp3/local_southeastnsw.pls",
+        "homepage": "http://abc.net.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Radio South West WA",
+        "stream_url": "http://www.abc.net.au/res/streaming/audio-live/shout-mp3/local_southwestwa.pls",
+        "homepage": "https://www.abc.net.au/radio/southwestwa/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Radio WIDE BAY",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038240/localwidebay/masterhq.m3u8",
+        "homepage": "https://www.abc.net.au/listen/live/widebay",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC Riverina",
+        "stream_url": "http://www.abc.net.au/res/streaming/audio-live/shout-mp3/local_riverina.pls",
+        "homepage": "https://www.abc.net.au/radio/riverina/live/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "local news,news",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC RN",
+        "stream_url": "https://live-radio01.mediahubaustralia.com/2RNW/mp3/",
+        "homepage": "https://www.abc.net.au/listen/radionational",
+        "country": "Australia",
+        "language": "",
+        "tags": "culture,history,news,politics,science",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC RN VIC",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/3RNW/mp3/;",
+        "homepage": "http://abc.net.au/radionational/",
+        "country": "Australia",
+        "language": "",
+        "tags": "news",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC South East NSW",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038247/localsoutheastnsw/masterhq.m3u8",
+        "homepage": "https://www.abc.net.au/listen/live/southeastnsw",
+        "country": "Australia",
+        "language": "english",
+        "tags": "local news,news,talk",
+        "codec": "AAC",
+        "bitrate": 94
+    },
+    {
+        "name": "ABC South West WA",
+        "stream_url": "http://www.abc.net.au/res/streaming/audio-live/shout-aac/local_southwestwa.pls",
+        "homepage": "https://www.abc.net.au/radio/southwestwa/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Sport",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/GSDW/mp3/;",
+        "homepage": "http://www.abc.net.au/sport/",
+        "country": "Australia",
+        "language": "",
+        "tags": "talk & speech",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Sunshine Coast",
+        "stream_url": "http://live-radio03.mediahubaustralia.com/4SUNW/aac/",
+        "homepage": "https://www.abc.net.au/radio/sunshine/live/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Triple J (AAC)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/2TJW/aac/",
+        "homepage": "https://www.abc.net.au/triplej",
+        "country": "Australia",
+        "language": "english",
+        "tags": "contemporary,indi,rock,youth",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Triple J (MP3)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/2TJW/mp3/;stream.nsv",
+        "homepage": "http://www.abc.net.au/triplej/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,alternative,public radio,youth programming",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Triple J (SA)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/5TJW/aac/",
+        "homepage": "http://www.abc.net.au/triplej/",
+        "country": "Australia",
+        "language": "",
+        "tags": "abc,alternative,public radio,youth programming",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Triple J (WA)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/6TJW/aac/",
+        "homepage": "https://www.abc.net.au/triplej",
+        "country": "Australia",
+        "language": "english",
+        "tags": "contemporary,indi,rock,youth",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Triple J Unearthed  (MP3)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/UNEW/mp3/",
+        "homepage": "https://www.triplejunearthed.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,indie,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Triple J Unearthed (AAC)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/UNEW/aac/",
+        "homepage": "https://www.triplejunearthed.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,indie,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "Abdulbasit Abdulsamad",
+        "stream_url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "homepage": "https://mp3islam.com/",
+        "country": "Australia",
+        "language": "arabic",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "AC/DC",
+        "stream_url": "https://stream.pcradio.ru/ac_dc-hi",
+        "homepage": "https://pcradio.ru/",
+        "country": "Australia",
+        "language": "russian",
+        "tags": "discography",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "ACBC Action - Perth (MP3)",
+        "stream_url": "http://stream.zeno.fm/31byereegavvv",
+        "homepage": "http://www.acbc.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "music",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "AHA",
+        "stream_url": "https://eu1.lhdserver.es:9121/stream",
+        "homepage": "https://eu1.lhdserver.es:9121/stream",
+        "country": "Australia",
+        "language": "english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "Albayan Radio",
+        "stream_url": "http://s9.viastreaming.net:9645/listen.mp3",
+        "homepage": "http://albayan.com.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 96
+    },
+    {
+        "name": "Alex FM - Radio Goolwa",
+        "stream_url": "https://s41.myradiostream.com/27270/;",
+        "homepage": "https://www.radiogoolwa-alexfm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community",
+        "codec": "MP3",
+        "bitrate": 96
+    },
+    {
+        "name": "Alive 90.5 - Parramatta - 90.5 FM (AAC)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2CCRAAC.aac",
+        "homepage": "https://www.alive905.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "Alive 90.5 - Parramatta - 90.5 FM (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2CCR.mp3",
+        "homepage": "https://www.alive905.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Alkarma TV Australia",
+        "stream_url": "https://5b622f07944df.streamlock.net/alkarmatv.com/alkarmaau.smil/chunklist_w377932823_b1628000_slar.m3u8",
+        "homepage": "https://en.alkarmatv.com/live/aus/",
+        "country": "Australia",
+        "language": "",
+        "tags": "christian,tv",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "All Aussie Radio",
+        "stream_url": "http://stream.radiojar.com/zp7qn145b8tvv",
+        "homepage": "https://allaussieradio.com.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "All Time Hits Party (MP3)",
+        "stream_url": "http://stream.zeno.fm/mkc0e9ymnchvv",
+        "homepage": "http://www.alltimehits.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "music",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "All Time Hits Radio - Melbourne (MP3)",
+        "stream_url": "http://149.56.175.167:5248/;",
+        "homepage": "https://djr0607.wixsite.com/athr",
+        "country": "Australia",
+        "language": "english",
+        "tags": "children,classic,comedy,dance,hits,jazz,pop,rock,talk",
+        "codec": "AAC+",
+        "bitrate": 96
+    },
+    {
+        "name": "All Time Hits Radio Christmas - Melbourne (MP3)",
+        "stream_url": "http://167.114.11.80:2044/;",
+        "homepage": "https://djr0607.wixsite.com/hitsradiochristmas",
+        "country": "Australia",
+        "language": "english",
+        "tags": "christmas music,classical,holiday,seasonal",
+        "codec": "MP3",
+        "bitrate": 96
+    },
+    {
+        "name": "All Time Hits Radio Opera - Melbourne (MP3)",
+        "stream_url": "http://stream.zeno.fm/xgplc0peqbktv",
+        "homepage": "http://www.alltimehits.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "music",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "All Time Hits Radio Worship - Melbourne (MP3)",
+        "stream_url": "http://stream.zeno.fm/7wt0pvuphs8uv",
+        "homepage": "http://www.alltimeradio.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "music",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Allhitoldies (MP3)",
+        "stream_url": "http://67.212.238.178:7086/;",
+        "homepage": "http://allhitoldies.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1950s,1960s,1970s,australian music,oldies,world music",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Alpine FM - Kiewa Valley / Ovens Valley - Mount Beauty - 96.5 FM / 92.9 FM (MP3)",
+        "stream_url": "https://stream.sigile.net/3vkv-128-mp3",
+        "homepage": "https://www.alpinefm.org.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio",
+        "codec": "MP3",
+        "bitrate": 96
+    },
+    {
+        "name": "Am  Listen radio ",
+        "stream_url": "https://stream.zeno.fm/yf5p1bya1feuv",
+        "homepage": "https://stream.zeno.fm/yf5p1bya1feuv",
+        "country": "Australia",
+        "language": "hindi",
+        "tags": "music",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Ananda Marga Kiirtan",
+        "stream_url": "https://stream-153.zeno.fm/3iueyfnlrzjuv?zs=t--lOlu3S32R12O-Mw-9Ew",
+        "homepage": "https://www.anandamarga.org.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "kiirtan,mantra,spiritual",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Andrew Haug Metal  Radio",
+        "stream_url": "http://streamer.radio.co/s6a349b3a2/listen",
+        "homepage": "https://andrewhaug.com/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Apple - Bacchus Marsh - 98.5 FM (MP3)",
+        "stream_url": "http://s23.myradiostream.com:13240/;",
+        "homepage": "https://apple985fm.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "community radio,miscellaneous",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "ArtSound FM",
+        "stream_url": "https://stream.artsound.fm/mp3",
+        "homepage": "https://artsound.fm/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "arts,blues,canberra,classical,folk,jazz,world music",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "ArtSound FM - Canberra - 92.7 FM (MP3)",
+        "stream_url": "http://stream.artsound.fm/mp3",
+        "homepage": "https://artsound.fm/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "arts,blues,classical,folk,jazz,world music",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "ASP Radio",
+        "stream_url": "https://aspradio.au/listen/asp_radio/radio.mp3",
+        "homepage": "https://aspradio.au/public/asp_radio",
+        "country": "Australia",
+        "language": "",
+        "tags": "70s 80s 90s music",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Country Radio",
+        "stream_url": "https://streaming.radio.co/s5ea3fdd1c/low",
+        "homepage": "https://www.auscountry.com.au/",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "Australian Digital Radio Network - 1930s (MP3)",
+        "stream_url": "http://abm21.com.au:8000/CONTAINER99",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1930s,oldies",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 1940s (MP3)",
+        "stream_url": "http://abm21.com.au:8000/CONTAINER100",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1940s,oldies",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 1940s Band Remotes (MP3)",
+        "stream_url": "http://abm21.com.au:8000/CONTAINER6",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1940s,oldies",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 1950s Pop Charting (MP3)",
+        "stream_url": "http://abm21.com.au:8000/CONTAINER76",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1950s,pop",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 1950s Pop Number 1s (MP3)",
+        "stream_url": "http://abm21.com.au:8000/CONTAINER75",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1950s,pop",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 1960s Alternative (MP3)",
+        "stream_url": "http://abm21.com.au:8000/CONTAINER79",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1960s,alternative",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 1960s Pop Charting (MP3)",
+        "stream_url": "http://abm21.com.au:8000/CONTAINER78",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1960s,pop",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 1960s Pop Number 1s (MP3)",
+        "stream_url": "http://abm21.com.au:8000/CONTAINER77",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1960s,pop",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 1970s Alternative (MP3)",
+        "stream_url": "http://abm21.com.au:8000/CONTAINER83",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1970s,alternative",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 1970s Pop Charting (MP3)",
+        "stream_url": "http://abm21.com.au:8000/CONTAINER82",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1970s,pop",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 1970s Pop Number 1s (MP3)",
+        "stream_url": "http://abm21.com.au:8000/CONTAINER81",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1970s,pop",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 1980s Alternative (MP3)",
+        "stream_url": "http://abm21.com.au:8000/CONTAINER87",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1980s,alternative",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 1980s Dance (MP3)",
+        "stream_url": "http://abm22.com.au:8000/CONTAINER24",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1980s,dance",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 1980s Film Music (MP3)",
+        "stream_url": "http://abm21.com.au:8000/CONTAINER12",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1980s,film music",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 1980s Hair Metal (MP3)",
+        "stream_url": "http://abm21.com.au:8000/CONTAINER16",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1980s,hair metal",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 1980s Pop Charting (MP3)",
+        "stream_url": "http://abm21.com.au:8000/CONTAINER86",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1980s,pop",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 1980s Pop Number 1s (MP3)",
+        "stream_url": "http://abm21.com.au:8000/CONTAINER85",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1980s,pop",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 1990s Alternative (MP3)",
+        "stream_url": "http://abm21.com.au:8000/CONTAINER91",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1990s,alternative",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 1990s Dance (MP3)",
+        "stream_url": "http://abm22.com.au:8000/CONTAINER41",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1990s,dance",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 1990s Pop Charting (MP3)",
+        "stream_url": "http://abm21.com.au:8000/CONTAINER90",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1990s,pop",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 1990s Pop Number 1s (MP3)",
+        "stream_url": "http://abm21.com.au:8000/CONTAINER89",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1990s,pop",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 2000s Noughties Dance (MP3)",
+        "stream_url": "http://abm22.com.au:8000/CONTAINER42",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "2000s,dance",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 2000s Noughties Pop Charting (MP3)",
+        "stream_url": "http://abm21.com.au:8000/CONTAINER95",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "2000s,pop",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 2000s Noughties Pop Number 1s (MP3)",
+        "stream_url": "http://abm21.com.au:8000/CONTAINER94",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "2000s,pop",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 2010s Pop Charting (MP3)",
+        "stream_url": "http://abm21.com.au:8000/CONTAINER97",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "2010s,pop",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Australian Digital Radio Network - 2010s Pop Number 1s (MP3)",
+        "stream_url": "http://abm21.com.au:8000/CONTAINER96",
+        "homepage": "http://www.australiandigitalradio.com/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "2010s,pop",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": " ABC DEPORTES 660 (MTY) - 660 AM - XEFZ-AM - Grupo Radio Alegría - Monterrey, Nuevo León",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ABC_NOTICIAS_660AMAAC.aac",
+        "homepage": "https://abcnoticias.mx/deportes",
+        "country": "Mexico",
+        "language": "spanish",
+        "tags": "660 am,92.1 fm,abc deportes,américa,apodaca,clásicos en inglés,combo,deporte,deportes,deportes y música,entretenimiento,español,estación,fm,general bravo,general escobedo,grupo abc,grupo radio alegría,guadalupe,latinoamérica,live sports,moi merino,monterrey,mty,méxico,música en inglés,norteamérica,nuevo león,pop en inglés,radio,rock en inglés,san nicolás de los garza,sport,sports,sports news,sports talk",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": " ABC NOTICIAS 1310 (MTY) - 1310 AM - XEVB-AM - Grupo Radio Alegría - Monterrey, Nuevo León",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/REGIONAL_MEXICANA_570AMAAC.aac",
+        "homepage": "http://abcnoticias.mx/",
+        "country": "Mexico",
+        "language": "spanish",
+        "tags": "1310 am,abc noticias,adult contemporary,adult hits,am,américa,classic hits,classics,clásicos,clásicos en inglés,entretenimiento,español,estación,grupo abc,grupo radio alegría,latinoamérica,moi merino,monterrey,mty,méxico,música,música del recuerdo,música en inglés,música pop,música y noticias,norteamérica,noticias,noticias cortas,noticias en español,noticias locales,noticias nacionales e internacionales,noticias y comentarios,nuevo león,oldies,pop,pop en inglés,pop music,radio,retro",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": " RADIO CAÑÓN 760 (CDMX) - 760 AM - XEABC-AM - Grupo Radio Cañón - Ciudad de México",
+        "stream_url": "https://streamingcwsradio30.com/8292/stream",
+        "homepage": "https://radiocanon.com.mx/estaciones/radio-canon-760/",
+        "country": "Mexico",
+        "language": "spanish",
+        "tags": "760 am,am,américa,cdmx,ciudad de méxico,entretenimiento,estación,grupo radio cañón,latinoamérica,mexico city,moi merino,music,méxico,música,música del recuerdo,música en español,música pop,música variada,música y noticias,norteamérica,noticias,noticias en español,noticias nacionales e internacionales,pop,pop en español,pop music,pop rock,radio,radio cañón,valle de méxico",
+        "codec": "MP3",
+        "bitrate": 160
+    },
+    {
+        "name": " VOX FM Radio Hits 95.9 (GDL) - 95.9 FM - XHABCJ-FM - Grupo Radio Cañón - Guadalajara, Jalisco",
+        "stream_url": "https://streaming.servicioswebmx.com/8272/stream",
+        "homepage": "https://radiocanon.com.mx/estaciones/",
+        "country": "Mexico",
+        "language": "spanish",
+        "tags": "95.9 fm,américa,entretenimiento,español,estación,fm,gdl,grupo radio cañón,guadalajara,jalisco,latinoamérica,moi merino,music,méxico,música,música del recuerdo,música en español e inglés,música pop,norteamérica,ntr medios de comunicación,pop,pop en español e inglés,pop music,pop rock,radio,radiópolis,star group,vox,vox fm,vox radio hits",
+        "codec": "MP3",
+        "bitrate": 160
+    },
+    {
+        "name": "ABC 100.1 ",
+        "stream_url": "https://streaming.rcs.com.sv/proxy/abc/stream",
+        "homepage": "https://radiocorporacionelsalvador.com/",
+        "country": "El Salvador",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "ABC 11",
+        "stream_url": "https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8",
+        "homepage": "https://abc11.com/watch/live/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+,H.264",
+        "bitrate": 1899
+    },
+    {
+        "name": "ABC Cardinal 730AM",
+        "stream_url": "http://media.streambrothers.com:18342/stream",
+        "homepage": "https://www.abc.com.py/",
+        "country": "Paraguay",
+        "language": "spanish",
+        "tags": "news",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "Triple J",
+        "stream_url": "http://www.abc.net.au/res/streaming/audio/aac/triplej.pls",
+        "homepage": "http://www.abc.net.au/triplej/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "triple j (NSW)",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/master.m3u8",
+        "homepage": "https://triplej.net.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "dance,hip-hop,metal,pop,rock",
+        "codec": "AAC",
+        "bitrate": 238
+    },
+    {
+        "name": "Triple J (QLD)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/4TJW/mp3/",
+        "homepage": "https://www.abc.net.au/triplej/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "alternative,indie,local radio,pop",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "Triple j Hottest",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2100183/triplejhottest/masterhq.m3u8",
+        "homepage": "https://www.abc.net.au/triplejhottest",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 238
+    }
+]

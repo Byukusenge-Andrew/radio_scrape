@@ -1,0 +1,4622 @@
+[
+    {
+        "name": " Techno - FM - Channel",
+        "stream_url": "https://stream.techno.fm/radio1-320k.mp3",
+        "homepage": "https://techno.fm/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "techno",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": ". Abdulbasit Abdulsamad",
+        "stream_url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "homepage": "https://mp3islam.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "arabic",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": ".. Al quran radio ",
+        "stream_url": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+        "homepage": "",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "classical",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "10 Radio 105.3 - Wiveliscombe",
+        "stream_url": "http://live.canstream.co.uk:8000/10radio.mp3",
+        "homepage": "http://10radio.org/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "community radio,somerset,wivelliscombe",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "100 hitz",
+        "stream_url": "http://206.217.213.235:8290/",
+        "homepage": "http://206.217.213.235:8290/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "100.8 Home Radio",
+        "stream_url": "https://uksoutha.streaming.broadcast.radio/home?1721747577077=",
+        "homepage": "https://www.homeradio.org/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "100% Hip Hop | NTS",
+        "stream_url": "https://stream-mixtape-geo.ntslive.net/mixtape2",
+        "homepage": "https://www.nts.live/infinite-mixtapes/100-percent-hip-hop",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "hip-hop",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "100% Whatever Westcountry",
+        "stream_url": "https://dh1-sanityradio.radioca.st/stream",
+        "homepage": "https://whateverwestcountry.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "101.8 WCR FM",
+        "stream_url": "https://stream3.themediasite.co.uk:8312/stream?_=580911",
+        "homepage": "https://www.wcrfm.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "103 The Eye",
+        "stream_url": "http://www.103theeye.co.uk/listen.m3u",
+        "homepage": "http://www.103theeye.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "105.9 Academy FM (Folkestone)",
+        "stream_url": "http://s2.xrad.io:8080/stream",
+        "homepage": "https://www.academyfmfolkestone.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "106.9 SFM",
+        "stream_url": "https://streaming05.liveboxstream.uk/proxy/sittingb?mp=/stream",
+        "homepage": "https://www.sfmradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "107.8 Black Diamond FM",
+        "stream_url": "https://icecast-s.bdfm.radio/blackdiamondfm?icecast",
+        "homepage": "https://www.blackdiamondfm.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "107.8,107.8 fm,country,music,regge,reggeton,rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "107.8 Radio Jackie",
+        "stream_url": "https://media.radiojackie.com/redirector/livestream.m3u8",
+        "homepage": "https://radiojackie.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "107FM",
+        "stream_url": "http://88.99.195.180:8031/stream",
+        "homepage": "https://107fm.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "community",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "121 Radio",
+        "stream_url": "http://ukwesta.streaming.broadcast.radio:10650/121radio.m3u",
+        "homepage": "https://121radio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "british english,english uk",
+        "tags": "adult contemporary,oldies",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "1940s Radio - Home Service - UK 1940s 1950s (Pumpkin FM OTRN)",
+        "stream_url": "https://cast2.asurahosting.com/proxy/1940sradio/stream",
+        "homepage": "https://1940sradio.stream/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "1940s Radio Station",
+        "stream_url": "https://control.internet-radio.com:2199/tunein/1940sradio.pls",
+        "homepage": "https://1940sradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "1940sRadio",
+        "stream_url": "http://uk3.internet-radio.com:8082/live.m3u",
+        "homepage": "https://1940sradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "big band,crooners,jazz,music from the 1940s",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "1BTN",
+        "stream_url": "https://edge.clrmedia.co.uk/obfm_mp3",
+        "homepage": "https://1btn.fm/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english uk",
+        "tags": "electronic,funk,house,reggae,soul",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "1Mix EDM Radio",
+        "stream_url": "http://fr1.1mix.co.uk:8060/",
+        "homepage": "http://www.1mix.co.uk/edm-home",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "edm,trance",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "1Mix Radio - EDM (UK) 128kb mp3",
+        "stream_url": "http://fr2.1mix.co.uk:9000/128h",
+        "homepage": "https://www.1mix.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "edm",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "1Mix Radio - EDM (UK) 192kb mp3",
+        "stream_url": "http://fr2.1mix.co.uk:9000/192h",
+        "homepage": "https://www.1mix.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "edm",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "1Mix Radio - EDM (UK) 320kb mp3",
+        "stream_url": "http://fr2.1mix.co.uk:9000/320h",
+        "homepage": "https://www.1mix.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "edm",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "1Mix Radio - EDM (UK) 32kb aac+",
+        "stream_url": "http://fr2.1mix.co.uk:9000/aach",
+        "homepage": "https://www.1mix.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "edm",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "1Mix Radio - House (UK) 128kb mp3",
+        "stream_url": "http://fr2.1mix.co.uk:9000/128hb",
+        "homepage": "https://www.1mix.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "house",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "1Mix Radio - House (UK) 192kb mp3",
+        "stream_url": "http://fr2.1mix.co.uk:9000/192hb",
+        "homepage": "https://www.1mix.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "house",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "1Mix Radio - House (UK) 320kb mp3",
+        "stream_url": "http://fr2.1mix.co.uk:9000/320hb",
+        "homepage": "https://www.1mix.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "house",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "1Mix Radio - House (UK) 32kb aac+",
+        "stream_url": "http://fr2.1mix.co.uk:9000/aachb",
+        "homepage": "https://www.1mix.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "house",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "1Mix Radio - Trance (UK) 128kb mp3",
+        "stream_url": "http://fr2.1mix.co.uk:9000/128b",
+        "homepage": "https://www.1mix.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "trance",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "1Mix Radio - Trance (UK) 192kb mp3",
+        "stream_url": "http://fr2.1mix.co.uk:9000/192b",
+        "homepage": "https://www.1mix.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "trance",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "1Mix Radio - Trance (UK) 320kb mp3",
+        "stream_url": "http://fr2.1mix.co.uk:9000/320b",
+        "homepage": "https://www.1mix.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "trance",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "1Mix Radio - Trance (UK) 32kb aac+",
+        "stream_url": "http://fr2.1mix.co.uk:9000/aacb",
+        "homepage": "https://www.1mix.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "trance",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "1Mix Radio - Trance #1 (UK) 128kb mp3",
+        "stream_url": "http://fr2.1mix.co.uk:9000/128",
+        "homepage": "https://www.1mix.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "trance",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "1Mix Radio - Trance #1 (UK) 192kb mp3",
+        "stream_url": "http://fr2.1mix.co.uk:9000/192",
+        "homepage": "https://www.1mix.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "trance",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "1Mix Radio - Trance #1 (UK) 320kb mp3",
+        "stream_url": "http://fr2.1mix.co.uk:9000/320",
+        "homepage": "https://www.1mix.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "trance",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "1Mix Radio - Trance #1 (UK) 32kb aac+",
+        "stream_url": "http://fr2.1mix.co.uk:9000/aac",
+        "homepage": "https://www.1mix.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "trance",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "1Mix Radio Trance",
+        "stream_url": "http://fr2.1mix.co.uk:8060/320",
+        "homepage": "https://www.1mix.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "1Mix Radio Trance",
+        "stream_url": "http://1mix.co.uk/trance/listenh.m3u",
+        "homepage": "http://www.1mix.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "club,trance",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "24 Horas Rádio",
+        "stream_url": "http://94.23.159.187:9958/;stream.mp3",
+        "homepage": "http://www.24horasradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "portuguese",
+        "tags": "gospel,religion,variety",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "24-7 Decades",
+        "stream_url": "https://antares.dribbcast.com:2199/tunein/s8120.pls",
+        "homepage": "https://24-7nicheradio.com/audiogallery/24-7-decades/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "decades",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "24-7 Disco",
+        "stream_url": "https://antares.dribbcast.com/proxy/s8190/stream",
+        "homepage": "https://24-7nicheradio.com/audiogallery/24-7-disco/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "24-7 Dreamboats And Petticoats",
+        "stream_url": "https://antares.dribbcast.com:2199/tunein/s8100.pls",
+        "homepage": "https://24-7nicheradio.com/audiogallery/24-7-dreamsboats/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "dreamboats and petticoats",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "24-7 Just Rock",
+        "stream_url": "https://antares.dribbcast.com:2199/tunein/s8170.pls",
+        "homepage": "https://24-7nicheradio.com/audiogallery/24-7-hardrock/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "just rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "24-7 Legends",
+        "stream_url": "https://antares.dribbcast.com:2199/tunein/s8160.pls",
+        "homepage": "https://24-7nicheradio.com/audiogallery/24-7-psychedelic-2/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "24-7 Legends Classic Rock",
+        "stream_url": "https://antares.dribbcast.com:2199/tunein/s8180.pls",
+        "homepage": "https://24-7nicheradio.com/audiogallery/24-7-classic-rocks/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "legends classic rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "24-7 Motown",
+        "stream_url": "https://antares.dribbcast.com:2199/tunein/s8110.pls",
+        "homepage": "https://24-7nicheradio.com/audiogallery/24-7-motown/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "motown",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "24-7 Party",
+        "stream_url": "https://antares.dribbcast.com:2199/tunein/s8240.pls",
+        "homepage": "https://24-7nicheradio.com/audiogallery/24-7-party/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "party",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "24-7 Psychedelic Rock",
+        "stream_url": "https://antares.dribbcast.com:2199/tunein/s8150.pls",
+        "homepage": "https://24-7nicheradio.com/audiogallery/24-7-psychedelic/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "psychedelic rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "24-7 Reggae",
+        "stream_url": "https://antares.dribbcast.com:2199/tunein/s8200.pls",
+        "homepage": "https://24-7nicheradio.com/audiogallery/24-7-reggae/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "reggae",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "24-7 Rock ‘n’ Roll",
+        "stream_url": "https://antares.dribbcast.com:2199/tunein/s8130.pls",
+        "homepage": "https://24-7nicheradio.com/audiogallery/24-7-rock-n-roll/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "rock ‘n’ roll",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "24-7 Soul",
+        "stream_url": "https://antares.dribbcast.com:2199/tunein/s8300.pls",
+        "homepage": "https://24-7nicheradio.com/audiogallery/24-7-soul/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "soul",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "24-7 The ’60s",
+        "stream_url": "https://antares.dribbcast.com:2199/tunein/s8220.pls",
+        "homepage": "https://24-7nicheradio.com/audiogallery/24-7-the-60s/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "24-7 The 70s",
+        "stream_url": "https://antares.dribbcast.com:2199/tunein/s8260.pls",
+        "homepage": "https://24-7nicheradio.com/audiogallery/24-7-the-70s/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "the 70s",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "24/7 Blues Radio",
+        "stream_url": "https://ec3.yesstreaming.net:3685/stream",
+        "homepage": "https://www.247onlineradio.com/24-7-online-radio-group-stations/24-7-blues-radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "blues",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "24/7 Bossa Nova Radio",
+        "stream_url": "https://ec6.yesstreaming.net:1605/stream",
+        "homepage": "https://www.247onlineradio.com/24-7-online-radio-group-stations/24-7-bossa-nova-radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "bossa nova,smooth jazz",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "24/7 Cafe Radio",
+        "stream_url": "https://ec6.yesstreaming.net:1555/stream",
+        "homepage": "https://www.247caferadio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "24/7 Chill Radio",
+        "stream_url": "https://ec3.yesstreaming.net:3665/stream",
+        "homepage": "https://www.247onlineradio.com/24-7-online-radio-group-stations/24-7-chill-radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "24/7 Classical Radio",
+        "stream_url": "https://ec3.yesstreaming.net:3615/stream",
+        "homepage": "https://www.247onlineradio.com/classical-radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "24/7 Country Walks Radio",
+        "stream_url": "https://ec6.yesstreaming.net:1585/stream",
+        "homepage": "https://www.247onlineradio.com/24-7-online-radio-group-stations/24-7-country-walks-radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "environnement,meditation,nature,relaxation",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "24/7 EDM Radio",
+        "stream_url": "https://ec6.yesstreaming.net:1455/stream",
+        "homepage": "https://www.247onlineradio.com/24-7-edm-radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "edm,electronic dance music",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "24/7 Jazz Radio",
+        "stream_url": "https://ec3.yesstreaming.net:3455/stream",
+        "homepage": "https://www.247onlineradio.com/24-7-jazz-radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "jazz",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "24/7 Lofi Radio",
+        "stream_url": "https://ec3.yesstreaming.net:3755/stream",
+        "homepage": "https://www.247lofiradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "24/7 London Radio - Royalty Free Music",
+        "stream_url": "https://ec3.yesstreaming.net:3645/stream",
+        "homepage": "https://www.247londonradio.com/royalty-free-music/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "24/7,free,london,royalty free",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "24/7 Nature Radio",
+        "stream_url": "https://ec3.yesstreaming.net:3545/stream",
+        "homepage": "https://www.247natureradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "environment,nature",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "24/7 Online Radio",
+        "stream_url": "https://ec3.yesstreaming.net:3585/stream",
+        "homepage": "https://www.247onlineradio.com/24-7-online-radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "chillout,easy listening,independent artists,lounge",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "24/7 Restaurant Radio",
+        "stream_url": "https://ec6.yesstreaming.net:1655/stream",
+        "homepage": "https://www.247restaurantradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "24/7 SciFi Radio",
+        "stream_url": "https://ec6.yesstreaming.net:1465/stream",
+        "homepage": "https://www.247onlineradio.com/24-7-online-radio-group-stations/24-7-scifi-radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "ambient,new age,sci-fi",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "24/7 Seawaves Radio",
+        "stream_url": "https://ec6.yesstreaming.net:1505/stream",
+        "homepage": "https://www.247natureradio.com/24-7-seawaves-radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "meditation,nature,relaxation,seawaves",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "24/7 Spa Radio",
+        "stream_url": "https://ec6.yesstreaming.net:2915/stream",
+        "homepage": "https://www.247sparadio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "242 RADIO",
+        "stream_url": "http://uk7.internet-radio.com:8168/stream",
+        "homepage": "http://www.242radio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "242 Radio",
+        "stream_url": "https://uk7.internet-radio.com/proxy/242radio?mp=/stream&1740815149872",
+        "homepage": "https://www.242radio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "242 Radio",
+        "stream_url": "https://uk7.internet-radio.com/proxy/242radio?mp=/stream&1705137844878",
+        "homepage": "https://www.242radio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "246 Bajan Vibes Radio",
+        "stream_url": "http://s32.myradiostream.com:6006/live",
+        "homepage": "https://246bajanvibesradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "call-in,caribbean music,discussion,hits,oldies,soca,world music",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "4 To The Floor - Infinite Mixtapes | NTS",
+        "stream_url": "https://stream-mixtape-geo.ntslive.net/mixtape5",
+        "homepage": "https://www.nts.live/infinite-mixtapes/4-to-the-floor",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "house,techno",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "45 Radio",
+        "stream_url": "https://stream1.themediasite.co.uk:7009/stream",
+        "homepage": "https://www.my45radio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "60s,70s,80s,90s",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "4Tune FM",
+        "stream_url": "https://c30.radioboss.fm:18274/stream",
+        "homepage": "https://4tunefm.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "5 Rivers radio",
+        "stream_url": "https://onlineradiobox.com/json/uk/5rivers/play?platform=web",
+        "homepage": "https://onlineradiobox.com/json/uk/5rivers/play?platform=web",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "hindi",
+        "tags": "music",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "60 North Radio",
+        "stream_url": "https://cdn1.zetcast.net/stream",
+        "homepage": "https://60north.radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "60 NORTH RADIO - FLAC",
+        "stream_url": "http://r5.zetcast.net/flac",
+        "homepage": "https://60north.radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "OGG",
+        "bitrate": 1411
+    },
+    {
+        "name": "60s Swinging Radio",
+        "stream_url": "http://s2.xrad.io:8058/listen.pls",
+        "homepage": "https://www.radio60s.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "classic hits 60s 70a 80s,israeli pop oldies,sixties",
+        "codec": "MP3",
+        "bitrate": 96
+    },
+    {
+        "name": "80s 90s",
+        "stream_url": "http://radioradio.ddns.net:8000/8090",
+        "homepage": "",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "pop",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "80s Mixtape",
+        "stream_url": "https://audio.allabout.radio/listen/80s_mixtape/stream.mp3",
+        "homepage": "https://mixtape.radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "80's,pop music",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "80s Music Station (MP3)",
+        "stream_url": "http://stream.zeno.fm/1fm38n8f74zuv",
+        "homepage": "http://www.80smusicstation.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "1980's,1980s,80's,80s",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "80s Rhythm",
+        "stream_url": "https://stream.mybroadbandradio.com/80srhythmhq/",
+        "homepage": "https://www.80srhythm.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "80s,dance,new wave,pop,rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "80s Soundtracks Radio",
+        "stream_url": "http://uk5.internet-radio.com:8256/;",
+        "homepage": "https://tunein.com/radio/80s-Soundtracks-Radio-s264062/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "80s,soundtracks",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "90.1 Hope FM",
+        "stream_url": "http://stream-hfm.tune-in.co.uk:19020/;",
+        "homepage": "https://hopefm.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "90s 2000s & More",
+        "stream_url": "https://lunar.citrus3.com:8162/stream",
+        "homepage": "https://lunar.citrus3.com:2020/public/90s2000sandmore",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "00s,10s,80s,90s,hits,pop",
+        "codec": "AAC",
+        "bitrate": 128
+    },
+    {
+        "name": "90s Hiphop",
+        "stream_url": "https://strm112.1.fm/spanishtophits_mobile_mp3?aw_0_req.gdpr=true",
+        "homepage": "https://www.1.fm/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "95.6 B Radio",
+        "stream_url": "https://stream.aiir.com/t4k624qg11kuv?_=802765",
+        "homepage": "https://www.bradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "95.6 BRFM",
+        "stream_url": "https://mediacp.nkpa.co.uk/stream/Brfm/BrfmMP3",
+        "homepage": "https://brfm.net/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 128
+    },
+    {
+        "name": "96.3 Seahaven FM",
+        "stream_url": "https://stream1.hippynet.co.uk:8107/stream?_=526570",
+        "homepage": "https://www.seahavenfm.radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 170
+    },
+    {
+        "name": "96.3 Seahaven FM",
+        "stream_url": "https://stream1.hippynet.co.uk:8107/stream?_=63771",
+        "homepage": "https://www.seahavenfm.radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 170
+    },
+    {
+        "name": "97 Country FM",
+        "stream_url": "https://vistaradio.streamb.live/SB00040?=&&___cb=491767877535127",
+        "homepage": "https://www.myprincegeorgenow.com/on-air/countryfm/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 57
+    },
+    {
+        "name": "Aah Classical Radio - Bach",
+        "stream_url": "http://hearme.fm:10001/stream",
+        "homepage": "http://classical.aahradio.com/channel/bach/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "classical",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Aaja Radio | Channel 1",
+        "stream_url": "https://aaja.radiocult.fm/stream",
+        "homepage": "https://aajamusic.com/radio",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "music,variety,eclectic",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Aaja Radio | Channel 2",
+        "stream_url": "https://aaja-2.radiocult.fm/stream",
+        "homepage": "https://aajamusic.com/radio",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "music,variety,eclectic",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Abbey104",
+        "stream_url": "http://streaming04.liveboxstream.uk:8051/;",
+        "homepage": "https://www.abbey104.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 256
+    },
+    {
+        "name": "ABC Oldies Radio",
+        "stream_url": "https://carina.streamerr.co/stream/abcoldiesradio",
+        "homepage": "https://abcoldies.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "Absolute 00s",
+        "stream_url": "https://edge-bauerall-01-gos2.sharp-stream.com/absolute00shigh.aac",
+        "homepage": "https://planetradio.co.uk/absolute-radio-00s/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "00s",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "Absolute 10s",
+        "stream_url": "https://edge-bauerall-01-gos2.sharp-stream.com/absolute10shigh.aac",
+        "homepage": "https://planetradio.co.uk/absolute-radio-10s/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "10s",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "Absolute 20s",
+        "stream_url": "https://edge-bauerall-01-gos2.sharp-stream.com/webcast3high.aac",
+        "homepage": "https://planetradio.co.uk/absolute-radio-20s/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "20s",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "Absolute 70s",
+        "stream_url": "https://edge-bauerall-01-gos2.sharp-stream.com/absolute70shigh.aac",
+        "homepage": "https://planetradio.co.uk/absolute-radio-70s/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "70s",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "Absolute 80's",
+        "stream_url": "https://edge-bauerall-01-gos2.sharp-stream.com/absolute80shigh.aac",
+        "homepage": "http://planetradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "Absolute 90s",
+        "stream_url": "https://edge-bauerall-01-gos2.sharp-stream.com/absolute90shigh.aac",
+        "homepage": "https://planetradio.co.uk/absolute-radio-90s/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "90s",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "Absolute Classic Rock",
+        "stream_url": "https://edge-bauerall-01-gos2.sharp-stream.com/absoluteclassicrockhigh.aac",
+        "homepage": "https://planetradio.co.uk/absolute-classic-rock/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "classic rock",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "Absolute Radio",
+        "stream_url": "https://edge-bauerall-01-gos2.sharp-stream.com/absoluteradio.aac",
+        "homepage": "https://hellorayo.co.uk/absolute-radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "Absolute Radio Country",
+        "stream_url": "https://edge-bauerall-01-gos2.sharp-stream.com/absolutecountry.aac",
+        "homepage": "https://planetradio.co.uk/absolute-radio-country/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "country",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "absolute uk",
+        "stream_url": "http://edge-bauerall-03-gos2.sharp-stream.com/absoluteradiohigh.aac?aw_0_1st.skey=1713346269&aw_0_1st.playerid=BMUK_RPi",
+        "homepage": "https://planetradio.co.uk/absolute-radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english uk",
+        "tags": "rock",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "Academy FM Folkestone",
+        "stream_url": "https://s2.xrad.io:9480/;stream/1",
+        "homepage": "https://www.radiofolkestone.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "Access Radio 64K",
+        "stream_url": "http://uk1.streamingpulse.com:7034/128kmp3",
+        "homepage": "https://www.accessradio.biz/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "music,pop,rock,top 40",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Ace Cafe Radio",
+        "stream_url": "https://listen.radioking.com/radio/69079/stream/106852",
+        "homepage": "https://acecafe.com/ace-cafe-radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Ace Cafe Radio",
+        "stream_url": "https://www.radioking.com/play/ace-cafe",
+        "homepage": "https://www.acecaferadio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Actual Radio",
+        "stream_url": "https://securestreams.autopo.st:1174/;",
+        "homepage": "https://actualradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "80s,classic hits,oldies",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Air Gay Radio",
+        "stream_url": "https://ecmanager.pro-fhi.net:2655/stream",
+        "homepage": "https://www.airgayradio.net/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 64
+    },
+    {
+        "name": "Air3 Radio",
+        "stream_url": "https://streams.radio.co/s7863dad8e/listen",
+        "homepage": "https://www.air3radio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "student radio,variety",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "AJK Radio",
+        "stream_url": "https://solid41.streamupsolutions.com/proxy/wzbznkee/stream",
+        "homepage": "https://ajkradio.net/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "eclectic",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "Alfred",
+        "stream_url": "https://stream2.hippynet.co.uk:8204/stream.m3u",
+        "homepage": "https://thisisalfred.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "community news",
+        "codec": "MP3",
+        "bitrate": 160
+    },
+    {
+        "name": "Alive Radio 107.3",
+        "stream_url": "http://stream2.hippynet.co.uk:8013/;",
+        "homepage": "https://aliveradio.net/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "dance,hits,pop,rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "All FM",
+        "stream_url": "http://uksoutha.streaming.broadcast.radio:15870/allfm.m3u",
+        "homepage": "https://allfm.org/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english uk",
+        "tags": "community,music",
+        "codec": "AAC+",
+        "bitrate": 0
+    },
+    {
+        "name": "ALL FM 96.9",
+        "stream_url": "http://uksoutha.streaming.broadcast.radio:15870/allfm",
+        "homepage": "https://allfm.org/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "community radio",
+        "codec": "AAC+",
+        "bitrate": 0
+    },
+    {
+        "name": "Alpha Wave Radio",
+        "stream_url": "https://listentomystream.com:8068/stream",
+        "homepage": "https://www.alphawaveradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "Amazing Radio",
+        "stream_url": "http://amazingradio.stream.laut.fm/amazingradio?t302=2023-11-01_18-04-38&uuid=9dc21e5d-5102-400a-b0a3-acf860947777",
+        "homepage": "https://amazingradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "electronica,hip hop,indie,jazz,new music,pop,rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Amber Radio",
+        "stream_url": "https://stream3.themediasite.co.uk:8240/listen.mp3?sid=3",
+        "homepage": "https://amber.radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Amber Radio (Norwich)128k AAC",
+        "stream_url": "http://stream3.themediasite.co.uk:8240/listen.pls?sid=5",
+        "homepage": "https://amber.radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "Amber Sound FM",
+        "stream_url": "http://92.27.32.159:8400/live",
+        "homepage": "http://www.ambersoundfm.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "Ambient & Chill Radio",
+        "stream_url": "https://eilo.org/getm3u.php?m3u=ambient",
+        "homepage": "https://eilo.org/index.php",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Ambition Radio",
+        "stream_url": "http://s30.radiolize.com/radio/8060/radio.mp3",
+        "homepage": "https://ambitionradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Ambron Radio",
+        "stream_url": "https://c4.radioboss.fm:8497/stream",
+        "homepage": "https://ambronradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Ambur Radio",
+        "stream_url": "https://radio.garden/api/ara/content/listen/FEBrvDEk/channel.mp3?1743950367875",
+        "homepage": "https://amburfm.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "America's Greatest 70s Hits",
+        "stream_url": "http://hydra.cdnstream.com/1823_128",
+        "homepage": "https://www.americasgreatest70s.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "American Gold - Pumpkin FM",
+        "stream_url": "https://cast2.asurahosting.com/proxy/americangold/stream",
+        "homepage": "https://pumpkinfm.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "1940s,1950s,1960s,american,cabaret,old time radio,usa,vintage comedy",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "Anchor Radio",
+        "stream_url": "http://station.anchor.radio:8000/live192.mp3",
+        "homepage": "https://anchor.radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "british english,english",
+        "tags": "community,entertainment,mainstream,talk,top 40,top40,variety,various",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Andromeda Station",
+        "stream_url": "http://65.108.198.245:8524/stream",
+        "homepage": "https://high.rs/user?name=AndromedaStation",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 96
+    },
+    {
+        "name": "Angel Radio",
+        "stream_url": "https://edge.clrmedia.co.uk/angel_hb",
+        "homepage": "https://www.angelradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 96
+    },
+    {
+        "name": "Angel Radio",
+        "stream_url": "http://s2.xrad.io:8522/stream",
+        "homepage": "https://www.angelradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 96
+    },
+    {
+        "name": "Angel Radio (HQ)",
+        "stream_url": "http://s2.xrad.io:8522/listen.pls?sid=1",
+        "homepage": "http://angelradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "nostalgia,oldies,vintage music",
+        "codec": "MP3",
+        "bitrate": 96
+    },
+    {
+        "name": "Antenna Radio",
+        "stream_url": "http://stream.antenna.one:8296/stream",
+        "homepage": "https://antenna.rocks/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "pop music",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Apocalypse Radio",
+        "stream_url": "https://radiopanel.scoobynetworks.uk:10990/stream?type=http&nocache=28",
+        "homepage": "https://apocalypse-radio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "dance,dj remix,house,techno,trance",
+        "codec": "AAC+",
+        "bitrate": 320
+    },
+    {
+        "name": "Apple FM",
+        "stream_url": "https://s26.myradiostream.com:22089/stream",
+        "homepage": "https://www.applefm.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "classic hits,hits,news,pop,ridwan",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Arena Radio",
+        "stream_url": "https://stream3.themediasite.co.uk:8318/stream",
+        "homepage": "http://arenaradio.live/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "ARfm",
+        "stream_url": "http://108.163.245.230:9016/listen.pls",
+        "homepage": "http://arfm.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "classic rock,hard rock,heavy metal,melodic rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Armagh City Radio",
+        "stream_url": "https://acrlive.radioca.st/stream?type=http&nocache=1702573713796",
+        "homepage": "https://www.armaghcityradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Arrowe Sound",
+        "stream_url": "http://proxima.shoutca.st:8897/;",
+        "homepage": "https://arrowesound.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "pop music,pop rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Ashdown Radio",
+        "stream_url": "https://streaming.broadcast.radio/uckfieldfmmp3?_=43091",
+        "homepage": "https://www.ashdownradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Asian Star Radio",
+        "stream_url": "https://radio.canstream.co.uk:9067/live.mp3",
+        "homepage": "https://radio.canstream.co.uk:9067/live.mp3",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "hindi",
+        "tags": "music",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Atlantic 252",
+        "stream_url": "https://stream4.themediasite.co.uk:8042/Server",
+        "homepage": "https://www.atlantic252radio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english uk",
+        "tags": "adult contemporary music,hot adult contemporary",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Atlantic 252",
+        "stream_url": "https://stream4.themediasite.co.uk:8042/",
+        "homepage": "https://www.atlantic252radio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "90s,dance,hits,pop",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Atlantis",
+        "stream_url": "https://uksoutha.streaming.broadcast.radio/boss-atlantis?1704991184681=",
+        "homepage": "https://www.atlantisradio.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "60s",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "ATLANTIS",
+        "stream_url": "https://uksoutha.streaming.broadcast.radio/boss-atlantis?1731854113909=",
+        "homepage": "https://www.atlantisradio.world/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Awaz FM",
+        "stream_url": "https://uksoutha.streaming.broadcast.radio/awazfm?1709527674574=",
+        "homepage": "https://www.awazfm.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Aycliffe Radio",
+        "stream_url": "https://solid41.streamupsolutions.com/proxy/catidbxp?mp=/;type=mp3",
+        "homepage": "https://www.ayclifferadio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "local radio",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Ayr Hospital Radio",
+        "stream_url": "https://uksoutha.streaming.broadcast.radio/stream/11820/ayrhr?1699802961222=",
+        "homepage": "https://www.ayrhospitalradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Bailiwick Radio Classics",
+        "stream_url": "http://streaming.radio.co/s20224a067/listen",
+        "homepage": "http://www.bailiwickexpress.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "70s,80s,classic hits,jersey",
+        "codec": "AAC",
+        "bitrate": 192
+    },
+    {
+        "name": "Bailrigg FM",
+        "stream_url": "https://stream.bailriggfm.co.uk/listen/bfm/128.mp3",
+        "homepage": "https://bailriggfm.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Banbury FM",
+        "stream_url": "https://stream.agprohosting.com:8443/banburyfm",
+        "homepage": "https://banburyfm.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Banita Maxx Radio",
+        "stream_url": "https://stream.zeno.fm/z5artz4g2wzuv",
+        "homepage": "https://banitamaxx.pl/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english,polish",
+        "tags": "hardstyle/handsup/edm,polish,trance",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Banita Maxx Radio",
+        "stream_url": "http://91.232.4.33:9454/stream",
+        "homepage": "http://banitamaxx.pl/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "polish",
+        "tags": "dance,pop",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Bar Latina Radio",
+        "stream_url": "https://s2.citrus3.com:2000/stream/barlatinaradio",
+        "homepage": "https://www.barlatina.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "bachata,kizomba,latin,regaeton,salsa",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "Bar Latina Radio",
+        "stream_url": "https://a6.asurahosting.com/public/bar_latina_radio/playlist.pls",
+        "homepage": "https://www.barlatina.com/index",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "Bath Sound",
+        "stream_url": "https://uksoutha.streaming.broadcast.radio/bathhr",
+        "homepage": "https://bathsound.radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Bath Sound",
+        "stream_url": "https://uksoutha.streaming.broadcast.radio/bathhr?1699804261807=",
+        "homepage": "https://bathsound.radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Bay Trust Radio",
+        "stream_url": "https://baytrustradio.radioca.st/stream.m3u",
+        "homepage": "https://www.baytrustradio.org.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Bayside Radio Colwyn Bay",
+        "stream_url": "http://stream2.hippynet.co.uk:8202/;stream",
+        "homepage": "https://www.baysideradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 256
+    },
+    {
+        "name": "Bayside Radio Colwyn Bay",
+        "stream_url": "http://149.255.60.195:8021/stream",
+        "homepage": "https://www.baysideradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 256
+    },
+    {
+        "name": "bbc 2",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8",
+        "homepage": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "music",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Afrique Radio",
+        "stream_url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_afrique_radio.m3u8",
+        "homepage": "https://www.bbc.com/afrique/bbc_afrique_radio/liveradio",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english,french",
+        "tags": "africa,afrique,news,talk",
+        "codec": "AAC+",
+        "bitrate": 101
+    },
+    {
+        "name": "BBC America",
+        "stream_url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
+        "homepage": "https://www.bbc.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "documentary,interview,news",
+        "codec": "AAC",
+        "bitrate": 216
+    },
+    {
+        "name": "BBC Arabic ",
+        "stream_url": "https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio",
+        "homepage": "https://stream.live.vc.bbcmedia.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "arabic",
+        "tags": "news",
+        "codec": "MP3",
+        "bitrate": 56
+    },
+    {
+        "name": "BBC Arabic ",
+        "stream_url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+        "homepage": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "arabic",
+        "tags": "tolk",
+        "codec": "MP3",
+        "bitrate": 56
+    },
+    {
+        "name": "BBC Arabic Radio",
+        "stream_url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_arabic_radio.m3u8",
+        "homepage": "https://www.bbc.com/arabic/bbc_arabic_radio/liveradio",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "arabic,english",
+        "tags": "arabic,news,talk",
+        "codec": "AAC+",
+        "bitrate": 101
+    },
+    {
+        "name": "BBC Asian Network (128k)",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_22108647/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d128000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/asiannetwork",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "bhangra,bollywood,pop,south asian music",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC for Australasia",
+        "stream_url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_australasia",
+        "homepage": "https://bbc.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "news",
+        "codec": "MP3",
+        "bitrate": 56
+    },
+    {
+        "name": "BBC Live News (128k)",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio%3d128000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_sounds_news",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "news",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Live News (48k)",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio%3d48000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_sounds_news",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "news",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC News HD (720P)",
+        "stream_url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
+        "homepage": "https://bbc.co.uk/news",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "england,english,london,news,uk,world news",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio 1",
+        "stream_url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+        "homepage": "http://www.bbc.co.uk/radio1",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 101
+    },
+    {
+        "name": "BBC Radio 1",
+        "stream_url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_one.m3u8",
+        "homepage": "http://www.bbc.co.uk/radio1",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 101
+    },
+    {
+        "name": "BBC Radio 1 (128k)",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d128000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/radio1",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "pop",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio 1 Dance (128k)",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d128000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_one_dance",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "dance,pop",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio 1Xtra (128k)",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d128000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/1xtra",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "black music,pop",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio 2",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8",
+        "homepage": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio 2",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.m3u8",
+        "homepage": "https://www.bbc.co.uk/radio2",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio 2",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_two",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "adult contemporary music",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio 2 (128k)",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d128000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/radio2",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "adult contemporary",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio 3",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_three",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "arts,classical,culture,drama,jazz,opera,world music",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio 3",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8",
+        "homepage": "http://bbc.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english uk",
+        "tags": "",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio 3 (128k)",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/radio3",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "classical",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio 4",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=128000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "comedy,drama,news,talk",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio 4",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "comedy,drama,news,talk",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio 4",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "comedy,drama,news,talk",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio 4 Extra",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_four_extra",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "comedy,drama,entertainment",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio 4 Extra (128k)",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d128000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/radio4extra",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "comedy,drama,entertainment",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio 5 Live (128k)",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d128000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/5live",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "news,sports,talk",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio 5 Live (UK-HLS-Akamai)",
+        "stream_url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_high_sbr_v1/ak/bbc_radio_five_live.m3u8",
+        "homepage": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bbc.co.uk/sounds/play/live/bbc_radio_five_live&ved=2ahUKEwiRypK9opCMAxVHFFkFHQcwEKoQFnoECAoQAQ&usg=AOvVaw2pQgGd6LwZgQ2_ZJe_TSsQ",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 339
+    },
+    {
+        "name": "BBC Radio 6 Music",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_6music",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "alternative,blues,dance,eclectic,electronic,experimental,funk,grime,hip hop,house,indie,jazz,metal,pop,punk,r&b,reggae,rock,ska,soul,techno,world",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio 6 Music",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_6music",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "alternative,indie music",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio 6 Music (128k)",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d128000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/6music",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "alternative",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio Bristol",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_41858929/live/ww/bbc_radio_bristol/bbc_radio_bristol.isml/bbc_radio_bristol-audio%3d96000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/sounds/schedules/bbc_radio_bristol",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english uk",
+        "tags": "",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio Cymru (128k)",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_24792333/live/ww/bbc_radio_cymru/bbc_radio_cymru.isml/bbc_radio_cymru-audio%3d128000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/radiocymru",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "welsh",
+        "tags": "entertainment,music,news,sports,talk",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio Cymru 2 (128k)",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_98610936/live/ww/bbc_radio_cymru_2/bbc_radio_cymru_2.isml/bbc_radio_cymru_2-audio%3d128000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/radiocymru2",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "welsh",
+        "tags": "music,news",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio Devon",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_08856933/live/ww/bbc_radio_devon/bbc_radio_devon.isml/bbc_radio_devon-audio%3d96000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/sounds/play/live/bbc_radio_devon",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio Foyle (128k)",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_43178797/live/ww/bbc_radio_foyle/bbc_radio_foyle.isml/bbc_radio_foyle-audio%3d128000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/radiofoyle",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "music,news,sports,talk",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio Leeds",
+        "stream_url": "https://as-hls-ww-live.akamaized.net/pool_50115440/live/ww/bbc_radio_leeds/bbc_radio_leeds.isml/bbc_radio_leeds-audio%3d96000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/schedules/p00fzl7w",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english uk",
+        "tags": "various",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio London (128k)",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_98137350/live/ww/bbc_london/bbc_london.isml/bbc_london-audio%3d128000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/bbclondon",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "local news,local radio,london,music,sports,talk",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio London (96k nonuk)",
+        "stream_url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/ak/bbc_london.m3u8",
+        "homepage": "https://www.bbc.co.uk/bbclondon",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "local news,local radio,london,music,sports,talk",
+        "codec": "AAC+",
+        "bitrate": 101
+    },
+    {
+        "name": "BBC Radio nan Gàidheal (128k)",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_01935182/live/ww/bbc_radio_nan_gaidheal/bbc_radio_nan_gaidheal.isml/bbc_radio_nan_gaidheal-audio%3d128000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/radionangaidheal",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english,gaelic",
+        "tags": "entertainment,music,news,sports,talk",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio Northampton (Outside UK Only)",
+        "stream_url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cfs/bbc_radio_northampton.m3u8",
+        "homepage": "http://www.bbc.co.uk/radionorthampton",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "information,local,local news,news",
+        "codec": "AAC+",
+        "bitrate": 101
+    },
+    {
+        "name": "BBC Radio Northampton (UK Only)",
+        "stream_url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/pc_hd_abr_v2/cfs/bbc_radio_northampton.m3u8",
+        "homepage": "http://www.bbc.co.uk/radionorthampton",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "information,local,local news,news",
+        "codec": "AAC",
+        "bitrate": 339
+    },
+    {
+        "name": "BBC Radio Nottingham",
+        "stream_url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_nottingham.m3u8",
+        "homepage": "https://www.radio-uk.co.uk/bbc-radio-nottingham",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 101
+    },
+    {
+        "name": "BBC Radio One",
+        "stream_url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_one.m3u8",
+        "homepage": "http://www.bbc.co.uk/radio1",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 101
+    },
+    {
+        "name": "BBC Radio Scotland (128k)",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_43322914/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3d128000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/radioscotland",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "music,news,sports,talk",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio Solent",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_11685351/live/ww/bbc_radio_solent/bbc_radio_solent.isml/bbc_radio_solent-audio%3D96000.norewind.m3u8",
+        "homepage": "http://www.bbc.co.uk/radiosolent",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio Tees",
+        "stream_url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_tees.m3u8",
+        "homepage": "https://www.bbc.co.uk/radiotees/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 101
+    },
+    {
+        "name": "BBC Radio Ulster",
+        "stream_url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_ulster.m3u8",
+        "homepage": "https://www.bbc.co.uk/radioulster/on-air",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english uk",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 101
+    },
+    {
+        "name": "BBC Radio Ulster (128k)",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_31244774/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio%3d128000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/radioulster",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "music,news,sports,talk",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Radio Wales (128k)",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_97517794/live/ww/bbc_radio_wales_fm/bbc_radio_wales_fm.isml/bbc_radio_wales_fm-audio%3d128000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/radiowales",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "music,news,sports,talk",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC Somali Radio",
+        "stream_url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_somali_radio.m3u8",
+        "homepage": "https://www.bbc.com/somali/bbc_somali_radio/liveradio",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english,somali",
+        "tags": "news,somali,talk",
+        "codec": "AAC+",
+        "bitrate": 101
+    },
+    {
+        "name": "BBC tv",
+        "stream_url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service?s=1619733260&e=1619747660&h=f8bc47f18c4b24de16cf2efa7951f91d",
+        "homepage": "http://bbc.com.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "news,world news",
+        "codec": "MP3",
+        "bitrate": 56
+    },
+    {
+        "name": "BBC World News TV",
+        "stream_url": "http://ott-cdn.ucom.am/s24/04.m3u8",
+        "homepage": "http://www.bbc.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC World Service",
+        "stream_url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_world_service.m3u8",
+        "homepage": "http://bbc.com/worldserviceradio",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "news",
+        "codec": "AAC+",
+        "bitrate": 50
+    },
+    {
+        "name": "BBC World Service",
+        "stream_url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8",
+        "homepage": "https://www.bbc.co.uk/sounds/schedules/bbc_world_service",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "british english,english",
+        "tags": "current affairs,news,speech,world news",
+        "codec": "AAC+",
+        "bitrate": 101
+    },
+    {
+        "name": "BBC World Service",
+        "stream_url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia",
+        "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "news",
+        "codec": "MP3",
+        "bitrate": 56
+    },
+    {
+        "name": "BBC World Service",
+        "stream_url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+        "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "bbc",
+        "codec": "MP3",
+        "bitrate": 56
+    },
+    {
+        "name": "BBC World Service (128k)",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_87948813/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d128000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/worldserviceradio",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "news,talk",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC World Service Europe",
+        "stream_url": "http://as-hls-ww-live.akamaized.net/pool_86406537/live/ww/bbc_world_service_europe/bbc_world_service_europe.isml/bbc_world_service_europe-audio%3d320000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/schedules/p02y9rgr",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC World Service News Internet",
+        "stream_url": "http://as-hls-ww.live.cf.md.bbci.co.uk/pool_07364996/live/ww/bbc_world_service_news_internet/bbc_world_service_news_internet.isml/bbc_world_service_news_internet-audio=320000.norewind.m3u8",
+        "homepage": "https://www.bbc.co.uk/sounds/schedules/bbc_world_service",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "BBC中文电台",
+        "stream_url": "https://stream.zeno.fm/vmnqf6bplmfvv",
+        "homepage": "https://www.bbcasia.com/home",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "chinese",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "bcfm",
+        "stream_url": "https://bcfmradiomain.radioca.st/live.mp3",
+        "homepage": "https://www.bcfmradio.com/home",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Beat Geeks Radio",
+        "stream_url": "https://broadcast.shoutstream.co.uk:8050/stream",
+        "homepage": "https://beatgeeksradio.com/#5f139bdd-e5cd-420c-a57c-c7075e626746",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "Beat Route Radio ",
+        "stream_url": "https://beatrouteradio.radioca.st/autodj",
+        "homepage": "https://www.angelradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "BedlamDnB",
+        "stream_url": "http://c11.radioboss.fm:8318/stream",
+        "homepage": "http://www.bedlamdnb.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Bedrock Radio",
+        "stream_url": "https://s40.myradiostream.com:16652/bedrockradio",
+        "homepage": "https://www.bedrockradio.org.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Belfast 89",
+        "stream_url": "https://streaming.broadcast.radio/belfastfm",
+        "homepage": "https://www.belfast89.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Belfast 89 fm",
+        "stream_url": "http://mp3streaming.planetwideradio.com:9030/belfastfm",
+        "homepage": "",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "rock",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Belters Radio",
+        "stream_url": "https://uk2.internet-radio.com/proxy/belters?mp=/live",
+        "homepage": "https://www.belter-radio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "alternative,indie rock",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "Bere Island Community Radio",
+        "stream_url": "http://lyra.shoutca.st:8685/stream?fbclid=IwAR11TJ-uO01DsaCjCHyRKqBgY7e0-h0ztqRROyHBlr-AwTwxo-M2vs7uugA",
+        "homepage": "https://www.bereisland.net/radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "BEST SMOOTH JAZZ - UK",
+        "stream_url": "http://64.95.243.43:8002/listen.pls?sid=1",
+        "homepage": "http://bestsmoothjazz.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Beware! The Radio",
+        "stream_url": "https://bewaretheradio.out.airtime.pro/bewaretheradio_a",
+        "homepage": "https://bewaretheradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Beyond Radio",
+        "stream_url": "https://stream.beyondradio.co.uk/listen/web/high?_=983324",
+        "homepage": "https://www.beyondradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 192
+    },
+    {
+        "name": "Beyond Radio",
+        "stream_url": "https://stream.beyondradio.co.uk/radio/8000/high",
+        "homepage": "https://www.beyondradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 192
+    },
+    {
+        "name": "BFBS 2",
+        "stream_url": "http://icy-e-05-gos.sharp-stream.com/ssvcbfbs2.mp3",
+        "homepage": "http://www.forces.net/radio/stations/bfbs-radio-2",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "BFBS Afghanistan",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs7.aac",
+        "homepage": "https://www.bfbs.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "BFBS Aldershot",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs13.aac",
+        "homepage": "https://www.bfbs.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "BFBS Aldershot",
+        "stream_url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs13.aac",
+        "homepage": "https://radio.bfbs.com/stations/bfbs-aldershot",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "BFBS Beats",
+        "stream_url": "https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs20.aac?device=bfbs_beats",
+        "homepage": "https://www.forces.net/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "beats,bfbs,charts,electro,hits,pop dance,top",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "BFBS Blandford",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs14.aac",
+        "homepage": "https://www.bfbs.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "BFBS Brize Norton",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs25.aac",
+        "homepage": "https://www.bfbs.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "BFBS Brunei",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs10.aac",
+        "homepage": "https://www.bfbs.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "BFBS Canada",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs12.aac",
+        "homepage": "https://www.bfbs.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "BFBS Colchester",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs16.aac",
+        "homepage": "https://www.bfbs.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "BFBS Cyprus",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs8.aac",
+        "homepage": "https://www.bfbs.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "BFBS Edge",
+        "stream_url": "http://icy-e-01.sharp-stream.com/ssvcbfbs22.mp3.m3u",
+        "homepage": "https://radio.bfbs.com/stations/bfbs-edge",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "alternative,grunge,indie",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "BFBS Falkland Islands",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs6.aac",
+        "homepage": "https://www.bfbs.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "BFBS Gurkha Radio",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs3.aac",
+        "homepage": "https://about.bfbs.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "BFBS Gurkha Radio",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs3.mp3",
+        "homepage": "http://www.ssvc.com/bfbs/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "nepali",
+        "tags": "british forces",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "BFBS North Ireland",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs4.aac",
+        "homepage": "https://www.bfbs.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "BFBS Radio",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs1.aac",
+        "homepage": "https://www.bfbs.com/radio/online/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "BFBS Radio 2",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs2.aac",
+        "homepage": "https://www.bfbs.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "BFBS Rewind",
+        "stream_url": "http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs21.aac&device=bfbs_rewind",
+        "homepage": "https://www.forces.net/radio/stations/bfbs-rewind",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "bfbs,british forces,uk,united kingdom",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "BFBS Salisbury Plain",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs17.aac",
+        "homepage": "https://www.bfbs.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "BFBS Scotland",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs18.aac",
+        "homepage": "https://www.bfbs.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "BFBS UK",
+        "stream_url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.aac",
+        "homepage": "https://radio.bfbs.com/stations/bfbs-uk",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "BFBS UK",
+        "stream_url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs1.mp3",
+        "homepage": "http://www.bfbs.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "BHBN Radio",
+        "stream_url": "https://uksoutha.streaming.broadcast.radio/stream/9400/BHBN?1699801420380=",
+        "homepage": "https://www.bhbn.net/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "Bhcr Brighton Hove Community Radio",
+        "stream_url": "http://80.85.84.114:8072/listen.pls",
+        "homepage": "https://bhcr.org.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "BHFR British Home Front Radio",
+        "stream_url": "https://solid24.streamupsolutions.com/proxy/mmpplqiv?mp=/;type=mp3",
+        "homepage": "http://www.bhfr.co.uk/mobile/index.html",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "BIG BARN RADIO",
+        "stream_url": "https://s2.radio.co/s04214ea9a/listen",
+        "homepage": "https://bigbarnradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "pop",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Big Beat Brighton",
+        "stream_url": "https://s4.citrus3.com:8366/stream",
+        "homepage": "https://big-beat-brighton.ueniweb.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "classic hits,oldies,pop",
+        "codec": "AAC",
+        "bitrate": 256
+    },
+    {
+        "name": "Big Beat Radio",
+        "stream_url": "http://s4.citrus3.com:8366/stream",
+        "homepage": "https://www.bigbeatbrighton.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "00s,90s,dance,indie,pop",
+        "codec": "AAC",
+        "bitrate": 256
+    },
+    {
+        "name": "Big L",
+        "stream_url": "https://s2.streamer1.com/listen/bigl/biglTEST.mp3",
+        "homepage": "https://www.bigl.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Big L 1",
+        "stream_url": "http://stream4.nsupdate.info:8100/biglh.mp3",
+        "homepage": "https://bigl.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "80's,hits 70's,motown,northern soul,oldies 50's/60's",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Big L 2",
+        "stream_url": "http://eastlondonradio.com:8100/bigl2h.mp3",
+        "homepage": "https://www.bigl2.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "70's,80's,oldies 50's/60's",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Bikers Hangout Radio",
+        "stream_url": "https://stream.radio.co/s803057ca0/listen",
+        "homepage": "https://www.bikershangout.co.uk/bikers-hangout-radio",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "billFM",
+        "stream_url": "http://onlineradiobox.com/json/uk/billfm/play",
+        "homepage": "https://onlineradiobox.com/uk/billfm/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "Birdsong Radio",
+        "stream_url": "https://a1.radio.co/s5c5da6a36/listen",
+        "homepage": "https://www.birdsong.fm/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Black Cat Radio (St Neots UK)",
+        "stream_url": "https://s5.voscast.com:9097/stream",
+        "homepage": "https://blackcatradio.org/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Black Country Radio",
+        "stream_url": "https://listen-blackcountryradio.sharp-stream.com/blackcountryradio.mp3",
+        "homepage": "https://www.blackcountryradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Black Deer Radio",
+        "stream_url": "https://uksoutha.streaming.broadcast.radio/blackdeerradio?1744088839884=",
+        "homepage": "https://blackdeerlive.com/radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Black Metal Radio",
+        "stream_url": "https://das-edge16-live365-dal02.cdnstream.com/a05584",
+        "homepage": "https://live365.com/station/BLACK-METAL-RADIO-a05584",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "BlastFM Indie Radio Station",
+        "stream_url": "https://blast-indie-radio.com:8000/live",
+        "homepage": "https://blastfmsocial.media/BlastIndie",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 256
+    },
+    {
+        "name": "BLASTRADIO.FM",
+        "stream_url": "https://sonic.onlineaudience.co.uk/8142/stream",
+        "homepage": "https://blastradio.fm/radiochannel/5991/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Blazing Star Radio",
+        "stream_url": "http://listen.blazingstarradio.com:4489/dialup.mp3",
+        "homepage": "https://www.blazingstarradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "70s,80s,classic hits,oldies",
+        "codec": "MP3",
+        "bitrate": 32
+    },
+    {
+        "name": "Bloomberg DAB Digital Radio London",
+        "stream_url": "http://bloomberg-live-prod-us-east-1.s3.amazonaws.com/rad/Channel-RAD-AWS-virginia-1/Source-RadUK-96-1_live.m3u8",
+        "homepage": "https://www.bloomberg.com/audio",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "business,business news,news",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "Bloomberg UK",
+        "stream_url": "https://bloomberg-live-prod-us-east-1.s3.amazonaws.com/rad/Channel-RAD-AWS-virginia-1/Source-RadUK-96-1_live.m3u8",
+        "homepage": "https://www.bloomberg.com/audio",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "business,news,ridwan,talk,world news",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "Bloop London Radio",
+        "stream_url": "https://radio.canstream.co.uk:8058/live.mp3",
+        "homepage": "https://blooplondon.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "electronic,house",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Bloop London Radio - live4",
+        "stream_url": "https://radio.canstream.co.uk:8058/live4.mp3",
+        "homepage": "https://blooplondon.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "electronic",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Blue-in-Green:RADIO",
+        "stream_url": "https://stream.radio.co/s9e1625f13/listen",
+        "homepage": "http://www.blueingreenradio.com/?m=1",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Blues Radio UK",
+        "stream_url": "https://bluesserver.blues-radio.co.uk/stream?nocache=275428",
+        "homepage": "https://blues-radio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "BluesRadio UK",
+        "stream_url": "https://streaming06.liveboxstream.uk/stream/david125/stream.pls",
+        "homepage": "http://www.bluesradio.co.uk/index.php",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "blues",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Bolton FM",
+        "stream_url": "https://radio.canstream.co.uk:8083/live.mp3",
+        "homepage": "https://www.boltonfm.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "british english",
+        "tags": "community,local",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Boogaloo Radio",
+        "stream_url": "https://streams.radio.co/sb88c742f0/listen",
+        "homepage": "https://boogalooradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "brit pop,indie rock",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Boom",
+        "stream_url": "http://edge-audio-03-gos2.sharp-stream.com/65_boom_radio_live_320",
+        "homepage": "https://www.boomradiouk.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english uk",
+        "tags": "oldies",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "Boom Light",
+        "stream_url": "https://listen-boomradio.sharp-stream.com/65_boom_light_128_aac",
+        "homepage": "https://www.boomradiouk.com/boom-light/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 128
+    },
+    {
+        "name": "Boom Light",
+        "stream_url": "https://listen-boomradio.sharp-stream.com/65_boom_light_128_mp3",
+        "homepage": "",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "decades",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Boom Radio",
+        "stream_url": "https://listen-boomradio.sharp-stream.com/65_boom_radio_live_128",
+        "homepage": "https://www.boomradiouk.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "oldies",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Boom Radio UK",
+        "stream_url": "https://listen-boomradio.sharp-stream.com/65_boom_radio_live_192",
+        "homepage": "https://www.boomradiouk.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 256
+    },
+    {
+        "name": "Boot Boy Radio",
+        "stream_url": "https://streaming04.liveboxstream.uk/proxy/dwain?mp=/stream",
+        "homepage": "https://bootboyradio.net/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "punk,reggae,ska,soul",
+        "codec": "AAC+",
+        "bitrate": 192
+    },
+    {
+        "name": "Bouncy Vibes Radio",
+        "stream_url": "https://bouncy-host.co.uk/radio/8000/radio.mp3",
+        "homepage": "https://bouncy-vibes.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "Box Office Radio",
+        "stream_url": "https://s2.citrus3.com:8400/stream",
+        "homepage": "https://boxofficeradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "broadway,musical,musicals,showtunes,soundtrack,soundtracks,stage,theater,theatre,west end,westend",
+        "codec": "MP3",
+        "bitrate": 256
+    },
+    {
+        "name": "Box radio dreamscapes",
+        "stream_url": "https://boxradio-edge-00.streamafrica.net/dreamscapes",
+        "homepage": "https://boxradio.net/opendata",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "box uk",
+        "stream_url": "https://boxstream.danceradiouk.com/stream",
+        "homepage": "https://boxuk.danceradiouk.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Box UK (danceradiouk.com) 128k MP3",
+        "stream_url": "http://boxstream.danceradiouk.com/stream/",
+        "homepage": "https://danceradiouk.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "80s,90s,no ads,pop,rock,top 40",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Box UK Radio",
+        "stream_url": "https://boxstream.danceradiouk.com/stream/1/stream.mp3",
+        "homepage": "https://www.danceradiouk.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Bradford Asian Radio",
+        "stream_url": "https://cast1.asurahosting.com/proxy/bradford/stream",
+        "homepage": "https://cast1.asurahosting.com/proxy/bradford/stream",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "hindi",
+        "tags": "music",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Bradley Stoke Radio",
+        "stream_url": "https://stream.galaxywebsolutions.com/proxy/bradleystokeradio?mp=/stream",
+        "homepage": "https://www.bradleystokeradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Brap.FM",
+        "stream_url": "https://radio.brap.fm:8000/radio.mp3",
+        "homepage": "https://www.brap.fm/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Break Pirates",
+        "stream_url": "http://bpstream.hostco.de:3000/",
+        "homepage": "http://breakpirates.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "classical",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Breezy Radio UK",
+        "stream_url": "http://listen-nation.sharp-stream.com/breezyradiouk.mp3?ref=RF",
+        "homepage": "",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "pop",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Brian Wall",
+        "stream_url": "https://s2.radio.co/sb0964023c/listen",
+        "homepage": "https://soulpower-radio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english uk",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Bristol Sound Webradio",
+        "stream_url": "https://thebristolsoundwebradio.stream.laut.fm/thebristolsoundwebradio",
+        "homepage": "https://bristol-sound-webradio.tumblr.com/LISTEN",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "bristol,chillout,downtempo,trip-hop,triphop",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Britain FM (MP3)",
+        "stream_url": "http://stream.zeno.fm/ty19exy5s8quv",
+        "homepage": "http://www.britainfm.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "music",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "BritAsia Radio",
+        "stream_url": "https://s4.radio.co/sfefce156f/listen",
+        "homepage": "https://britasia.tv/radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "BritCom 1",
+        "stream_url": "https://cast2.asurahosting.com/proxy/britcom1/stream",
+        "homepage": "https://pumpkinfm.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "british english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "BritCom 2 - British Comedy Radio (Pumpkin FM OTRN)",
+        "stream_url": "https://cast2.asurahosting.com/proxy/britcom2/stream",
+        "homepage": "https://britishcomedyradio.org/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "BritCom 3 - British Comedy Radio (Pumpkin FM OTRN)",
+        "stream_url": "https://cast2.asurahosting.com/proxy/britcom3/stream",
+        "homepage": "https://britishcomedyradio.org/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "British Comedy 1",
+        "stream_url": "http://streaming04.liveboxstream.uk:8077/stream",
+        "homepage": "https://rokitradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 48
+    },
+    {
+        "name": "British Comedy 2",
+        "stream_url": "http://streaming05.liveboxstream.uk:8009/stream",
+        "homepage": "https://rokitradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "comeduy",
+        "codec": "MP3",
+        "bitrate": 48
+    },
+    {
+        "name": "BRMB Radio",
+        "stream_url": "https://radio.canstream.co.uk:8147/live.mp3",
+        "homepage": "https://www.brmbradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 160
+    },
+    {
+        "name": "Brooklands Radio",
+        "stream_url": "https://stream4.hippynet.co.uk:8008/mobile?1732885887232",
+        "homepage": "https://www.brooklandsradio.co.uk/index.html",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "Brooklands Radio",
+        "stream_url": "https://stream4.hippynet.co.uk/stream/brooklandsradio",
+        "homepage": "https://www.brooklandsradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "community radio,local news,local talk,pop music",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "broradio",
+        "stream_url": "https://streaming.broadcastradio.com:8422/brorad?=&&___cb=380218828489260",
+        "homepage": "https://www.broradio.fm/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english,welsh",
+        "tags": "community radio,local news,music,welsh language",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Brown Noise Radio",
+        "stream_url": "https://uk1.internet-radio.com/proxy/brownnoise?mp=/stream;",
+        "homepage": "https://www.brownnoiseradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "BROWN STUDENT & COMMUNITY RADIO",
+        "stream_url": "https://listen.bsrlive.com/bsrmp3?1729748097161",
+        "homepage": "https://www.bsrlive.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Brum Radio - Birmingham",
+        "stream_url": "http://uk3.internet-radio.com:11168/live",
+        "homepage": "https://brumradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "alternative,independent radio",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Brumside Radio",
+        "stream_url": "https://carol.epichosts.co.uk:8442/live.mp3",
+        "homepage": "https://www.brumsideradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "BSJ",
+        "stream_url": "http://64.95.243.43:8002/stream",
+        "homepage": "https://bsj.fm/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "BSJ.FM Best Smooth Jazz",
+        "stream_url": "https://bsj.lucasmultimedia.com:8002/stream.ogg",
+        "homepage": "https://bsj.fm/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Bucks Radio",
+        "stream_url": "http://n01.radiojar.com/f6mru9artg0uv",
+        "homepage": "https://www.bucks.radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "community radio,local news,local radio",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Bucks Radio",
+        "stream_url": "https://n01.radiojar.com/f6mru9artg0uv?_=745309&rj-tok=AAABihJa1SMABODPIDh9C1t79A&rj-ttl=5",
+        "homepage": "https://www.bucks.radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Buena Vida",
+        "stream_url": "https://s4.radio.co/s69b281ac0/listen",
+        "homepage": "https://buenavida.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "community radio,multi genre",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Burgess Hill Radio",
+        "stream_url": "https://streaming.broadcastradio.com:9312/burgesshillradio",
+        "homepage": "https://www.burgesshillradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Burton Radio",
+        "stream_url": "https://s9.citrus3.com:8370/stream",
+        "homepage": "https://www.burtonradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Cabin FM",
+        "stream_url": "http://streaming06.liveboxstream.uk:8017/live",
+        "homepage": "https://www.cabin.fm/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Calder Valley Radio",
+        "stream_url": "http://ais-sa2.cdnstream1.com/2293_192.mp3?_=276155",
+        "homepage": "https://www.caldervalleyradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Calm N Chill Radio",
+        "stream_url": "https://stream.zeno.fm/yvcddifycietv.m3u",
+        "homepage": "https://zeno.fm/radio/calm-n-chill-radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Cam FM",
+        "stream_url": "https://stream.camfm.co.uk/camfm",
+        "homepage": "https://www.camfm.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Cambridge Radio",
+        "stream_url": "http://stream.cambridge105.fm/105-128s-mp3.m3u",
+        "homepage": "https://cambridge.radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "jazz,pop,rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "camfm Cambridge University Student Radio",
+        "stream_url": "http://stream.camfm.co.uk/camfm",
+        "homepage": "http://www.camfm.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "campus radio,university radio",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Canalside Radio 102.8fm",
+        "stream_url": "http://195.10.228.6:8035/canal.mp3",
+        "homepage": "https://canalsideradio.net/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Cannock Chase Radio FM",
+        "stream_url": "https://streaming.broadcast.radio/cannockchase?1712410831388=",
+        "homepage": "https://www.cannockchaseradio.co.uk/#",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Capital (Nottinghamshire)",
+        "stream_url": "https://media-ice.musicradio.com/CapitalNottinghamshireMP3",
+        "homepage": "https://www.capitalfm.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "top 40",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Capital Anthems",
+        "stream_url": "https://media-ice.musicradio.com/CapitalAnthemsMP3",
+        "homepage": "https://www.capitalfm.com/anthems/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "adult contemporary,anthems,pop",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Capital Chill",
+        "stream_url": "https://media-ssl.musicradio.com/CapitalChill",
+        "homepage": "https://capitalchill.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "chill,chilled",
+        "codec": "AAC",
+        "bitrate": 48
+    },
+    {
+        "name": "Capital Dance",
+        "stream_url": "https://icecast.thisisdax.com/CapitalDanceMP3",
+        "homepage": "https://www.capitaldance.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Capital FM (Birmingham)",
+        "stream_url": "https://media-ice.musicradio.com/CapitalBirminghamMP3",
+        "homepage": "https://tunein.com/radio/Capital-Birmingham-1022-s25008/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Capital FM AAC",
+        "stream_url": "http://ice-the.musicradio.com/Capital",
+        "homepage": "http://www.capitalfm.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "top 40",
+        "codec": "AAC",
+        "bitrate": 48
+    },
+    {
+        "name": "Capital FM Cymru",
+        "stream_url": "http://media-ice.musicradio.com/CapitalCymru",
+        "homepage": "http://www.capitalfm.com/cymru/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "welsh",
+        "tags": "bilingual,contemporary,contemporary hits,english language,welsh language",
+        "codec": "AAC",
+        "bitrate": 48
+    },
+    {
+        "name": "Capital FM Edinburgh",
+        "stream_url": "http://ice-sov.musicradio.com/CapitalEdinburghMP3",
+        "homepage": "http://www.capitalfm.com/edinburgh/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "edinburgh,pop",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Capital FM Glasgow",
+        "stream_url": "http://media-the.musicradio.com/CapitalGlasgow?amsparams=playerid:UKRP;skey:1546958702&aw_0_req.gdpr=true&aw_0_1st.playerid=UKRP&amp;aw_0_1st.ts=1546958679&nmcuid=null&aw_0_1st.nmc=%5B%22%22%5D",
+        "homepage": "https://www.capitalfm.com/glasgow/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 48
+    },
+    {
+        "name": "Capital FM London",
+        "stream_url": "https://media-ssl.musicradio.com/CapitalMP3",
+        "homepage": "https://capitalfm.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "chr,dance,hits,pop,top 40",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Capital FM London",
+        "stream_url": "http://media-ice.musicradio.com/CapitalMP3",
+        "homepage": "http://www.capitalfm.com/london/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "pop",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Capital FM Manchester",
+        "stream_url": "http://ice-the.musicradio.com/CapitalManchester",
+        "homepage": "http://www.capitalfm.com/manchester/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "manchester,pop",
+        "codec": "AAC",
+        "bitrate": 48
+    },
+    {
+        "name": "Capital FM Nottinghamshire",
+        "stream_url": "http://icecast.thisisdax.com/CapitalNottinghamshireMP3",
+        "homepage": "https://www.capitalfm.com/nottinghamshire",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "charts,english,hits,pop",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Capital FM Nottinghamshire",
+        "stream_url": "http://icecast.thisisdax.com/CapitalNottinghamshire",
+        "homepage": "https://www.capitalfm.com/nottinghamshire",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "charts,english,hits,pop",
+        "codec": "AAC",
+        "bitrate": 48
+    },
+    {
+        "name": "Capital FM South Coast 103.2",
+        "stream_url": "http://media-ice.musicradio.com/CapitalSouthCoastMP3",
+        "homepage": "http://www.capitalfm.com/southcoast/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "commercial,pop,south coast",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Capital Liverpool",
+        "stream_url": "http://media-ice.musicradio.com/CapitalLiverpoolMP3.m3u",
+        "homepage": "",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Capital UK",
+        "stream_url": "http://vis.media-ice.musicradio.com/CapitalUK",
+        "homepage": "https://www.capitalfm.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english uk",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 48
+    },
+    {
+        "name": "Capital UK",
+        "stream_url": "http://icecast.thisisdax.com/CapitalUKMP3",
+        "homepage": "https://www.capitalfm.com/digital/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "british english,english",
+        "tags": "pop",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Capital XTRA",
+        "stream_url": "http://media-the.musicradio.com/CapitalXTRALondonMP3",
+        "homepage": "https://www.capitalfm.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english uk",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Caravan Radio",
+        "stream_url": "https://stream4.themediasite.co.uk:8044/stream?_=456752",
+        "homepage": "https://www.caravanradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "pop,rock",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Care Radio",
+        "stream_url": "https://listen-careradio.sharp-stream.com/120_care_radio_128_mp3",
+        "homepage": "https://www.careradio.org/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "CareSound Radio",
+        "stream_url": "https://streaming.broadcast.radio/perth?1699803359553=",
+        "homepage": "https://caresound.radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Caribbean Super Station",
+        "stream_url": "http://95.111.251.90:8189/css909",
+        "homepage": "https://www.cbnvirginislands.com/css909fm",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Caroline coastal",
+        "stream_url": "http://s47.myradiostream.com:11564/;",
+        "homepage": "https://www.carolinecoastal.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "british english",
+        "tags": "commercial,community,dance,eclectic,funk,local radio,pop music,retro,rock,soul",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Caroline Community Radio",
+        "stream_url": "http://s47.myradiostream.com/11564/;",
+        "homepage": "https://carolinecommunityradio.co.uk/#home.html",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Caroline Flashback ",
+        "stream_url": "http://sc2.radiocaroline.net:10558/;?type=http&nocache=69242",
+        "homepage": "http://www.carolineflashback.co.uk/#home.html",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "goldies,pop rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Carousel - Forgotten 80s",
+        "stream_url": "http://solid67.streamupsolutions.com:8024/live",
+        "homepage": "https://www.onlineradiouk.co.uk/carousel-radio2",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "Castle Radio",
+        "stream_url": "https://c36.radioboss.fm:8114/stream",
+        "homepage": "https://www.castleradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "CBN-Television",
+        "stream_url": "https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8",
+        "homepage": "https://www.cbnvirginislands.com/cbn-tv",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC,H.264",
+        "bitrate": 2009
+    },
+    {
+        "name": "CDNX Radio",
+        "stream_url": "https://streaming.cdnx.co.uk/proxy/cx128mp3?mp=/stream&=&&___cb=870564735813642",
+        "homepage": "https://www.camdenmarket.com/journal/cdnx-radio",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "british english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Celtic Music Radio",
+        "stream_url": "http://stream.celticmusicradio.net:8000/celticmusic.mp3",
+        "homepage": "http://www.celticmusicradio.net/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "celtic,folk",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Celtica Radio",
+        "stream_url": "http://eu8.fastcast4u.com:5232/stream1",
+        "homepage": "https://celticaradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 160
+    },
+    {
+        "name": "Central Radio North West",
+        "stream_url": "https://stream.central.radio/listen/web/high",
+        "homepage": "https://www.central.radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Centre Force Radio",
+        "stream_url": "http://centreforce.streamgb.com:8830/320",
+        "homepage": "https://centreforceradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "hits,pop,top hits,top40",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "Centreforce",
+        "stream_url": "http://centreforce.streamgb.com:8830/listen.pls?sid=1",
+        "homepage": "https://centreforceradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "dance radio online",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "Centreforce 883",
+        "stream_url": "https://listen.centreforceradio.com/96",
+        "homepage": "https://www.centreforceradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 96
+    },
+    {
+        "name": "Centreforce 96kbps",
+        "stream_url": "http://centreforce.streamgb.com:8830/listen.pls?sid=3",
+        "homepage": "https://www.centreforceradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "CGM UKScene Sister Station",
+        "stream_url": "http://cgm-stream.noip.me:8000/mpd.m3u",
+        "homepage": "http://cgmuksceneradio-pi.noip.me/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "demoscene",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Charlie Mason Radio",
+        "stream_url": "https://s9.reliastream.com/proxy/charlie1/stream",
+        "homepage": "https://charliemasonradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "CHBN Radio",
+        "stream_url": "http://live.chbnradio.org/chbn.aac",
+        "homepage": "http://chbnradio.org/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "community radio,cornwall,hospital radio,uk,united kingdom",
+        "codec": "AAC",
+        "bitrate": 160
+    },
+    {
+        "name": "Chelmer Radio",
+        "stream_url": "https://stream.btsstream.com:8082/chelmer.aac",
+        "homepage": "http://www.chelmerradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "Chelmsford Community Radio",
+        "stream_url": "http://cast3.asurahosting.com:9577/listen.pls?sid=1",
+        "homepage": "https://www.chelmsfordcommunityradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "independent",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Chill",
+        "stream_url": "http://media-ice.musicradio.com/ChillMP3.m3u",
+        "homepage": "http://www.helpmechill.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Chillout Ibiza FM",
+        "stream_url": "https://edge3.peta.live365.net/b05055_128mp3",
+        "homepage": "http://www.chilloutibizafm.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "chillout,relaxing",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Chiltern Radio",
+        "stream_url": "https://stream2.hippynet.co.uk/stream/chilternradio/stream",
+        "homepage": "https://www.ukradio.net/chilternradio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "classic hits,heritage,local radio",
+        "codec": "AAC",
+        "bitrate": 128
+    },
+    {
+        "name": "Chiltern Voice FM",
+        "stream_url": "https://radio.entertainmenttechnologies.co.uk:8020/chilternvoice.mp3",
+        "homepage": "https://www.chilternvoice.fm/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Chocolate Radio",
+        "stream_url": "https://stream.radio.co/sa7336b687/listen?ver=712690",
+        "homepage": "https://chocolate-radio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "r&b/urban",
+        "codec": "AAC",
+        "bitrate": 192
+    },
+    {
+        "name": "Chocolate Radio",
+        "stream_url": "https://stream.radio.co/sa7336b687/low",
+        "homepage": "https://www.chocolateradio.co/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 64
+    },
+    {
+        "name": "chocolate-radio.com ",
+        "stream_url": "https://stream.radio.co/sa7336b687/listen",
+        "homepage": "https://chocolate-radio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "classic,funk,jazz,modern soul,northern,soul",
+        "codec": "AAC",
+        "bitrate": 192
+    },
+    {
+        "name": "Choice FM UK",
+        "stream_url": "https://cdn.choicefm.uk/stream;",
+        "homepage": "https://choicefm.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "CHON 98.1",
+        "stream_url": "https://stream.chonfm.com:8042/stream",
+        "homepage": "https://www.chonfm.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 73
+    },
+    {
+        "name": "Christmas Mix Radio - Newcastle upon Tyne (AAC)",
+        "stream_url": "http://stream.zeno.fm/360sf3z88e9uv",
+        "homepage": "http://www.christmasmixradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "christmas music",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "Christmas Radio (MP3)",
+        "stream_url": "http://edg1-iad-gold.streamguys1.com/christmasradio",
+        "homepage": "https://www.christmasradio.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "christmas music",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Chunt FM",
+        "stream_url": "https://fm.chunt.org/stream",
+        "homepage": "https://chunt.org/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "ambient,disco,drum and bass,house,jungle,soul,techno,trip hop,uk garage",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "Churnet Sound",
+        "stream_url": "http://eclipse.galaxywebsolutions.com:7592/stream",
+        "homepage": "https://www.churnetsound.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "community,pop,rock",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "Circl8 Radio",
+        "stream_url": "http://cheetah.streemlion.com:1680/stream",
+        "homepage": "https://www.circl8radio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "CJ Carlos",
+        "stream_url": "https://s3.radio.co/sf2bda8390/listen",
+        "homepage": "https://cjcarlosevents.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "r&b/urban",
+        "codec": "AAC",
+        "bitrate": 192
+    },
+    {
+        "name": "Classic FM",
+        "stream_url": "http://media-ice.musicradio.com/ClassicFMMP3",
+        "homepage": "https://www.classicfm.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "classic fm,classical",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Classic FM ",
+        "stream_url": "http://ice-the.musicradio.com/ClassicFMMP3",
+        "homepage": "",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "classical",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Classic FM",
+        "stream_url": "http://ice-sov.musicradio.com/ClassicFMMP3",
+        "homepage": "",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Classic FM at the Movies",
+        "stream_url": "http://media-sov.musicradio.com/ClassicFM-M-Movies",
+        "homepage": "http://classicfm.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 48
+    },
+    {
+        "name": "Classic FM Calm",
+        "stream_url": "https://media-ice.musicradio.com/ClassicFMCalmMP3",
+        "homepage": "https://www.classicfm.com/calm/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "classical,romantic",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Classic FM Essential Classical",
+        "stream_url": "https://icecast.thisisdax.com/ClassicFM-M-Essential",
+        "homepage": "https://www.classicfm.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "classical",
+        "codec": "AAC",
+        "bitrate": 48
+    },
+    {
+        "name": "Classic FM Hall of Fame",
+        "stream_url": "https://icecast.thisisdax.com/ClassicFM-M-HOF",
+        "homepage": "https://www.classicfm.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "classical",
+        "codec": "AAC",
+        "bitrate": 48
+    },
+    {
+        "name": "Classic FM HD",
+        "stream_url": "https://ice-sov.musicradio.com/ClassicFMHD?hdauth=:2000000000:a290d4b39a16153061d4c743008b9fe8d424a7e5ec6469d40acf51fdcd336e80",
+        "homepage": "https://www.classicfm.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "classical",
+        "codec": "AAC",
+        "bitrate": 192
+    },
+    {
+        "name": "Classic FM Mood Relax",
+        "stream_url": "http://media-the.musicradio.com/ClassicFM-M-Relax",
+        "homepage": "https://www.classicfm.com/discover-music/mood/relaxing/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 48
+    },
+    {
+        "name": "Classic FM Movies",
+        "stream_url": "https://media-ice.musicradio.com/ClassicFMMoviesMP3",
+        "homepage": "https://www.classicfm.com/movies/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "classical,film score,movies",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Classic FM Music For Pets",
+        "stream_url": "https://media-ssl.musicradio.com/ClassicFM-M-Pets",
+        "homepage": "https://www.classicfm.com/lifestyle/pets/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english uk",
+        "tags": "classic",
+        "codec": "AAC",
+        "bitrate": 48
+    },
+    {
+        "name": "Classic FM UK",
+        "stream_url": "http://media-the.musicradio.com/ClassicFM",
+        "homepage": "http://www.classicfm.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "classical",
+        "codec": "AAC",
+        "bitrate": 48
+    },
+    {
+        "name": "Classic FM Video Game Music",
+        "stream_url": "https://icecast.thisisdax.com/ClassicFM-M-Gaming",
+        "homepage": "https://www.classicfm.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "classical",
+        "codec": "AAC",
+        "bitrate": 48
+    },
+    {
+        "name": "Classical For StudyingA",
+        "stream_url": "http://51.68.215.9:8000/listen.pls?sid=1",
+        "homepage": "https://www.google.com/amp/s/amp.classicfm.com/discover-music/classical-studying-music-for-brain-power/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "music for study",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "Classical for Yoga",
+        "stream_url": "http://51.68.215.9:8020/",
+        "homepage": "https://www.classicfm.com/discover-music/mood/best-meditation-music/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "relaxing",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "Classical music for studying",
+        "stream_url": "http://51.68.215.9:8000/",
+        "homepage": "https://www.google.com/amp/s/amp.classicfm.com/discover-music/classical-studying-music-for-brain-power/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "music for study",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "Classical Music For Studying",
+        "stream_url": "http://51.68.215.9:8000/radio.mp3",
+        "homepage": "https://www.classicfm.com/discover-music/classical-studying-music-for-brain-power/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "classical",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "CLASSICAL RADIO INTERNATIONAL",
+        "stream_url": "https://ec3.yesstreaming.net:3625/stream",
+        "homepage": "https://www.247onlineradio.com/classical-radio-international/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "classical music",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "Club Dance Online",
+        "stream_url": "https://clubdance.online/stream.mp3",
+        "homepage": "https://clubdance.online/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "club house trance dance",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "ClubHitsUK",
+        "stream_url": "http://95.214.53.162:8000/",
+        "homepage": "https://clubhitsuk.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "anthems,charts,club dance electronic house trance,club house,dance anthems,electro house,funky house,house,non-stop old skool & anthems,old skool,uk garage",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "ClubHitsUK Variety",
+        "stream_url": "http://95.214.53.162:8010/",
+        "homepage": "https://www.clubhitsuk.co.uk/variety/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "1970s,1980s,2000's,2010s,2020s,chart,charts,christmas music,country,disco,drum & bass,funk,hits,house,pop,rock,soul,uk garage",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Clubland Radio UK",
+        "stream_url": "https://s2.radio.co/sf1cecf191/listen",
+        "homepage": "https://clublandradiouk.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Clyde Built Radio",
+        "stream_url": "https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a",
+        "homepage": "https://www.clydebuiltradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "arts,community radio,culture,local music,music,non-profit",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "CNN UK",
+        "stream_url": "https://tunein.cdnstream1.com/2868_96.mp3",
+        "homepage": "https://edition.cnn.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "engilsh",
+        "tags": "business,business news,education,local news,news,ridwan,talk",
+        "codec": "MP3",
+        "bitrate": 96
+    },
+    {
+        "name": "Coalville Public Radio",
+        "stream_url": "https://uksoutha.streaming.broadcast.radio/cpr",
+        "homepage": "https://coalvillepublicradio.com/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "british english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Coast and County Radio",
+        "stream_url": "https://stream1.superstreaming.co.uk/proxy/coastcounty1/stream?rp_source=1&=&&___cb=412278927906985",
+        "homepage": "https://coastandcountyradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Codesouth.FM",
+        "stream_url": "https://codesouth.out.airtime.pro/codesouth_a?_ga=2.5582581.79614456.1587549468-706852939.1585447280&_gac=1.171772308.1586204890.EAIaIQobChMIsv7l1NHU6AIVyRnTCh1UEgOcEAAYASAAEgKRlvD_BwE",
+        "homepage": "https://www.codesouth.fm/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "bass house,breakbeat,club,disco,dnb,drum and bass,garage,house,jungle,minimal techno,reggae,tech house,techno,techstep,urban",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Coffee Morning",
+        "stream_url": "https://media-the.musicradio.com/Global-M-CoffeeMorning",
+        "homepage": "https://global.com/global-player",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "global,heart,live playlist,media-the,smooth,uk",
+        "codec": "AAC",
+        "bitrate": 48
+    },
+    {
+        "name": "Colin Mogagabe",
+        "stream_url": "https://music-station.live/listen/crw_radio/radio.mp3",
+        "homepage": "https://music-station.live/public/crw_radio",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Colne Radio",
+        "stream_url": "http://s45.myradiostream.com:8800/listen.mp3",
+        "homepage": "https://colneradio.net/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "local news,music",
+        "codec": "MP3",
+        "bitrate": 160
+    },
+    {
+        "name": "Conquest Hospital Radio",
+        "stream_url": "https://chrconquest.radioca.st/radio.mp3",
+        "homepage": "https://conquesthospitalradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 160
+    },
+    {
+        "name": "Cool FM 97.4",
+        "stream_url": "http://edge-bauerall-01-gos2.sharp-stream.com/coolfm.mp3",
+        "homepage": "http://www.coolfm.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "Corby Radio",
+        "stream_url": "https://corbyfm.radioca.st/mobile",
+        "homepage": "https://corby.radio/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 48
+    },
+    {
+        "name": "Cornwall Rewind ",
+        "stream_url": "http://s4.radio.co/s2eaa194f6/listen.m3u",
+        "homepage": "https://www.rewindradio.co.uk/",
+        "country": "The United Kingdom Of Great Britain And Northern Ireland",
+        "language": "",
+        "tags": "80's,90's,adult contemporary",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "107.3 BBC Radio Uganda ",
+        "stream_url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+        "homepage": "https://bbc.ug/",
+        "country": "Uganda",
+        "language": "english",
+        "tags": "news",
+        "codec": "MP3",
+        "bitrate": 56
+    },
+    {
+        "name": "BBC Nepali",
+        "stream_url": "https://stream.live.vc.bbcmedia.co.uk/bbc_nepali_radio",
+        "homepage": "https://www.bbc.com/nepali",
+        "country": "Nepal",
+        "language": "nepali",
+        "tags": "news",
+        "codec": "MP3",
+        "bitrate": 56
+    },
+    {
+        "name": "\tRadio Capital",
+        "stream_url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma.m3u8",
+        "homepage": "https://www.capital.it/",
+        "country": "Italy",
+        "language": "italian",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 122
+    },
+    {
+        "name": " CAPITAL ANTHEMS UK: The Songs Capital Made Famous - Londres, Inglaterra",
+        "stream_url": "https://media-ssl.musicradio.com/CapitalAnthemsMP3",
+        "homepage": "https://www.globalplayer.com/live/capitalanthems/uk/",
+        "country": "Mexico",
+        "language": "english",
+        "tags": "capital,dance,england,entretenimiento,estación,europa,europe,global radio,inglaterra,juvenil,london,londres,moi merino,music,música,música en inglés,música pop,pop,pop en inglés,pop music,pop rock,radio,uk,united kingdom",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": " LA VOZ 830 (CDMX) - 830 AM - XEITE-AM - Capital Media - Ciudad de México",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEITEAAC.aac",
+        "homepage": "https://lavozradio.net/",
+        "country": "Mexico",
+        "language": "spanish",
+        "tags": "830 am,am,américa,cdmx,ciudad de méxico,cristiana,español,estación,evangélica,latinoamérica,mexico city,moi merino,méxico,música cristiana,música en español,música religiosa,norteamérica,radio,religiosa,valle de méxico",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": " RADIO CHILANGO 105.3 (CDMX) - 105.3 FM - XHINFO-FM - Capital Digital - Ciudad de México",
+        "stream_url": "https://stream.radio.co/s938b68214/listen",
+        "homepage": "https://www.radiochilango.com/",
+        "country": "Mexico",
+        "language": "spanish",
+        "tags": "105.3 fm,alternative,américa,capital digital,cdmx,ciudad de méxico,entretenimiento,español,estación,fm,latinoamérica,moi merino,music,méxico,música,música en inglés,música y noticias,norteamérica,radio,radio chilango,revista chilango,valle de méxico",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "104.3 The Capital",
+        "stream_url": "http://58.97.187.52:5007/fm2",
+        "homepage": "https://www.facebook.com/fm2ph/",
+        "country": "The Philippines",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "106.1 CHEZ - The Capital of Rock",
+        "stream_url": "https://rogers-hls.leanstream.co/rogers/ott1061.stream/48k/playlist.m3u8",
+        "homepage": "https://www.1061chez.ca/",
+        "country": "",
+        "language": "english",
+        "tags": "alternative rock,classic rock,hard rock,metal,rock",
+        "codec": "AAC+",
+        "bitrate": 47
+    },
+    {
+        "name": "91. 3 Capital fm",
+        "stream_url": "http://5229.cloudrad.io:8316/;",
+        "homepage": "http://capitalradio-ug.com/",
+        "country": "Uganda",
+        "language": "english",
+        "tags": "news",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "91.2 Capital FM",
+        "stream_url": "https://capitalfm.cloudrad.io/stream",
+        "homepage": "https://capitalradio.co.ug/",
+        "country": "Uganda",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "92.1 Capital FM",
+        "stream_url": "http://cfm.albaservers.com:8010/",
+        "homepage": "https://www.capital921.com/",
+        "country": "Kosovo",
+        "language": "albanian,english,shqip",
+        "tags": "92.1 capital fm,92.1 fm,capital fm,capital fm kosovo,kosova,kosove,kosovo,shqip",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "98.8 Kiss FM Capital Bra",
+        "stream_url": "http://stream.kissfm.de/kissfm-event/mp3-128",
+        "homepage": "https://www.kissfm.de/",
+        "country": "",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Capital 104.8",
+        "stream_url": "https://rdst.win:59354/stream",
+        "homepage": "https://www.capital1048.gr/",
+        "country": "Greece",
+        "language": "greek",
+        "tags": "mainstream,pop",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Capital 107",
+        "stream_url": "https://neos.win:59350/stream",
+        "homepage": "http://capital107.gr/",
+        "country": "Greece",
+        "language": "greek",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Capital 107 Liverpool",
+        "stream_url": "http://ice-sov.musicradio.com/CapitalLiverpool",
+        "homepage": "https://www.capitalfm.com/liverpool/",
+        "country": "",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 48
+    },
+    {
+        "name": "Capital 90.3 FM",
+        "stream_url": "https://laradio.stream/proxy/radiocap/stream",
+        "homepage": "https://radiocapital903.com/",
+        "country": "Bolivarian Republic Of Venezuela",
+        "language": "español - latinoamerica,spanish",
+        "tags": "latin pop,pop music,pop rock,rock,soft rock",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "Capital 90.7",
+        "stream_url": "https://hotsoft.net.gr:9100/?1741851418662",
+        "homepage": "https://www.capitalradio.gr/",
+        "country": "Greece",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "CAPITAL 92.9 FM",
+        "stream_url": "https://stream.zeno.fm/m7vfjoruxg2uv",
+        "homepage": "https://zeno.fm/radio/capital-92-9-fm/",
+        "country": "Bolivarian Republic Of Venezuela",
+        "language": "spanish",
+        "tags": "entretenimiento,music,música en español,popular,salsa,vallenato",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "4MBS Classic FM - Brisbane",
+        "stream_url": "https://stream.4mbs.com.au/4mbsclassicfm",
+        "homepage": "https://www.4mbs.com.au/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "arts,brisbane,classical",
+        "codec": "AAC",
+        "bitrate": 256
+    },
+    {
+        "name": "ABC Classic FM (AAC)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/2FMW/aac/",
+        "homepage": "http://www.abc.net.au/classic/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,classical,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Classic FM (MP3)",
+        "stream_url": "http://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3",
+        "homepage": "http://www.abc.net.au/classic/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "abc,classical,public radio",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "ABC Classic FM (SA)",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038351/classicfmsa/masterhq.m3u8",
+        "homepage": "https://www.abc.net.au/listen/classic",
+        "country": "Australia",
+        "language": "",
+        "tags": "classical,news",
+        "codec": "AAC",
+        "bitrate": 238
+    },
+    {
+        "name": "ABC Classic FM 20220701",
+        "stream_url": "https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8",
+        "homepage": "https://www.abc.net.au/classic/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "classic,news,soundtrack,weather",
+        "codec": "AAC",
+        "bitrate": 238
+    },
+    {
+        "name": "Classic FM",
+        "stream_url": "http://classicfm.ice.infomaniak.ch/classic-fm.mp3",
+        "homepage": "http://www.classicfm.fr/",
+        "country": "France",
+        "language": "",
+        "tags": "classical",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Classic FM",
+        "stream_url": "https://classic.amgradio.ru/ClassicFM",
+        "homepage": "https://topradio.me/radio-classic-fm",
+        "country": "The Russian Federation",
+        "language": "",
+        "tags": "классическая музыка",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Classic FM",
+        "stream_url": "http://webradio.classicfm.dk/classichorsens",
+        "homepage": "http://classicfm.dk/",
+        "country": "Denmark",
+        "language": "danish",
+        "tags": "70s,80s,90s,classic hits",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Classic FM",
+        "stream_url": "https://cdn.bweb.bg/radio/classic-fm.mp3",
+        "homepage": "http://www.classicfm.bg/",
+        "country": "Bulgaria",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "Classic FM (Fyn)",
+        "stream_url": "https://netradio.classicfm.dk/cla12a",
+        "homepage": "https://classicfm.dk/",
+        "country": "Denmark",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "Classic FM 1027",
+        "stream_url": "http://edge.iono.fm/xice/49_medium.aac?p=embed",
+        "homepage": "https://www.classic1027.co.za/",
+        "country": "South Africa",
+        "language": "english",
+        "tags": "classic,classical",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "Classic FM France",
+        "stream_url": "https://classicfm.ice.infomaniak.ch/classic-fm.mp3",
+        "homepage": "https://www.classicfm.fr/",
+        "country": "France",
+        "language": "french",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    }
+]

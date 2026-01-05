@@ -1,0 +1,5062 @@
+[
+    {
+        "name": "\tHard Rock Radio FM",
+        "stream_url": "http://67.249.184.45:8015/listen.pls",
+        "homepage": "https://hardrockradiofm.weebly.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "80's,90's,hard rock,heavy metal",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "  EXA FM: POP MUSIC in Spanish and English",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+        "homepage": "https://exafm.com/plaza/veracruz/",
+        "country": "The United States Of America",
+        "language": "spanish",
+        "tags": "contemporary hits,entertainment,music,news,pop,pop music,top 40",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": " 101.9 KQXT ",
+        "stream_url": "https://stream.revma.ihrhls.com/zc2341/hls.m3u8",
+        "homepage": "https://q1019.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "80's,soft rock,todays hits,top 40",
+        "codec": "AAC",
+        "bitrate": 24
+    },
+    {
+        "name": " 90.7 FM KWMU-1",
+        "stream_url": "https://kwmu1-ice.streamguys1.com/kwmu1.m3u",
+        "homepage": "https://www.stlpr.org/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": " Chill trax ",
+        "stream_url": "http://server1.chilltrax.com:9000/;",
+        "homepage": "https://www.chilltrax.com/",
+        "country": "The United States Of America",
+        "language": "american english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": " ESPN 1320 - Sacramento",
+        "stream_url": "https://prod-54-167-220-243.amperwave.net/audacy-kifmamaac-llhlsc.m3u8",
+        "homepage": "https://www.audacy.com/espn1320",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "live sports,sacramento,sports,sports news,talk",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": " Hip Hop Workout Radio",
+        "stream_url": "https://stream.revma.ihrhls.com/zc7785",
+        "homepage": "https://stream.revma/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": " Houston Sports Radio 610 KILT",
+        "stream_url": "https://live.amperwave.net/direct/audacy-kiltfmaac-imc",
+        "homepage": "https://www.audacy.com/sportsradio610",
+        "country": "The United States Of America",
+        "language": "american english",
+        "tags": "live sports,sports talk",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": " iHeart Radio Café",
+        "stream_url": "http://stream.revma.ihrhls.com/zc6951/hls.m3u8",
+        "homepage": "https://www.iheart.com/live/iheartradio-cafe-6951/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "70s,80s,classic rock,mellow album rock",
+        "codec": "AAC",
+        "bitrate": 24
+    },
+    {
+        "name": " KFXR - Talk Radio 1190AM",
+        "stream_url": "https://stream.revma.ihrhls.com/zc4276",
+        "homepage": "https://stream.revma.ihrhls.com/zc4276",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": " NOTICIAS Y DEPORTES 1330 (Los Ángeles) - 1330 AM - KWKW - Lotus Communications - Los Ángeles, California, EUA",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC.aac",
+        "homepage": "https://www.tuligaradio.com/",
+        "country": "The United States Of America",
+        "language": "spanish",
+        "tags": "1330 am,américa,california,entretenimiento,español,estación,fm,hablada,local,local information,local news,local radio,local talk,los angeles,moi merino,norteamérica,noticias,noticias en español,noticias locales,noticias nacionales e internacionales,noticias y comentarios,noticias y deportes,noticieros,radio,radio hablada,tu liga radio,usa",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": " Punk Rock Demonstration Radio Station",
+        "stream_url": "https://stream.punkrockers-radio.de:8443/prr.ogg",
+        "homepage": "https://www.punkrockdemo.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "OGG",
+        "bitrate": 192
+    },
+    {
+        "name": " Radio Euro Disco",
+        "stream_url": "https://broadcast.miami/proxy/eurodisco?mp=/stream/;",
+        "homepage": "https://broadcast.miami/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "pop music",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": " SmoothJazz.com 64k aac+",
+        "stream_url": "https://smoothjazz.cdnstream1.com/2585_64.aac",
+        "homepage": "https://www.smoothjazz.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "monterey,smooth jazz",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": " WBBM Newsradio 780 AM & 105.9 FM ",
+        "stream_url": "https://live.amperwave.net/direct/audacy-wbbmammp3-imc",
+        "homepage": "https://www.audacy.com/wbbm780",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "local news,local traffic & weather,national news,news",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": " WorkoutTime USA",
+        "stream_url": "https://stream.zeno.fm/60pg6mi67hytv",
+        "homepage": "https://zeno.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "gym,workout",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": " WVPE HD3 - Blues",
+        "stream_url": "http://live.str3am.com:2240/live",
+        "homepage": "http://wvpe.org/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "blues,npr,public radio",
+        "codec": "AAC",
+        "bitrate": 64
+    },
+    {
+        "name": "__1 oldies",
+        "stream_url": "https://80sexitos.stream.laut.fm/80sexitos",
+        "homepage": "https://musica80.radioclub.es/",
+        "country": "The United States Of America",
+        "language": "english,spanish",
+        "tags": "70s,80s,90s,disco,musica romantica,oldies,pop,rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "__1oldies",
+        "stream_url": "https://stream.laut.fm/80sexitos",
+        "homepage": "https://laut.fm/80sexitos",
+        "country": "The United States Of America",
+        "language": "spanish",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "__80 HITS",
+        "stream_url": "http://stream.laut.fm/80sexitos",
+        "homepage": "https://laut.fm/80sexitos",
+        "country": "The United States Of America",
+        "language": "english,spanish",
+        "tags": "70s,80s,90s,disco,pop,rock,romantic",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "_Funky Corner Radio (USA)",
+        "stream_url": "https://ais-sa2.cdnstream1.com/2447_192.mp3",
+        "homepage": "https://www.funkycorner.it/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "70s,70s disco,80s,black,black music,disco,funk,funky,motown,music,musica,oldies,p-funk,philadelphia,r&b,r'n'b,rare groove,rnb,soul,the sound of philadelphia",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "_Radio Energy(USA)",
+        "stream_url": "https://gmusto.radioca.st/mp3",
+        "homepage": "https://www.radioenergy.to/",
+        "country": "The United States Of America",
+        "language": "italian",
+        "tags": "2000s,70s,80s,90s,adult contemporary,adult hits,classic hits,classic italian pop,classic pop,evergreen,evergreens,hits,italian,italian pop,oldies,pop,top 40,top100,top40",
+        "codec": "MP3",
+        "bitrate": 256
+    },
+    {
+        "name": ". Abdulbasit Abdulsamad",
+        "stream_url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+        "homepage": "https://mp3islam.com/",
+        "country": "The United States Of America",
+        "language": "arabic",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "..al quran radio ",
+        "stream_url": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+        "homepage": "",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "classical",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": ".100 Hip hop and RNB FM",
+        "stream_url": "https://ice64.securenetsystems.net/LFTM",
+        "homepage": "https://ice64.securenetsystems.net/LFTM",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "hip hop,r&b,soul,urban",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": ".977 80s",
+        "stream_url": "http://playerservices.streamtheworld.com/pls/977_80.pls",
+        "homepage": "http://www.977music.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "80s",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": ".977 90s",
+        "stream_url": "http://playerservices.streamtheworld.com/pls/977_90.pls",
+        "homepage": "http://www.977music.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "90s",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": ".977 Comedy",
+        "stream_url": "http://playerservices.streamtheworld.com/pls/977_COMEDY.pls",
+        "homepage": "http://www.977music.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "comedy",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": ".977 Country",
+        "stream_url": "http://playerservices.streamtheworld.com/pls/977_COUNTRY.pls",
+        "homepage": "http://www.977music.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "country",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": ".977 Hitz",
+        "stream_url": "http://playerservices.streamtheworld.com/pls/977_HITS.pls",
+        "homepage": "http://www.977music.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "hits,top 40",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": ".977 Jamz",
+        "stream_url": "http://playerservices.streamtheworld.com/pls/977_JAMZ.pls",
+        "homepage": "http://www.977music.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "hiphop,rnb,soul",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": ".977 Oldies",
+        "stream_url": "http://playerservices.streamtheworld.com/pls/977_OLDIES.pls",
+        "homepage": "http://www.977music.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "oldies",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": ".977 Smooth Jazz",
+        "stream_url": "http://playerservices.streamtheworld.com/pls/977_SMOOJAZZ.pls",
+        "homepage": "http://www.977music.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "jazz,smooth jazz",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": ".977 The Mix",
+        "stream_url": "http://playerservices.streamtheworld.com/pls/977_MIX.pls",
+        "homepage": "http://www.977music.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "80s,90s,hits,today",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "\"The Mighty\"1290 GLI",
+        "stream_url": "https://streaming.live365.com/a33394",
+        "homepage": "http://www.wa2fnq.com/1290/1290.htm",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "oldies",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "(𝕎𝕏𝔻𝕁) 𝔼𝕃 ℕ𝕌𝔼𝕍𝕆 ℤ𝕆𝕃 𝟙𝟘𝟞.𝟟",
+        "stream_url": "https://liveaudio.lamusica.com/MIA_WXDJ_icy",
+        "homepage": "https://mytuner-radio.com/es/emisora/wxdj-el-zol-1067-fm-419914/",
+        "country": "The United States Of America",
+        "language": "spanish",
+        "tags": "variedad",
+        "codec": "AAC",
+        "bitrate": 320
+    },
+    {
+        "name": "[Infowars] [The War Room With Owen Shroyer] ACC+ [32] [https] [Streams1]",
+        "stream_url": "https://streams1.infowars.com/stream/4/",
+        "homepage": "https://www.infowars.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "alex jones,infowars,news,politics,talk,washington dc",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "#1 HITS 80s",
+        "stream_url": "https://makri.cdnstream.com/1898_128",
+        "homepage": "https://www.hits80s.com/",
+        "country": "The United States Of America",
+        "language": "american english,english",
+        "tags": "1980's,1980s,80's,80er,80s,années 80,hits 80s,the best of 80's",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "#ds106radio",
+        "stream_url": "https://www.ds106rad.io/listen/ds106radio/autodj.mp3",
+        "homepage": "http://listen.ds106rad.io/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "#OO",
+        "stream_url": "https://stream.ryno.cc/oo",
+        "homepage": "https://ryno.cc/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "creative commons",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "011.FM - Cruise Control - Road Trip Radio",
+        "stream_url": "https://listen.011fm.com/stream30",
+        "homepage": "https://011fm.com/",
+        "country": "The United States Of America",
+        "language": "american english,english",
+        "tags": "classic hits,contemporary hits,family,hits,hot adult contemporary,oldies,pop,pop music,roadtrip,rock,top hits,truckerhits,variety hits",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "1 classic ",
+        "stream_url": "http://listen.radionomy.com/1classic",
+        "homepage": "https://i3.radionomy.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "1-Boss Radio 66",
+        "stream_url": "http://rfcm.streamguys1.com/bossradio66-mp3",
+        "homepage": "https://www.bossradio66.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "60s,oldies",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "1-krbx",
+        "stream_url": "http://radioboise-ice.streamguys1.com/live",
+        "homepage": "https://radioboise.org/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "1-The Eagle 181fm",
+        "stream_url": "http://www.181.fm/stream/pls/181-eagle.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "10.45 The Ramble",
+        "stream_url": "https://stream.zeno.fm/rsd8sdfkhmfvv",
+        "homepage": "https://1045theramble.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "60s,70s,80s,alt rock,christmas,christmas music",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "100 Hip Hop and RNB FM (Official)",
+        "stream_url": "https://streaming.shoutcast.com/100-hip-hop-and-rnb-fm",
+        "homepage": "https://uk.radio.net/s/100hiphopandrnb",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "hip-hop,rap hiphop rnb,ridwan,rnb",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "100 Hitradio",
+        "stream_url": "https://radio1.streamserver.link/radio/8010/100hit-aac",
+        "homepage": "https://100hitradio.net/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 64
+    },
+    {
+        "name": "100 XR",
+        "stream_url": "https://xr.dockl.com/stream",
+        "homepage": "https://100xr.weebly.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "alternative,classic rock,metal,rock",
+        "codec": "AAC+",
+        "bitrate": 96
+    },
+    {
+        "name": "100.1 The Beat",
+        "stream_url": "https://stream.revma.ihrhls.com/zc2069",
+        "homepage": "https://thebeatcolumbia.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "urban contemporary",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "100.1 WCLG",
+        "stream_url": "http://live.amperwave.net/direct/bowers-wclgfmaac-imc1",
+        "homepage": "https://www.wclg.com/wclg/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "100.3 big",
+        "stream_url": "https://stream.revma.ihrhls.com/zc2505/hls.m3u8?streamid=2505&zip=20779&at=0&birthYear=null&clientType=web&fb_broadcast=0&host=webapp.US&init_id=8169&modTime=1625981235400&pname=OrganicWeb&profileid=1563075259&territory=US&uid=e12ed9af-25e3-44c8-8473-18fe98723481&age=null&gender=null&aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=1625981235&terminalid=159&companionAds=true&playedFrom=6&us_privacy=1-N-&callLetters=WBIG-FM&devicename=web-desktop&stationid=2505&dist=iheart&aw_0_1st.ccaud=",
+        "homepage": "https://wbig.iheart.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "classic rock",
+        "codec": "AAC",
+        "bitrate": 24
+    },
+    {
+        "name": "100.3 Jack FM",
+        "stream_url": "https://live.amperwave.net/direct/audacy-kjkkfmaac-imc",
+        "homepage": "https://www.audacy.com/jackontheweb/listen#recently-played",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic hits",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "100.3 KISS FM",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1629",
+        "homepage": "https://1003kissfm.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "pop,top 40",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "100.3 la ley",
+        "stream_url": "http://stream.abacast.net/playlist/agmedia28-krqkfmmp3-ibc3.m3u",
+        "homepage": "http://stream.abacast.net/playlist/agmedia28-krqkfmmp3-ibc3.m3u",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 48
+    },
+    {
+        "name": "100.3 The Beat",
+        "stream_url": "http://stream.revma.ihrhls.com/zc1289/hls.m3u8",
+        "homepage": "https://www.iheart.com/live/1003-the-beat-1289/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 24
+    },
+    {
+        "name": "100.3 The Beat",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1289/hls.m3u8",
+        "homepage": "https://www.iheart.com/live/1003-the-beat-1289/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 24
+    },
+    {
+        "name": "100.3 The Bus",
+        "stream_url": "https://stream.revma.ihrhls.com/zc2744",
+        "homepage": "https://thebusfm.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "adult hits",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "100.3 The Edge",
+        "stream_url": "https://stream.revma.ihrhls.com/zc89/hls.m3u8",
+        "homepage": "https://edgelittlerock.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "rock",
+        "codec": "AAC",
+        "bitrate": 24
+    },
+    {
+        "name": "100.3 The Edge",
+        "stream_url": "https://ample.revma.ihrhls.com/zc89/11_1v7zzn0xnejsy02/playlist.m3u8?zip=&streamid=89&pname=live_profile&companionAds=false&dist=iheart&terminalId=159&deviceName=web-mobile&aw_0_1st.playerid=iHeartRadioWebPlayer&listenerId=&clientType=web&profileId=6952492483&aw_0_1st.skey=6952492483&host=webapp.US&playedFrom=157&stationid=89&territory=US",
+        "homepage": "https://edgelittlerock.iheart.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "100.3 The Edge (KDJE)",
+        "stream_url": "http://stream.revma.ihrhls.com/zc89",
+        "homepage": "https://edgelittlerock.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "rock",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "100.3 The Peak",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1389",
+        "homepage": "https://1003thepeak.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "adult contemporary",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "100.3 The River - WQRV - Meridianville/Huntsville, AL",
+        "stream_url": "https://stream.revma.ihrhls.com/zc21",
+        "homepage": "https://1003theriver.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic hits",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "100.3 WHEB",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1353",
+        "homepage": "https://wheb.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "rock",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "100.3 WKIT",
+        "stream_url": "https://ice6.securenetsystems.net/WKIT",
+        "homepage": "https://wkitfm.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "rock",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "100.3 WNIC",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1153?streamid=1153",
+        "homepage": "https://wnic.iheart.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "100.5 FM",
+        "stream_url": "https://stream.revma.ihrhls.com/zc973",
+        "homepage": "https://1005louisville.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "100.5 The Fox",
+        "stream_url": "https://stream.revma.ihrhls.com/zc2938/hls.m3u8",
+        "homepage": "https://1005thefox.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic rock",
+        "codec": "AAC",
+        "bitrate": 24
+    },
+    {
+        "name": "100.7 KGBI",
+        "stream_url": "https://nwmedia-kgbi.streamguys1.com/kgbi-mp3",
+        "homepage": "https://mykgbi.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "christian contemporary",
+        "codec": "MP3",
+        "bitrate": 96
+    },
+    {
+        "name": "100.7 KGMO THE Classic Rock Station",
+        "stream_url": "https://ice.wbcengineering.com:8106/stream",
+        "homepage": "https://www.kgmo.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic rock",
+        "codec": "AAC",
+        "bitrate": 64
+    },
+    {
+        "name": "100.7 KKRQ The Fox",
+        "stream_url": "https://stream.revma.ihrhls.com/zc2812",
+        "homepage": "https://kkrq.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic rock",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "100.7 Mix ",
+        "stream_url": "https://stream.revma.ihrhls.com/zc689/hls.m3u8",
+        "homepage": "https://tunein.com/radio/Mix-1007-s21277/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "80s,90s,hot adult contemporary",
+        "codec": "AAC",
+        "bitrate": 24
+    },
+    {
+        "name": "100.7 The Bay",
+        "stream_url": "https://ais-sa1.streamon.fm/7225_48k.aac",
+        "homepage": "https://www.thebayonline.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic rock",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "100.7 WMMS",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1741",
+        "homepage": "https://wmms.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "rock",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "100.7 WZLX",
+        "stream_url": "https://stream.revma.ihrhls.com/zc7730",
+        "homepage": "https://wzlx.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic rock",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "100.9 FM The Hill",
+        "stream_url": "https://audio-edge-qse4n.yyz.g.radiomast.io/e503838e-de07-476b-a4e3-6cf146915584",
+        "homepage": "https://hillradio.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "christian",
+        "codec": "AAC",
+        "bitrate": 64
+    },
+    {
+        "name": "100.9 POWER",
+        "stream_url": "https://stream.revma.ihrhls.com/zc6469",
+        "homepage": "https://power1009.iheart.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "100.9% Classic Country",
+        "stream_url": "https://live.amperwave.net/direct/wboc-waaifmmp3-ibc2",
+        "homepage": "https://www.1009classiccountry.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "country",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "1000 Chrismas Songs",
+        "stream_url": "https://ais-sa2.cdnstream1.com/2553_128.mp3",
+        "homepage": "",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "100hitz - 90's Alternative",
+        "stream_url": "http://pureplay.cdnstream1.com/6040_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1OTE4NiwiaXNzIjoidGlzcnYifQ.MLF0T_JezQR4rG8wAnSmznCEsw4KL1TECaKnS2rV2fw%22",
+        "homepage": "https://100hitz.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "90's,alternative",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "100hitz - 90's Hitz",
+        "stream_url": "http://pureplay.cdnstream1.com/6056_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1ODgyMywiaXNzIjoidGlzcnYifQ.p0ux4zgs6Xj7dhIr3EqVlXAiEOTKtY7snGxgD55apOM",
+        "homepage": "https://100hitz.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "90's",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "100Hitz - 90s Alternative Hitz",
+        "stream_url": "http://pureplay.cdnstream1.com/6040_64.aac/playlist.m3u8",
+        "homepage": "https://100hitz.com/stations/90s-alternative-hitz/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "90s alternative",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "100hitz - Alternative",
+        "stream_url": "http://206.217.213.235:8230/;stream",
+        "homepage": "http://100hitz.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "alternative,modern rock,rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "100Hitz - Alternative",
+        "stream_url": "https://pureplay.cdnstream1.com/6034_128.mp3",
+        "homepage": "https://100hitz.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "100Hitz - Alternative Hitz",
+        "stream_url": "https://pureplay.cdnstream1.com/6034_64.aac/playlist.m3u8",
+        "homepage": "https://100hitz.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "aaa",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "100hitz - Hip Hop",
+        "stream_url": "http://pureplay.cdnstream1.com/6042_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1NzMwMSwiaXNzIjoidGlzcnYifQ.304XDmX1AZJCylkYdV5G8PlaYlNeCUPPYQBcPiVox7I",
+        "homepage": "https://100hitz.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "100Hitz - Indie",
+        "stream_url": "https://pureplay.cdnstream1.com/6056_128.mp3",
+        "homepage": "https://100hitz.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "100hitz - Indie",
+        "stream_url": "http://206.217.213.236:8360/;stream",
+        "homepage": "http://100hitz.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "alternative,indie pop,indie rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "100hitz - Indie Rock",
+        "stream_url": "http://pureplay.cdnstream1.com/6056_64.aac?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1ODAzMywiaXNzIjoidGlzcnYifQ.iRK4czQtolWgtNsj8Uy5lioP0EoZu1wCuvj2VwsCs3o",
+        "homepage": "https://100hitz.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "indie rock",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "100hitz - Rock",
+        "stream_url": "http://pureplay.cdnstream1.com/6036_64.aac?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1ODMwOSwiaXNzIjoidGlzcnYifQ.8uFrLWMHqAB47XrnGAR6efpR1sAYafRsPfFz-EXglmQ",
+        "homepage": "https://100hitz.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "rock",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "100hitz - Top 40",
+        "stream_url": "http://pureplay.cdnstream1.com/6025_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1NTI4MSwiaXNzIjoidGlzcnYifQ.cUMfsrk262BNjQXnfXkKBefQOqoRn2nweLrx5obNPhM",
+        "homepage": "https://100hitz.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "top 40,us",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "100Hitz - Top 40",
+        "stream_url": "http://gr02.cdnstream.com:8300/;stream/1",
+        "homepage": "https://100hitz.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "100hitz - Urban Hitz",
+        "stream_url": "http://pureplay.cdnstream1.com/6043_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1ODUzMywiaXNzIjoidGlzcnYifQ.uR3Z5-tMJDskTZ3Rp6u3qmXtCUgZM_7DP0ged5SwRvU",
+        "homepage": "https://100hitz.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "urban",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "100hitz Hot Hitz",
+        "stream_url": "http://pureplay.cdnstream1.com/6027_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1NjY1OSwiaXNzIjoidGlzcnYifQ.qFjTFowI3sAHS4IFwRsz-zxLYbgTlfZFse1AtCH642s",
+        "homepage": "https://100hitz.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "100hitz The Mix - 80s 90s & Today's Hits",
+        "stream_url": "http://pureplay.cdnstream1.com/6038_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1Nzc4NCwiaXNzIjoidGlzcnYifQ.pcgS3hF5YBvvbD9rJO3OMBWPgEGE037nPVwPu4hamPY%22",
+        "homepage": "https://100hitz.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "80s,90s,today's hits",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "100hitz Today's New Country",
+        "stream_url": "http://pureplay.cdnstream1.com/6030_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1NzY0NiwiaXNzIjoidGlzcnYifQ.egsO64un0_ERf_GWzA1GBpsRrgkssRZtYIxOkwbEMp8",
+        "homepage": "https://100hitz.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "101 ESPN",
+        "stream_url": "https://provisioning.streamtheworld.com/pls/WXOSFM.pls",
+        "homepage": "https://www.101espn.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 96
+    },
+    {
+        "name": "101 Smooth Jazz ",
+        "stream_url": "http://listen.radionomy.com/101smoothjazz.m3u",
+        "homepage": "http://www.101smoothjazz.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "jazz",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "101 SMOOTH JAZZ",
+        "stream_url": "http://www.101smoothjazz.com/101-smoothjazz.m3u",
+        "homepage": "http://101smoothjazz.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "101 Smooth Jazz",
+        "stream_url": "http://jking.cdnstream1.com/b22139_128mp3",
+        "homepage": "",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "jazz",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "101 SMOOTH JAZZ MELLOW MIX",
+        "stream_url": "http://www.101smoothjazz.com/101-mellowmix.m3u",
+        "homepage": "http://www.101smoothjazz.com/mellow.html",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "easy listening,mellow,smooth jazz",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "101 The Fox",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KCFXFMAAC.aac",
+        "homepage": "https://www.101thefox.net/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic rock",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "101.1 WJRR",
+        "stream_url": "https://stream.revma.ihrhls.com/zc593",
+        "homepage": "https://wjrr.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic rock,rock",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "101.1 WJRR Orlando's Rock Station",
+        "stream_url": "https://stream.revma.ihrhls.com/zc593/66_1jz3gmo0magf802/playlist.m3u8",
+        "homepage": "https://wjrr.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "alternative,rock",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "101.1 WNOE",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1045",
+        "homepage": "https://wnoe.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "country",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "101.3 KDWB",
+        "stream_url": "https://ample.revma.ihrhls.com/zc1201/73_mjuuisvr6gbl02/playlist.m3u8",
+        "homepage": "https://kdwb.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "101.3 WHHC FM GoesCrazy Sports Network",
+        "stream_url": "https://stream.zeno.fm/6n2uq8zwwhhvv",
+        "homepage": "https://l.instagram.com/?u=http%3A%2F%2F885whhcindiana.wixsite.com%2Findiana%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaaVNkKSG2pV57oHBQDyQd8MpSYlQWe778n4-et4j8W3RlbVGEPAMdFls9U_aem_9k4zlX0GXxUSfo_w2t7vHA&e=AT24p3kp-vH9KtEeP1NFyXGue8UcG38-pDnGdYrstvJF7snh0ZT3bbRXM8dRlkdxVfyaWoiw-9zkgMnTHq-_fV2Jlvq0cj0RB2WZuR6Uxwy-jZpcS9Pg658",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "sports",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "101.3 WKRD - Rockford's Best Mix",
+        "stream_url": "http://ice24.securenetsystems.net/WRKD",
+        "homepage": "https://www.mix1013wrkd.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "00s,70s,80s,90s,pop,rock",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "101.5 Hank FM",
+        "stream_url": "https://ais-sa1.streamon.fm/7169_48k.aac",
+        "homepage": "https://hankfmutah.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic country,country",
+        "codec": "AAC",
+        "bitrate": 96
+    },
+    {
+        "name": "101.5 KGB",
+        "stream_url": "https://stream.revma.ihrhls.com/zc237",
+        "homepage": "https://101kgb.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic rock",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "101.5 Kiss FM",
+        "stream_url": "https://stream.zeno.fm/q0si4olfobwvv",
+        "homepage": "https://bestradiostations.wixsite.com/1015kissfm",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "101.5 KPLA",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KPLAFMAAC.aac",
+        "homepage": "https://www.kpla.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "adult contemporary",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "101.5 The River",
+        "stream_url": "https://ample.revma.ihrhls.com/zc1853/19_1n3b2kyukilj602/playlist.m3u8?zip=&streamid=1853&pname=live_profile&companionAds=false&dist=iheart&terminalId=159&deviceName=web-mobile&aw_0_1st.playerid=iHeartRadioWebPlayer&listenerId=&clientType=web&profileId=6319548085&aw_0_1st.skey=6319548085&host=webapp.US&playedFrom=157&stationid=1853&territory=US",
+        "homepage": "https://1015theriver.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "adult contemporary,holiday",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "101.5 WIBA FM",
+        "stream_url": "https://stream.revma.ihrhls.com/zc3466",
+        "homepage": "https://wibafm.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic rock",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "101.5 WYNK",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1021",
+        "homepage": "https://wynkcountry.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "country",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "101.7 KKIQ",
+        "stream_url": "https://live.amperwave.net/direct/alphacorporate-kkiqfmmp3-ibc4",
+        "homepage": "https://www.kkiq.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "adult contemporary",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "101.7 KSAM",
+        "stream_url": "https://ice23.securenetsystems.net/KSAM",
+        "homepage": "https://www.ksam1017.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "country",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "101.7 The Bull",
+        "stream_url": "https://stream.revma.ihrhls.com/zc6586",
+        "homepage": "https://thebull1017.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "country",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "101.9 KINK FM",
+        "stream_url": "https://live.amperwave.net/direct/alphacorporate-kinkfmmp3-ibc4",
+        "homepage": "https://www.kink.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "101.9 KISS FM",
+        "stream_url": "https://stream.revma.ihrhls.com/zc4864",
+        "homepage": "https://1019kissfm.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "pop,top 40",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "101.9 The Bull",
+        "stream_url": "https://live.amperwave.net/manifest/townsquare-katpfmaac-ibc3",
+        "homepage": "https://thebullamarillo.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "101.9 The Eagle",
+        "stream_url": "https://live.amperwave.net/direct/alphacorporate-kxglfmaac-ibc4?source=website",
+        "homepage": "https://www.1009theeagle.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic rock",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "101.9 The Rock",
+        "stream_url": "https://live.amperwave.net/manifest/townsquare-wozifmaac-ibc3",
+        "homepage": "https://1019therock.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "101.9 The Twister",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1913",
+        "homepage": "https://thetwister.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "country",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "1010 KSIR",
+        "stream_url": "http://alpha.newerastreaming.com:8016/;",
+        "homepage": "https://ksir.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "news,talk",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "1010 WINS 92.3 FM",
+        "stream_url": "https://live.amperwave.net/direct/audacy-winsamaac-imc",
+        "homepage": "https://www.audacy.com/1010wins",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "1010 XL",
+        "stream_url": "https://ice23.securenetsystems.net/WJXL",
+        "homepage": "https://www.1010xl.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "sports",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "1011 The Beat",
+        "stream_url": "https://stream.revma.ihrhls.com/zc2153",
+        "homepage": "https://1011thebeat.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "urban contemporary",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "102 Jams",
+        "stream_url": "https://live.amperwave.net/manifest/audacy-krbqfmaac-hlsc.m3u8",
+        "homepage": "https://www.audacy.com/102jamssf",
+        "country": "The United States Of America",
+        "language": "aave,ebonics,english",
+        "tags": "102.1 fm,classic hip hop,krqb",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "102.1 & 105.3 The Shark WSAK/WSHK",
+        "stream_url": "https://prod-3-238-155-54.amperwave.net/townsquare-wshkfmaac-ibc3",
+        "homepage": "https://shark1053.com/",
+        "country": "The United States Of America",
+        "language": "american english,english",
+        "tags": "classic hits,local news,news",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "102.1 The Fox",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMXTFMAAC.aac",
+        "homepage": "https://www.1021thefox.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic rock",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "102.1 WDRM - Decatur/Huntsville, AL",
+        "stream_url": "https://stream.revma.ihrhls.com/zc13",
+        "homepage": "https://wdrm.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "country",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "102.3 Blake FM",
+        "stream_url": "https://live.amperwave.net/manifest/townsquare-kwfsfmaac-ibc3",
+        "homepage": "https://1023thebullfm.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "102.3 The Beat",
+        "stream_url": "https://stream.revma.ihrhls.com/zc2169",
+        "homepage": "https://thebeatatx.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "pop,top 40",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "102.3 The Long Drive - Yakima, WA ",
+        "stream_url": "https://orbit.citrus3.com:8256/stream",
+        "homepage": "https://www.facebook.com/photo/?fbid=122101518596786938&set=a.122101518656786938",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "indie,pop,rock",
+        "codec": "AAC",
+        "bitrate": 128
+    },
+    {
+        "name": "102.5 Jack FM",
+        "stream_url": "https://playerservices.streamtheworld.com/pls/KCMOH2.pls",
+        "homepage": "https://www.1025jackfm.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 80
+    },
+    {
+        "name": "102.5 KNIX",
+        "stream_url": "https://n08a-e2.revma.ihrhls.com/zc49/hls.m3u8?streamid=49&zip=&aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=10290020356&clientType=web&companionAds=false&deviceName=web-mobile&dist=iheart&host=webapp.US&listenerId=&playedFrom=157&pname=live_profile&profileId=10290020356&stationid=49&terminalId=159&territory=US&rj-ttl=5&rj-tok=AAABlb0D9L0AoPepfSaFFsWNrg",
+        "homepage": "https://knixcountry.iheart.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "Country",
+        "codec": "AAC",
+        "bitrate": 24
+    },
+    {
+        "name": "102.5 KZOK",
+        "stream_url": "https://stream.revma.ihrhls.com/zc7787",
+        "homepage": "https://kzok.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic rock",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "102.5 WBAZ LONG ISLAND",
+        "stream_url": "https://prod-100-24-6-34.amperwave.net/longisland-wbazfmaac-ibc1",
+        "homepage": "https://wbaz.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "adult contemporary,music",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "102.5 WDVE",
+        "stream_url": "https://stream.revma.ihrhls.com/zc2017",
+        "homepage": "https://dve.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic rock,nfl,rock",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "102.5 WFMF",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1005",
+        "homepage": "https://wfmf.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "pop,top 40",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "102.7 Jack-FM",
+        "stream_url": "https://stream.revma.ihrhls.com/zc4330",
+        "homepage": "https://1027jackfm.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "adult hits",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "102.7 KIIS FM",
+        "stream_url": "https://stream.revma.ihrhls.com/zc185",
+        "homepage": "https://kiisfm.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "pop,top 40",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "102.7 KIIS FM Los Angeles",
+        "stream_url": "http://stream.revma.ihrhls.com/zc185",
+        "homepage": "https://kiisfm.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "hits,hot adult contemporary,pop,top 40",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "102.7 KISS FM WEGR Memphis ",
+        "stream_url": "http://stream.revma.ihrhls.com/zc2133",
+        "homepage": "https://1027kissfm.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "hits,hot adult contemporary,pop,top 40",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "102.7 The Beach",
+        "stream_url": "https://prod-54-227-186-111.amperwave.net/audacy-wmxjfmaac-hlsc.m3u8?",
+        "homepage": "https://www.audacy.com/thebeachmiami",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "70s,80s,90s,classic hits,decades",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "102.7 The Beach",
+        "stream_url": "https://prod-44-222-83-102.amperwave.net/audacy-wmxjfmaac-hlsc.m3u8?",
+        "homepage": "https://www.audacy.com/thebeachmiami",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "1970s,1980s,1990s,70s,80s,90s,classic hits,decades",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "102.7 The Beach Miami, FL",
+        "stream_url": "https://prod-44-222-83-102.amperwave.net/audacy-wmxjfmaac-hlsc.m3u8",
+        "homepage": "https://www.audacy.com/thebeachmiami",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "70s,80s,90s,classic hits,decades",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "102.7 WEBN",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1701",
+        "homepage": "https://webn.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "rock",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "102.7 WEQX",
+        "stream_url": "http://crystalout.surfernetwork.com:8001/WEQX_MP3",
+        "homepage": "https://www.weqx.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "alternative,alternative rock",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "102.7 WEQX",
+        "stream_url": "https://rocket.surfernetwork.com:10001/live/_definst_/weqx_aac/chunklist_w975071590.m3u8",
+        "homepage": "https://www.weqx.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "alternative,alternative rock",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "102.9 KBLX HD3: Praise Bay Area",
+        "stream_url": "https://bonneville.cdnstream1.com/2775_48.aac?aw_0_1st.playerid=Tuner",
+        "homepage": "https://kblx.com/praise/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "102.9 NOW",
+        "stream_url": "https://stream.revma.ihrhls.com/zc2237",
+        "homepage": "https://1029now.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "adult contemporary",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "102.9 The Lake",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1609",
+        "homepage": "https://1029thelake.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "adult hits",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "103 JAMZ",
+        "stream_url": "https://stream.revma.ihrhls.com/zc2453",
+        "homepage": "https://103jamz.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "urban contemporary",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "103 She",
+        "stream_url": "http://sheradio1055.com/ListenLive.m3u",
+        "homepage": "https://www.radioshe.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "1970s,1980s,1990s,album rock,classic rock",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "103.1 Jack FM",
+        "stream_url": "https://ice24.securenetsystems.net/KDAA",
+        "homepage": "https://resultsradioonline.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "adult hits",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "103.1 KCDA",
+        "stream_url": "https://stream.revma.ihrhls.com/zc2589",
+        "homepage": "https://1031kcda.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "103.1 KVET Auston's 80's station",
+        "stream_url": "https://stream.revma.ihrhls.com/zc8403/hls.m3u8",
+        "homepage": "https://1031austin.iheart.com/",
+        "country": "The United States Of America",
+        "language": "american english",
+        "tags": "80's",
+        "codec": "AAC",
+        "bitrate": 24
+    },
+    {
+        "name": "103.1 The Beat Birmingham, AL",
+        "stream_url": "https://stream.revma.ihrhls.com/zc4956",
+        "homepage": "https://www.iheart.com/live/1031-the-beat-4956/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "hip-hop,r&b",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "103.1 The Wave",
+        "stream_url": "https://ais-sa3.cdnstream1.com/2284_96.aac",
+        "homepage": "https://www.1031thewave.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "80's,new wave",
+        "codec": "AAC",
+        "bitrate": 64
+    },
+    {
+        "name": "103.3 Country",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WKDFFMAAC",
+        "homepage": "https://www.1033country.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "country",
+        "codec": "FLV",
+        "bitrate": 0
+    },
+    {
+        "name": "103.3 eD-FM",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KDRFFMAAC.aac",
+        "homepage": "https://www.ed.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "adult hits",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "103.3 The Range",
+        "stream_url": "https://nebcoradio.com:1010/KRAN",
+        "homepage": "https://1033therange.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "country",
+        "codec": "AAC",
+        "bitrate": 96
+    },
+    {
+        "name": "103.5 & 102.9 The Vault",
+        "stream_url": "https://ice66.securenetsystems.net/WJKI",
+        "homepage": "https://thevaultrocks.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic rock",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "103.5 KISS FM - WKSC-FM Chicago",
+        "stream_url": "https://stream.revma.ihrhls.com/zc849",
+        "homepage": "https://1035kissfm.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "pop,top 40",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "103.5 KISS FM WKSC Chicago",
+        "stream_url": "http://stream.revma.ihrhls.com/zc849",
+        "homepage": "https://1035kissfm.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "hits,hot adult contemporary,pop,pop music,top40",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "103.5 The Arrow (KRSP-FM)",
+        "stream_url": "https://bonneville.cdnstream1.com/2700_48.aac",
+        "homepage": "https://1035thearrow.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic rock,rock",
+        "codec": "AAC+",
+        "bitrate": 47
+    },
+    {
+        "name": "103.5 The Game KGA",
+        "stream_url": "https://ice6.securenetsystems.net/KGA",
+        "homepage": "https://1035thegame.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "sports",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "103.5 WEZL",
+        "stream_url": "https://stream.revma.ihrhls.com/zc2061",
+        "homepage": "https://wezl.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "country",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "103.5 WGRR",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WGRRFMAAC.aac",
+        "homepage": "https://www.wgrr.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic hits",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "103.5 WRBO",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WRBOFMAAC.aac",
+        "homepage": "https://www.1035wrbo.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "urban adult contemporary",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "103.7 The Buzz",
+        "stream_url": "https://signalmedia.streamguys1.com/signalmedia/kabz-aac",
+        "homepage": "https://1037thebuzz.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "sports",
+        "codec": "AAC",
+        "bitrate": 48
+    },
+    {
+        "name": "103.7 The Game",
+        "stream_url": "https://ice6.securenetsystems.net/KLWB",
+        "homepage": "https://1037thegame.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "sports",
+        "codec": "AAC",
+        "bitrate": 32
+    },
+    {
+        "name": "103.7 The Oasis",
+        "stream_url": "https://ice42.securenetsystems.net/KOAZAM?playSessionID=EE67F132-DB59-0E2B-D5F260EC5335C908",
+        "homepage": "https://streamdb9web.securenetsystems.net/cirrusencore/KOAZAM",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "jazz",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "103.7 The Q - WQEN - Trussville/Birmingham, AL",
+        "stream_url": "https://stream.revma.ihrhls.com/zc3093",
+        "homepage": "https://1037theq.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "top 40",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "103.7 WMGM",
+        "stream_url": "https://us2.maindigitalstream.com/ssl/WMGM",
+        "homepage": "https://1037wmgm.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "103.9 The Bulldog",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WXKQFM.mp3?dist=onlineradiobox",
+        "homepage": "http://1039thebulldog.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 96
+    },
+    {
+        "name": "103.9 WYAB",
+        "stream_url": "http://www.wyab.com:81/stream",
+        "homepage": "https://www.wyab.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "news,talk",
+        "codec": "MP3",
+        "bitrate": 48
+    },
+    {
+        "name": "1035 KTU The Beat of New York",
+        "stream_url": "http://ample.revma.ihrhls.com/zc1473",
+        "homepage": "https://www.iheart.com/live/1035-ktu-1473/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "104 Christmas Hits (Radiostorm)",
+        "stream_url": "http://www.radiostorm.com/christmas.pls",
+        "homepage": "http://www.radiostorm.com/",
+        "country": "The United States Of America",
+        "language": "american english,british english,english,english uk",
+        "tags": "christmas,christmas music,christmas rock,christmas songs,holiday,holiday music (nov-dec),merry christmas,seasonal/holiday",
+        "codec": "AAC",
+        "bitrate": 128
+    },
+    {
+        "name": "104.1 KRBE",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KRBEFMAAC.aac",
+        "homepage": "https://www.krbe.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "pop,top 40",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "104.1 The Edge",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1397",
+        "homepage": "https://1041theedge.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "alternative",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "104.1 The Hawk",
+        "stream_url": "https://27163.live.streamtheworld.com/KHKKFM.mp3",
+        "homepage": "https://www.104thehawk.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic rock",
+        "codec": "MP3",
+        "bitrate": 80
+    },
+    {
+        "name": "104.1 The Spot",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1041",
+        "homepage": "https://1041thespot.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "adult hits",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "104.3 Hallelujah FM",
+        "stream_url": "https://stream.revma.ihrhls.com/zc4892",
+        "homepage": "https://1043hallelujahfm.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "gospel",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "104.3 HITfm",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHTO_FMAAC.aac",
+        "homepage": "https://hitfmradio.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "104.3 The Hippo",
+        "stream_url": "https://ice9.securenetsystems.net/KHIP",
+        "homepage": "https://thehippo.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "classic rock",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "104.5 KMYZ The Edge",
+        "stream_url": "https://ice8.securenetsystems.net/KMYZ?play",
+        "homepage": "https://edgetulsa.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "alternative rock,rock",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "104.5 Latino Hits",
+        "stream_url": "https://stream.revma.ihrhls.com/zc4051",
+        "homepage": "https://1045latinohits.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "104.5 Radio Latina",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XLTNFM_SC",
+        "homepage": "https://wp.1045radiolatina.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 112
+    },
+    {
+        "name": "104.5 WRVR Memphis",
+        "stream_url": "https://live.amperwave.net/manifest/audacy-wrvrfmaac-hlsc.m3u8",
+        "homepage": "https://www.audacy.com/1045theriver",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "104.7 KCLD",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KCLDAAC.aac",
+        "homepage": "https://1047kcld.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "pop,top 40",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "104.7 Mi Preferida",
+        "stream_url": "https://ice7.securenetsystems.net/KNIV",
+        "homepage": "https://mipreferidafm.com/",
+        "country": "The United States Of America",
+        "language": "spanish",
+        "tags": "regional mexican",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "104.7 WNOK",
+        "stream_url": "https://stream.revma.ihrhls.com/zc2081",
+        "homepage": "https://wnok.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "pop,top 40",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "104.7 WTUE",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1785",
+        "homepage": "https://wtue.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic rock",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "104.9 FunAsiA",
+        "stream_url": "https://funasia.streamguys1.com/live-1",
+        "homepage": "https://www.funasia.net/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "asian",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "104.9 Max Country",
+        "stream_url": "https://ais-sa1.streamon.fm/7246_48k.aac",
+        "homepage": "https://1049maxcountry.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "country",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "104.9 The Hawk",
+        "stream_url": "https://ice7.securenetsystems.net/WLKZ",
+        "homepage": "https://www.thehawkrocks.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic rock",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "104.9 The River",
+        "stream_url": "http://stream.riverradio.com:8000/wcvofm.mp3",
+        "homepage": "https://1049theriver.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "christian contemporary",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "104.9 the River AAC",
+        "stream_url": "http://stream.riverradio.com:8000/wcvofm.aac",
+        "homepage": "https://riverradio.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "1043 MYfm",
+        "stream_url": "https://stream.revma.ihrhls.com/zc173",
+        "homepage": "https://1043myfm.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "adult contemporary",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "105-1 WJZM",
+        "stream_url": "https://shout2.brnstream.com/proxy/1051wjzm?mp=/stream",
+        "homepage": "http://1051wjzm.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "105.1 FM WKCE",
+        "stream_url": "https://stream.radiojar.com/q04ksted22quv",
+        "homepage": "https://www.wkceradio.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "oldies",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "105.1 KNCI",
+        "stream_url": "https://bonneville.cdnstream1.com/2617_48.aac?aw_0_1st.playerid=Tuner",
+        "homepage": "https://kncifm.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "country,rock",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "105.1 The Bounce",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMGCFMAAC.aac",
+        "homepage": "https://1051thebounce.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "hip hop",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "105.1 The River",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1249",
+        "homepage": "https://1051theriver.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic hits",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "105.3 KZNN",
+        "stream_url": "https://ice5.securenetsystems.net/KZNNFM",
+        "homepage": "https://resultsradioonline.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "country",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "105.3 la ZETA",
+        "stream_url": "https://ice3.securenetsystems.net/WZSP",
+        "homepage": "https://lazeta.fm/",
+        "country": "The United States Of America",
+        "language": "spanish",
+        "tags": "banda,entretenimiento,grupera,music,regional mexican",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "105.3 The Bear",
+        "stream_url": "https://ice26.securenetsystems.net/WBRW",
+        "homepage": "https://www.1053thebear.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "rock",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "105.3 The Beat",
+        "stream_url": "https://stream.revma.ihrhls.com/zc3256",
+        "homepage": "https://1053thebeat.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "urban contemporary",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "105.3 the fan Dallas sports talk",
+        "stream_url": "https://live.amperwave.net/manifest/audacy-krldfmaac-hlsc.m3u8",
+        "homepage": "https://www.audacy.com/1053thefan",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 64
+    },
+    {
+        "name": "105.3 WDAS FM",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1993",
+        "homepage": "https://wdasfm.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "urban adult contemporary",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "105.3 WJEN Cat Country",
+        "stream_url": "https://ais-sa1.streamon.fm/7823_96k.aac",
+        "homepage": "https://www.catcountryvermont.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "bluegrass,country,modern country",
+        "codec": "AAC",
+        "bitrate": 96
+    },
+    {
+        "name": "105.5 The Bridge",
+        "stream_url": "https://ice6.securenetsystems.net/WCOO",
+        "homepage": "https://www.1055thebridge.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "alternative",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "105.5 The X Factor",
+        "stream_url": "https://crystalout.surfernetwork.com:8001/KXFC-FM_MP3",
+        "homepage": "https://xfactorradio.net/Home.aspx",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "105.5 Triple M",
+        "stream_url": "http://live.amperwave.net/direct/audacy-wmmmfmaac-imc",
+        "homepage": "https://www.audacy.com/1055triplem",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "105.5 Triple M Madison (WMMM-FM)",
+        "stream_url": "https://live.amperwave.net/direct/audacy-wmmmfmaac-imc",
+        "homepage": "https://www.audacy.com/1055triplem",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "105.5 WDHA The Rock Of New Jersey",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WDHAFMAACIHR.aac",
+        "homepage": "https://wdhafm.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "rock,the rock of new jersey",
+        "codec": "AAC+",
+        "bitrate": 112
+    },
+    {
+        "name": "105.5 WERC Birmingham, AL",
+        "stream_url": "https://stream.revma.ihrhls.com/zc3085",
+        "homepage": "https://www.iheart.com/live/newsradio-960-werc-7044/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "news talk",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "105.7 R&B Classic",
+        "stream_url": "https://ais-sa1.streamon.fm/7281_64k.aac",
+        "homepage": "https://ais-sa1.streamon.fm/7281_64k.aac",
+        "country": "The United States Of America",
+        "language": "engilsh",
+        "tags": "r&b music",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "105.7 The Brew",
+        "stream_url": "https://stream.revma.ihrhls.com/zc2946",
+        "homepage": "https://1057thebrew.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic rock",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "105.7 The HOG!",
+        "stream_url": "http://69.8.162.164:8000/hog.mp3",
+        "homepage": "https://1057thehog.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "105.7 The X Rocks",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WIXOFMAAC.aac",
+        "homepage": "https://www.1057thexrocks.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "rock",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "105.7 WAPL",
+        "stream_url": "https://woodward-radio.streamb.live/SB00020?args=web_01&starttime=1702969916",
+        "homepage": "https://www.wapl.com/",
+        "country": "The United States Of America",
+        "language": "american english,english",
+        "tags": "classic rock,hard rock,rock,soft rock",
+        "codec": "AAC",
+        "bitrate": 198
+    },
+    {
+        "name": "105.9 FM WMAL",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMALFMAAC.aac",
+        "homepage": "https://www.wmal.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "news,talk",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "105.9 The Brew",
+        "stream_url": "https://stream.revma.ihrhls.com/zc3540",
+        "homepage": "https://1059thebrew.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "rock",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "105.9 The X WXDX",
+        "stream_url": "https://stream.revma.ihrhls.com/zc2033",
+        "homepage": "https://1059thex.iheart.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "1050 AM KTBL",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KTBLAMAAC.aac",
+        "homepage": "https://www.1050talk.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "news,talk",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "106 WCOD",
+        "stream_url": "https://stream.revma.ihrhls.com/zc6756",
+        "homepage": "https://106wcod.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "adult contemporary",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "106. 1 WTAK Huntsville's Classic Rock",
+        "stream_url": "https://stream.revma.ihrhls.com/zc17",
+        "homepage": "https://wtak.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic rock",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "106.1 KISS FM Seattle",
+        "stream_url": "https://stream.revma.ihrhls.com/zc4257",
+        "homepage": "https://kissfmseattle.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "pop,top 40",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "106.1 KISS-FM (KHKS)",
+        "stream_url": "https://stream.revma.ihrhls.com/zc2245",
+        "homepage": "https://1061kissfm.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "106.1 The Breeze",
+        "stream_url": "https://stream.revma.ihrhls.com/zc2001",
+        "homepage": "https://1061thebreeze.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "adult contemporary",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "106.1 The Bull",
+        "stream_url": "http://stream.revma.ihrhls.com/zc1873",
+        "homepage": "https://www.iheart.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "country,new country",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "106.3 Lafayette's Rock & Alternative",
+        "stream_url": "https://ice7.securenetsystems.net/KYMK",
+        "homepage": "https://1063radiolafayette.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "rock,alternative",
+        "codec": "AAC",
+        "bitrate": 32
+    },
+    {
+        "name": "106.3 The Beaver",
+        "stream_url": "https://ice25.securenetsystems.net/WBVR",
+        "homepage": "https://beaverfm.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "country",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "106.5 & 860 WNOV",
+        "stream_url": "https://crystalout.surfernetwork.com:8001/WNOV-AM_MP3",
+        "homepage": "https://wnov860.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "urban contemporary",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "106.5 The Buzz WHBZ",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WHBZFM.mp3",
+        "homepage": "https://1065thebuzz.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "106.5 The END",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1597",
+        "homepage": "https://1065.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "alternative",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "106.7 The Beat",
+        "stream_url": "https://stream.revma.ihrhls.com/zc3632",
+        "homepage": "https://thebeat1067.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "urban contemporary",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "106.7 The Bull",
+        "stream_url": "https://stream.revma.ihrhls.com/zc7784",
+        "homepage": "https://1067thebull.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "country",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "106.7 The Krewe",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KKNDFMAAC.aac",
+        "homepage": "https://www.1067thekrewe.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic hits",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "106.7 WLLZ",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1137",
+        "homepage": "https://1067wllz.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "rock",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "106.9 The Eagle",
+        "stream_url": "https://ice9.securenetsystems.net/KEGK",
+        "homepage": "https://1069eagle.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic hits",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "106.9 The Light",
+        "stream_url": "https://ais-sa8.cdnstream1.com/2815_96.aac?listenerId=esTrackblock0202518&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1700590934",
+        "homepage": "https://thelightfm.org/listen/",
+        "country": "The United States Of America",
+        "language": "american english",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 96
+    },
+    {
+        "name": "106.9 The Q",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KVGQFMAAC.aac",
+        "homepage": "https://www.1069theq.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "pop,top 40",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "106.9 The Ranch",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KRVFFMAAC.aac",
+        "homepage": "https://www.1069theranch.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "country",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "107 WANS",
+        "stream_url": "http://hemnos.cdnstream.com/1442_128",
+        "homepage": "http://www.107wans.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "80s,greenville",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "107.1 A1A",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WAOAFMAAC.aac",
+        "homepage": "https://www.wa1a.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "pop,top 40",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "107.1 FM The Boss - WWZY (Long Branch, New Jersey, USA)",
+        "stream_url": "https://prod-54-162-171-6.amperwave.net/press-wwzyfmaac-hlsc1.m3u8/",
+        "homepage": "https://1071theboss.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic rock,rock",
+        "codec": "AAC",
+        "bitrate": 64
+    },
+    {
+        "name": "107.1 FM WTDK",
+        "stream_url": "http://stream.abacast.net/direct/wboc-wtdkfmaac-ibc2",
+        "homepage": "https://www.1071theduck.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic hits,oldies",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "107.1 The Peak NY",
+        "stream_url": "http://ais-sa1.streamon.fm/7836_128k.aac",
+        "homepage": "https://www.1071thepeak.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "aaa,rock",
+        "codec": "AAC",
+        "bitrate": 128
+    },
+    {
+        "name": "107.1 the X",
+        "stream_url": "http://sc1.reignradio.net:9302/",
+        "homepage": "http://1071thex.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "christian pop,hip-hop and alternative music,rock",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "107.3 Alternative - Cleveland, Ohio",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WNWVFMAAC_SC",
+        "homepage": "https://1073cleveland.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "alternative rock,rock",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "107.3 The Vibe",
+        "stream_url": "https://playerservices.streamtheworld.com/pls/KMJKFM.pls",
+        "homepage": "https://www.1073thevibe.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 80
+    },
+    {
+        "name": "107.5 FrankFM",
+        "stream_url": "https://prod-3-222-116-19.amperwave.net/binnie-wfnkfmaac-hlsc.m3u8",
+        "homepage": "https://1075frank.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 128
+    },
+    {
+        "name": "107.5 KISS FM",
+        "stream_url": "https://stream.revma.ihrhls.com/zc2740",
+        "homepage": "https://1075kissfm.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "pop,top 40",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "107.5 KPSR Purple Sounds Radio",
+        "stream_url": "http://stream.radiojar.com/0n5m3e19ms3vv",
+        "homepage": "https://musizman46.wixsite.com/107-5-kpsr",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "107.5 The Game",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WNKTFMAAC.aac",
+        "homepage": "https://www.1075thegame.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "sports",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "107.5 WGCI",
+        "stream_url": "https://stream.revma.ihrhls.com/zc841",
+        "homepage": "https://wgci.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "urban contemporary",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "107.9 FM “The Bull”",
+        "stream_url": "https://ais-sa1.streamon.fm/7283_48k.aac",
+        "homepage": "https://ruralradio.com/bull/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "107.9 KBPI",
+        "stream_url": "https://stream.revma.ihrhls.com/zc373",
+        "homepage": "https://kbpi.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "rock",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "107.9 The Fox",
+        "stream_url": "https://ice3.securenetsystems.net/KPFX",
+        "homepage": "https://www.1079thefox.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic rock",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "107.9 The Mix",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WNTRFMAAC.aac",
+        "homepage": "https://www.indysmix.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "adult contemporary",
+        "codec": "AAC+",
+        "bitrate": 80
+    },
+    {
+        "name": "107.9 The Mix WNTR",
+        "stream_url": "https://playerservices.streamtheworld.com/pls/WNTRFM.pls",
+        "homepage": "https://www.indysmix.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "1070 WDIA",
+        "stream_url": "https://stream.revma.ihrhls.com/zc2129",
+        "homepage": "https://mywdia.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "urban contemporary",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "1090 KJR",
+        "stream_url": "https://stream.revma.ihrhls.com/zc7747",
+        "homepage": "https://1090kjr.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "sports",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "1110 KFAB",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1325",
+        "homepage": "https://kfab.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "news,talk",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "113.FM - Awesome 80s",
+        "stream_url": "http://listen.113.fm/awesome80s.m3u",
+        "homepage": "http://listen.113.fm/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "80s",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "113.FM - Indie Nation",
+        "stream_url": "https://113fm-atunwadigital.streamguys1.com/1047",
+        "homepage": "https://www.113.fm/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "indie",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "113.FM Alt-X",
+        "stream_url": "https://113fm-atunwadigital.streamguys1.com/1001?aw_0_req.gdpr=true?us_privacy=1YYN",
+        "homepage": "https://www.113.fm/sg-altx",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "90s,alternative / indie,alternative rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "113.FM Big Kickin Country",
+        "stream_url": "https://113fm-atunwadigital.streamguys1.com/1004",
+        "homepage": "https://www.113.fm/",
+        "country": "The United States Of America",
+        "language": "american english",
+        "tags": "big kickin 103fm",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "113.FM Coffee House",
+        "stream_url": "https://113fm-atunwadigital.streamguys1.com/1009",
+        "homepage": "https://www.113.fm/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "acoustic",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "113.FM Elevator",
+        "stream_url": "http://113fm-atunwadigital.streamguys1.com/1010",
+        "homepage": "https://www.113.fm/listen",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "113.fm Legends of Country",
+        "stream_url": "https://113fm-atunwadigital.streamguys1.com/1073?aw_0_1st.playerid=SGplayer&aw_0_1st.skey=1714719945670&awparams=playerid%3ASGplayer%3B",
+        "homepage": "https://www.113.fm/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "113.FM XMRR Genre Free Radio",
+        "stream_url": "http://listen.113.fm/xmrr.m3u",
+        "homepage": "https://www.113.fm/sg-xmrr-radio",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "1200 WOAI Talk Radio",
+        "stream_url": "https://stream.revma.ihrhls.com/zc2361/hls.m3u8",
+        "homepage": "https://www.iheart.com/live/1200-woai-2361/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 24
+    },
+    {
+        "name": "1250 WTMA",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WTMAAMAAC.aac",
+        "homepage": "https://www.wtma.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "news,talk",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "1310 KGLB",
+        "stream_url": "https://ice5.securenetsystems.net/KGLB",
+        "homepage": "https://kduz.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "country",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "1330 & 101.5 WHBL",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WHBLAMAAC.aac",
+        "homepage": "https://whbl.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "news,talk",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "1330 AM - KNSS - Wichita",
+        "stream_url": "http://stream.abacast.net/direct/audacy-knssamaac-imc",
+        "homepage": "https://www.audacy.com/knss",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "news talk",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "1340 The Fan 3",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WIFNAM.mp3",
+        "homepage": "https://www.xtra1063.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "sports",
+        "codec": "MP3",
+        "bitrate": 48
+    },
+    {
+        "name": "1340 The Game",
+        "stream_url": "https://stream.revma.ihrhls.com/zc3066",
+        "homepage": "https://1340thegame.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "sports",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "1380 KCIM",
+        "stream_url": "https://ice5.securenetsystems.net/KCIM",
+        "homepage": "https://www.1380kcim.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic hits",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "1390 WNIO",
+        "stream_url": "https://stream.revma.ihrhls.com/zc2760",
+        "homepage": "https://sportsradio1390.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "sports",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "1440 WNFL",
+        "stream_url": "https://mwc.streamguys1.com/wnfl-aac",
+        "homepage": "https://wnflsports.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "sports",
+        "codec": "AAC+",
+        "bitrate": 56
+    },
+    {
+        "name": "1450 & 96.1 The Big X",
+        "stream_url": "https://ice66.securenetsystems.net/WXVW",
+        "homepage": "https://www.bigxsportsradio.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "sports",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "1460 AM Deportes Vegas",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KENOAM.mp3",
+        "homepage": "https://www.deportesvegas.com/",
+        "country": "The United States Of America",
+        "language": "spanish",
+        "tags": "deportes,entretenimiento,radio hablada",
+        "codec": "MP3",
+        "bitrate": 24
+    },
+    {
+        "name": "1460 ESPN Deportes",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KENOAMAAC.aac",
+        "homepage": "https://www.lvsportsnetwork.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "1460 KXNO",
+        "stream_url": "https://stream.revma.ihrhls.com/zc921",
+        "homepage": "https://kxno.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "sports",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "1480 AM - KQAM - Wichita",
+        "stream_url": "http://listento.kqamradio.com:8016/stream",
+        "homepage": "https://www.stecklinecommunications.com/kqam",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "news talk",
+        "codec": "MP3",
+        "bitrate": 96
+    },
+    {
+        "name": "1490 WMRN",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1829",
+        "homepage": "https://wmrn.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "news,talk",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "1560 The Franchise 2",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KEBCAMAAC.aac",
+        "homepage": "https://thefranchiseok.com/listen-up/franchise-2",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "sports",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "1580 The Fanatic",
+        "stream_url": "https://ice41.securenetsystems.net/KQFN",
+        "homepage": "https://www.1580thefanatic.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "sports",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "181 Fm The Beat",
+        "stream_url": "http://www.181.fm/stream/pls/181-beat.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.fm",
+        "stream_url": "https://listen.181fm.com/181-xoldies_128k.mp3",
+        "homepage": "",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - 80's Country",
+        "stream_url": "http://listen.181fm.com/181-80scountry_128k.mp3",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "80s,country,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - 80's HairBand",
+        "stream_url": "http://www.181.fm/stream/pls/181-hairband.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "80s,hair metal,metal,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - 90's Alternative",
+        "stream_url": "http://www.181.fm/stream/pls/181-90salt.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "90s,alternative,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - 90's Country",
+        "stream_url": "http://www.181.fm/stream/pls/181-90scountry.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "90s,country,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - 90's Dance",
+        "stream_url": "http://www.181.fm/stream/pls/181-90sdance.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "90s,dance,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Acid Jazz",
+        "stream_url": "http://www.181.fm/stream/pls/181-acidjazz.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "acid jazz,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Awesome 80's",
+        "stream_url": "http://www.181.fm/stream/pls/181-awesome80s.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "80s,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Beatles",
+        "stream_url": "http://www.181.fm/stream/pls/181-beatles.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "beat,oldies,pop,rock,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - BeBop Jazz",
+        "stream_url": "http://www.181.fm/stream/pls/181-bebop.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "bebop,jazz,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Chilled Out",
+        "stream_url": "http://www.181.fm/stream/pls/181-chilled.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "chillout,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Chilled Out (USA) 128k mp3",
+        "stream_url": "http://listen.181fm.com/181-chilled_128k.mp3",
+        "homepage": "http://player.181fm.com/?station=181-chilled",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "ambient,chill,chillout,easy listening,electro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Chloe@181.FM",
+        "stream_url": "http://www.181.fm/stream/pls/181-chloe.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "adult album alternative,alternative rock,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Christmas Blender",
+        "stream_url": "http://www.181.fm/stream/pls/181-xblender.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "christmas music,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Christmas Classics",
+        "stream_url": "http://www.181.fm/stream/pls/181-xtraditional.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "christmas music,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Christmas Fun",
+        "stream_url": "http://www.181.fm/stream/pls/181-xfun.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "christmas music,comedy,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Christmas Gospel",
+        "stream_url": "http://www.181.fm/stream/pls/181-xgospel.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "christmas music,gospel,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Christmas Highway",
+        "stream_url": "http://www.181.fm/stream/pls/181-xhighway.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "christmas music,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Christmas Kids",
+        "stream_url": "http://www.181.fm/stream/pls/181-xkids.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "children,christmas music,kids,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Christmas Kountry",
+        "stream_url": "http://www.181.fm/stream/pls/181-xkkountry.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "christmas music,country,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Christmas Mix",
+        "stream_url": "http://www.181.fm/stream/pls/181-xmix.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "christmas music,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Christmas Oldies",
+        "stream_url": "http://www.181.fm/stream/pls/181-xoldies.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "christmas music,classic hits,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Christmas Power",
+        "stream_url": "http://www.181.fm/stream/pls/181-xpower.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "christmas music,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Christmas R&B",
+        "stream_url": "http://www.181.fm/stream/pls/181-xtrue.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "christmas music,rnb,soul,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Christmas Rock",
+        "stream_url": "http://www.181.fm/stream/pls/181-xrock.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "christmas music,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Christmas Smooth Jazz",
+        "stream_url": "http://www.181.fm/stream/pls/181-xsmooth.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "christmas music,smooth jazz,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Christmas Soundtracks",
+        "stream_url": "http://www.181.fm/stream/pls/181-xsoundtrax.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "christmas music,soundtracks,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Christmas Spirit",
+        "stream_url": "http://www.181.fm/stream/pls/181-xspirit.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "christian contemporary,christmas music,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Christmas Standards",
+        "stream_url": "http://www.181.fm/stream/pls/181-xstandards.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "adult standards,christmas music,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Christmas Swing",
+        "stream_url": "http://www.181.fm/stream/pls/181-xswing.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "christmas music,jazz,swing,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Classic Buzz (Alt)",
+        "stream_url": "http://www.181.fm/stream/pls/181-classicbuzz.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "alternative,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Classic Hits 181",
+        "stream_url": "http://www.181.fm/stream/pls/181-greatoldies.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic hits,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Classical Guitar",
+        "stream_url": "http://www.181.fm/stream/pls/181-classicalguitar.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classical guitar,guitar,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Classical Guitar",
+        "stream_url": "http://listen.livestreamingservice.com/181-classicalguitar_64k.aac",
+        "homepage": "https://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classical guitar",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "181.FM - Classical Guitar",
+        "stream_url": "http://listen.livestreamingservice.com:8020/",
+        "homepage": "https://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "easy listening,guitar",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Classical Jazz",
+        "stream_url": "http://listen.181fm.com/181-classicaljazz_128k.mp3",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic jazz,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Classical Music",
+        "stream_url": "http://www.181.fm/stream/pls/181-classical.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classical,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Comedy Club",
+        "stream_url": "http://www.181.fm/stream/pls/181-comedy.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "comedy,talk,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Energy 93 (Euro EDM)",
+        "stream_url": "http://www.181.fm/stream/pls/181-energy93.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "edm,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Energy 98",
+        "stream_url": "http://listen.181fm.com/181-energy98_128k.mp3",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "dance,house,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Front Porch (Bluegrass)",
+        "stream_url": "http://www.181.fm/stream/pls/181-frontporch.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "bluegrass,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Fusion Jazz",
+        "stream_url": "http://www.181.fm/stream/pls/181-fusionjazz.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "fusion jazz,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Good Time Oldies Radio",
+        "stream_url": "http://listen.181fm.com/181-goodtime_128k.mp3",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "oldies,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Highway 181",
+        "stream_url": "http://www.181.fm/stream/pls/181-highway.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic country,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Jammin 181",
+        "stream_url": "http://www.181.fm/stream/pls/181-jammin.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "rnb,soul,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Kickin' Country",
+        "stream_url": "http://www.181.fm/stream/pls/181-kickincountry.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "country,pop,rock,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Lite 80's",
+        "stream_url": "http://www.181.fm/stream/pls/181-lite80s.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "80s,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Lite 90's",
+        "stream_url": "http://www.181.fm/stream/pls/181-lite90s.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "90s,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Mellow Gold",
+        "stream_url": "http://www.181.fm/stream/pls/181-mellow.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic hits,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Old School HipHop/RnB",
+        "stream_url": "http://listen.181fm.com/181-oldschool_128k.mp3",
+        "homepage": "http://listen.181fm.com/181-oldschool_128k.mp3",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "old school hip hop",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Party 181",
+        "stream_url": "http://www.181.fm/stream/pls/181-party.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "party,pop,top 40,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Power 181 (Top 40)",
+        "stream_url": "http://www.181.fm/stream/pls/181-power.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "pop,top 40,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Real Country",
+        "stream_url": "http://www.181.fm/stream/pls/181-realcountry.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "country,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Reggae Roots",
+        "stream_url": "http://www.181.fm/stream/pls/181-reggae.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "reggae,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Rock 181",
+        "stream_url": "http://www.181.fm/stream/pls/181-rock.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "rock,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Rock 40 (Rock & Roll)",
+        "stream_url": "http://www.181.fm/stream/pls/181-rock40.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "rock'n'roll,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Salsa",
+        "stream_url": "http://www.181.fm/stream/pls/181-salsa.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "salsa,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Smooth AC",
+        "stream_url": "http://www.181.fm/stream/pls/181-smoothac.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "easy listening,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Soul",
+        "stream_url": "http://www.181.fm/stream/pls/181-soul.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "soul,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Star 90's",
+        "stream_url": "http://www.181.fm/stream/pls/181-star90s.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "90s,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Super 70s",
+        "stream_url": "http://www.181.fm/stream/pls/181-70s.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "70s,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Techno Club",
+        "stream_url": "http://www.181.fm/stream/pls/181-technoclub.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "techno,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - The Ball",
+        "stream_url": "http://www.181.fm/stream/pls/181-ball.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "disco,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - The Box (Urban)",
+        "stream_url": "http://www.181.fm/stream/pls/181-thebox.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "urban,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - The Breeze",
+        "stream_url": "http://www.181.fm/stream/pls/181-breeze.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "easy listening,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - The Buzz (Alt. Rock)",
+        "stream_url": "http://www.181.fm/stream/pls/181-buzz.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "alternative rock,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - The Heart (Love Songs)",
+        "stream_url": "http://www.181.fm/stream/pls/181-heart.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "love songs,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - The Mix",
+        "stream_url": "http://www.181.fm/stream/pls/181-themix.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classic hits,pop,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - The Office",
+        "stream_url": "http://www.181.fm/stream/pls/181-office.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "pop,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - The Point",
+        "stream_url": "http://www.181.fm/stream/pls/181-thepoint.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "pop,rock,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - The Rock! (HardRock)",
+        "stream_url": "http://www.181.fm/stream/pls/181-hardrock.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "hard rock,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - The Vibe of Vegas",
+        "stream_url": "http://www.181.fm/stream/pls/181-vibe.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "dance,edm,electro,pop,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Trance Jazz",
+        "stream_url": "http://www.181.fm/stream/pls/181-trancejazz.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "chillout,jazz,trance,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - True Blues",
+        "stream_url": "http://www.181.fm/stream/pls/181-blues.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "blues,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - True R&B",
+        "stream_url": "http://www.181.fm/stream/pls/181-rnb.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "rnb,urban,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - UK top 40",
+        "stream_url": "http://www.181.fm/stream/pls/181-uktop40.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "pop,top 40,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM - Vocal Jazz",
+        "stream_url": "http://www.181.fm/stream/pls/181-vocals.pls",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "jazz,vocal jazz,waynesboro",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM 80s R&B",
+        "stream_url": "http://listen.livestreamingservice.com/181-80srnb_64k.aac",
+        "homepage": "",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "r&b/urban",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "181.FM 90s Dance",
+        "stream_url": "http://listen.livestreamingservice.com/181-90sdance_128k.mp3",
+        "homepage": "https://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM 90s R&B",
+        "stream_url": "http://listen.livestreamingservice.com/181-90srnb_128k.mp3",
+        "homepage": "",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "r&b/urban",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM Classic Energy",
+        "stream_url": "https://listen.181fm.com/181-classicenergy_64k.aac",
+        "homepage": "https://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "2000s dance,classic energy",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "181.FM Classic Energy",
+        "stream_url": "https://listen.181fm.com/181-classicenergy_128k.mp3",
+        "homepage": "https://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "dance",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM Classical Music",
+        "stream_url": "http://listen.livestreamingservice.com/181-classical_128k.mp3",
+        "homepage": "https://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "classical",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM Energy 93 Euro EDM",
+        "stream_url": "https://listen.181fm.com/181-energy93_128k.mp3",
+        "homepage": "http://181fm.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM Energy 98",
+        "stream_url": "https://listen.181fm.com/181-energy98_64k.aac",
+        "homepage": "https://www.18.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "dance",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "181.fm good time oldies",
+        "stream_url": "https://listen.181fm.com/181-goodtime_128k.mp3",
+        "homepage": "",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.fm Kickin' Country",
+        "stream_url": "http://listen.livestreamingservice.com/181-kickincountry_128k.mp3",
+        "homepage": "https://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "american english",
+        "tags": "new country",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM Power Explicit",
+        "stream_url": "http://listen.livestreamingservice.com/181-powerexplicit_128k.mp3",
+        "homepage": "http://181.fm/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "explicit,pop,top 40",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.FM Super 70'S",
+        "stream_url": "http://listen.livestreamingservice.com/181-70s_128k.mp3",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "181.fm The Beat",
+        "stream_url": "http://listen.livestreamingservice.com/181-beat_64k.aac",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "hiphop,rnb",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "181.fm The Buzz",
+        "stream_url": "http://listen.livestreamingservice.com/181-buzz_64k.aac",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "181.FM The Office",
+        "stream_url": "http://listen.livestreamingservice.com/181-office_64k.aac",
+        "homepage": "http://181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "pop",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "181.fm UK Top 40",
+        "stream_url": "http://listen.livestreamingservice.com/181-uktop40_64k.aac",
+        "homepage": "http://www.181.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "1980s.FM",
+        "stream_url": "http://hi5.1980s.fm/;stream.mp3",
+        "homepage": "http://1980s.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "80s,classic hits,classic rock,richmond",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "1RADIO.SPACE 24/7",
+        "stream_url": "http://c22.radioboss.fm/playlist/118/1RADIO.SPACE.m3u",
+        "homepage": "https://1radio.space/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "2 Love Radio",
+        "stream_url": "https://ais-sa2.cdnstream1.com/2210_128.mp3",
+        "homepage": "https://mytuner-radio.com/es/emisora/2-love-radio-442729/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "ballads,hits",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2000 FM - Alternative Rock",
+        "stream_url": "http://bigrradio.cdnstream1.com/5101_128",
+        "homepage": "http://www.2000fm.net/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "alternative rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2000 FM - Chillin",
+        "stream_url": "http://bigrradio.cdnstream1.com/5102_128",
+        "homepage": "http://www.2000fm.net/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "chillout",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2000 FM - Country",
+        "stream_url": "http://bigrradio.cdnstream1.com/5103_128",
+        "homepage": "http://www.2000fm.net/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "country",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2000 FM - Hard Rock",
+        "stream_url": "http://bigrradio.cdnstream1.com/5104_128",
+        "homepage": "http://www.2000fm.net/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "hard rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2000 FM - RnB & Hip-Hop",
+        "stream_url": "http://bigrradio.cdnstream1.com/5105_128",
+        "homepage": "http://www.2000fm.net/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "hiphop,rnb",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2000 FM - Top 40",
+        "stream_url": "http://bigrradio.cdnstream1.com/5106_128",
+        "homepage": "http://www.2000fm.net/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "top 40",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2000's Country Music Radio",
+        "stream_url": "https://2.mystreaming.net/uber/cmr00scountry/icecast.audio",
+        "homepage": "https://mytuner-radio.com/radio/country-music-radio-00s-country-487904/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "202.fm 020 Alternative",
+        "stream_url": "http://listen.livestreamingservice.com/181-buzz_128k.mp3",
+        "homepage": "http://www.202.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "alternative rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "202.fm 90's Alternative",
+        "stream_url": "http://listen.livestreamingservice.com:8052/",
+        "homepage": "http://www.202.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "alternative",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "22 West Media Radio (California State University)",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/22WESTRADIOONLINEAAC.aac",
+        "homepage": "https://22westmedia.com/",
+        "country": "The United States Of America",
+        "language": "american english",
+        "tags": "alternative rock,college radio",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "24-7 The ‘80s",
+        "stream_url": "http://antares.dribbcast.com:4424/stream",
+        "homepage": "https://24-7nicheradio.com/url/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "80s",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "24/7 - Dance",
+        "stream_url": "https://ip39.ip-178-33-37.eu/radio/8010/radio.mp3",
+        "homepage": "",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "electronic",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "24/7 Christmas Music Radio Station",
+        "stream_url": "http://streaming.live365.com/a29903",
+        "homepage": "https://live365.com/station/24-7-Christmas-Music-Radio-Station-a29903",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "christmas music",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "24/7 Christmas Music Radio Station",
+        "stream_url": "http://ais-edge101-live365-dal02.cdnstream.com/a29903",
+        "homepage": "https://live365.com/station/24-7-Christmas-Music-Radio-Station-a29903",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "christmas music",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "24/7 Comedy",
+        "stream_url": "https://stream.revma.ihrhls.com/zc4902",
+        "homepage": "https://www.iheart.com/live/247-comedy-4902/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "comedy,talk",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "24/7 MJ Radio",
+        "stream_url": "https://stream.zeno.fm/us5et3sns0hvv",
+        "homepage": "https://www.michaeljackson.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "00s,70s,80s,90s,pop,rock",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "24/7 Polka Heaven",
+        "stream_url": "http://192.99.83.149:8046/stream?type=http&nocache=80369",
+        "homepage": "http://www.247polkaheaven.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "polka",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "24/7 Polka Heaven",
+        "stream_url": "https://s3.nexuscast.com/tunein.php/rayzalokar/playlist.pls",
+        "homepage": "http://www.247polkaheaven.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "24/7 Polka Heaven",
+        "stream_url": "http://s3.nexuscast.com/tunein.php/rayzalokar/playlist.pls",
+        "homepage": "http://www.247polkaheaven.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "24/7 Polka Heaven",
+        "stream_url": "http://192.99.83.149:8046/",
+        "homepage": "http://www.247polkaheaven.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "polka",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "24/7 Polka Heaven",
+        "stream_url": "http://192.99.83.149:8046/stream/;",
+        "homepage": "http://www.247polkaheaven.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "247 Mixing",
+        "stream_url": "https://listen.radioking.com/radio/558131/stream/617633",
+        "homepage": "https://www.247mixing.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "2unes Wave Jazz",
+        "stream_url": "http://login.webinternetradio.com:1320/stream",
+        "homepage": "https://2unes.net/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "300 Live! Niagara Radio",
+        "stream_url": "https://streaming.live365.com/a60417",
+        "homepage": "https://300liveniagararadio.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "305 MI RADIO",
+        "stream_url": "https://cast3.my-control-panel.com/proxy/305miradio/stream",
+        "homepage": "https://305miradio.com/",
+        "country": "The United States Of America",
+        "language": "spanish",
+        "tags": "latino,salsa,tropical",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "313.fm",
+        "stream_url": "http://icecast.ofdoom.com:8000/burst.mp3",
+        "homepage": "https://www.313.fm/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "3ABN Music Channel",
+        "stream_url": "https://war.streamguys1.com:7185/MC01",
+        "homepage": "https://3abn.org/3abn-music-channel.html",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "adventist,christian,music",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "3ABN Music Channel (non SSL)",
+        "stream_url": "http://war.str3am.com:7180/MC01",
+        "homepage": "https://3abn.org/3abn-music-channel.html",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "adventist,christian,music",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "3ABN Radio",
+        "stream_url": "https://war.streamguys1.com:7185/live",
+        "homepage": "https://3abn.org/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "gospel",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "3ABN Radio",
+        "stream_url": "http://war.str3am.com:7180/live",
+        "homepage": "http://3abn.org/networks/3abn-radio/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "children,christian",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "3WZ",
+        "stream_url": "https://ice9.securenetsystems.net/WZWW",
+        "homepage": "https://3wz.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "hot adult contemporary",
+        "codec": "AAC+",
+        "bitrate": 32
+    },
+    {
+        "name": "420SMOKERADIO",
+        "stream_url": "https://s5.radio.co/se57703173/listen",
+        "homepage": "https://www.420smokeradio.net/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "classic soul,hip hop,independent artist,r&b,radio shows",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "440Music Indie Pop Music Radio",
+        "stream_url": "https://radio1.440music.com:2199/tunein/pop.pls?_gl=1*1pdvptw*_ga*MTgzMjg0MzY2My4xNzQwODE0OTM1*_ga_TTZ1CEWXJH*MTc0MDgxNDkzNC4xLjAuMTc0MDgxNDkzNC4wLjAuMA..",
+        "homepage": "https://pop.440music.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "4u Classic Rock",
+        "stream_url": "https://str4uice.streamakaci.com/4uclassicrock.mp3",
+        "homepage": "http://www.4urock.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "4U Motown",
+        "stream_url": "https://str4uice.streamakaci.com/4umotown.mp3",
+        "homepage": "https://www.4urock.com/playermotown.php",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "disco,r&b,soul",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "4U Rock Live",
+        "stream_url": "https://str4uice.streamakaci.com/4urocklive.mp3",
+        "homepage": "https://www.4urock.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "hits,live,oldies,rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "50's Science Fiction KOTR",
+        "stream_url": "https://stream.kf7k.com/listen/scifi/radio.mp3",
+        "homepage": "https://stream.kf7k.com/public/scifi",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "old time radio,otr",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "540 WRGC The River",
+        "stream_url": "https://ice24.securenetsystems.net/WRGC",
+        "homepage": "https://wrgc.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "adult contemporary",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "550 KTSA",
+        "stream_url": "https://live.amperwave.net/manifest/alphacorporate-ktsaamaac-ibc4",
+        "homepage": "https://www.ktsa.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "news,talk",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "55KRC",
+        "stream_url": "https://stream.revma.ihrhls.com/zc1709",
+        "homepage": "https://55krc.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "news,talk",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "590 KQNT",
+        "stream_url": "https://stream.revma.ihrhls.com/zc4952",
+        "homepage": "https://590kqnt.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "news,talk",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "600 WREC",
+        "stream_url": "https://stream.revma.ihrhls.com/zc2145",
+        "homepage": "https://600wrec.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "news,talk",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "60NORTHRADIO",
+        "stream_url": "http://r5.zetcast.net/flac",
+        "homepage": "https://60north.radio/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "OGG",
+        "bitrate": 1411
+    },
+    {
+        "name": "60sRadio (MRG.fm)",
+        "stream_url": "http://listen.mrg.fm:8020/stream",
+        "homepage": "https://www.mrg.fm/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "1960,1960s,60's,60s,oldies,pop music,rock",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "61 BLUES",
+        "stream_url": "https://hts06.brascast.com:10182/live",
+        "homepage": "https://61-blues.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "blues",
+        "codec": "AAC",
+        "bitrate": 128
+    },
+    {
+        "name": "620 WTMJ",
+        "stream_url": "https://live.amperwave.net/manifest/goodkarma-wtmjamaac-ibc",
+        "homepage": "https://wtmj.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "670 KBOI",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KBOIAMAAC.aac",
+        "homepage": "https://www.kboi.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "news,talk",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "670 The Score",
+        "stream_url": "https://live.amperwave.net/direct/audacy-wscramaac-imc",
+        "homepage": "https://www.audacy.com/670thescore/watch-live-video-from-670-the-score",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "cubs,sports",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "680 The Fan",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WCNNAMAAC.aac",
+        "homepage": "https://www.680thefan.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "news,talk",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "6forty Radio ",
+        "stream_url": "http://radio.6forty.com:8000/6forty.m3u",
+        "homepage": "http://www.6fortyradio.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "deep indie,modern classical,post-metal,post-rock,shoegaze",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "70's Hits DJ Jan The Man",
+        "stream_url": "https://quincy.torontocast.com:2500/stream",
+        "homepage": "http://www.djjandaman.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "70s,classic hits,dance,disco,oldies",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "70s 80s Disco Funk ModernSoul Boogie",
+        "stream_url": "https://discofunk.streamingmedia.it/usa",
+        "homepage": "https://funky.radio/discofunk_modernsoul_boogie",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "1970s,1980s,70's,70er,70s,70s disco,80,80's,80er,80s,boogie,funk",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "70s 80s Hits",
+        "stream_url": "https://azuracast.streams.gr/listen/oldieswebradio/hits70s80sradio.mp3?",
+        "homepage": "https://hits70s80s.weebly.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "hits 70s 80s",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "70s All Hits",
+        "stream_url": "http://ec4.yesstreaming.net:2270/",
+        "homepage": "http://ec4.yesstreaming.net:2270/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "70s,hits,oldies,pop,top 40",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "70sRadio (MRG.fm)",
+        "stream_url": "http://listen.mrg.fm:8030/stream",
+        "homepage": "https://www.mrg.fm/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "1970,1970s,70's,70s,70s disco,70s soft rock,motown,seventies",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "770 KKOB",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KKOBAMAAC.aac",
+        "homepage": "https://www.newsradiokkob.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "news,talk",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "777 FM",
+        "stream_url": "http://stream.laut.fm/777fm.pls",
+        "homepage": "https://laut.fm/777fm",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "christian,gospel",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "790 AM - KCAM Glennallen Alaska",
+        "stream_url": "https://streams.radiomast.io/kcam",
+        "homepage": "https://www.kcam.org/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "alaska,christian",
+        "codec": "AAC",
+        "bitrate": 128
+    },
+    {
+        "name": "790 KRD",
+        "stream_url": "https://stream.revma.ihrhls.com/zc4836",
+        "homepage": "https://790krd.iheart.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "sports",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "8 Ball Radio",
+        "stream_url": "https://eightball.out.airtime.pro/eightball_a",
+        "homepage": "https://8ballradio.nyc/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "community radio,eclectic,freeform,volunteer-run",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "80 Love Classical",
+        "stream_url": "https://strm112.1.fm/loveclassics_mobile_mp3",
+        "homepage": "",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "decades",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "80er 90er und Today's Hitz",
+        "stream_url": "https://pureplay.cdnstream1.com/6037_64.aac",
+        "homepage": "https://gotradio.com/radiochannel/the-mix/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "80s & 90s Mix - BestNet Radio",
+        "stream_url": "https://bigrradio.cdnstream1.com/5143_128",
+        "homepage": "https://bestnetradio.com/#",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "80s,90s,music 80s 90s",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "80s America",
+        "stream_url": "http://wallyjradio.com:8000/80sAmerica?1670287224820",
+        "homepage": "http://www.80samerica.net/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "80s central",
+        "stream_url": "https://streaming.live365.com/a97972",
+        "homepage": "https://live365.com/station/80s-Central-a97972",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "80s",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "80s Central",
+        "stream_url": "https://das-edge09-live365-dal03.cdnstream.com/a97972",
+        "homepage": "https://80scentral.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "80s,commercials,interviews,music",
+        "codec": "",
+        "bitrate": 0
+    },
+    {
+        "name": "80s Metal",
+        "stream_url": "http://bigrradio-edge1.cdnstream.com/5146_128",
+        "homepage": "https://bestnetradio.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "80s,80s metal,metal",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "80sHits Flac",
+        "stream_url": "http://velocitynetdsl.com:8000/dtrs",
+        "homepage": "",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "OGG",
+        "bitrate": 96
+    },
+    {
+        "name": "80sRadio (MRG.fm)",
+        "stream_url": "http://listen.mrg.fm:8080/stream",
+        "homepage": "https://www.mrg.fm/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "1980,1980's,1980s hits,80's,80s,best of the eighties,eighties",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "830 WEEU",
+        "stream_url": "https://ais-sa2.cdnstream1.com/2350_128.mp3",
+        "homepage": "https://830weeu.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "news,talk",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "850 WFTL",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WFTLAMAAC.aac",
+        "homepage": "https://www.850wftl.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "news,talk",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "88.1 FM WVYC Radio Station",
+        "stream_url": "http://192.245.87.103:8000/http://wvyc.ycp.edu/;",
+        "homepage": "http://wvyc.ycp.edu/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "cnn",
+        "stream_url": "https://unlimited2-ar.dps.live/cnn-ar/aac/icecast.audio",
+        "homepage": "",
+        "country": "Afghanistan",
+        "language": "",
+        "tags": "classical",
+        "codec": "AAC+",
+        "bitrate": 0
+    },
+    {
+        "name": "CNN",
+        "stream_url": "https://tunein.cdnstream1.com/2868_96.mp3",
+        "homepage": "https://tunein.cdnstream1.com/2868_96.mp3",
+        "country": "Australia",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 96
+    },
+    {
+        "name": "CNN AM 950 Arg. AAC Alta V3. Ciudad de Buenos Aires",
+        "stream_url": "http://unlimited2-ar.dps.live/cnn-ar/aac/icecast.audio",
+        "homepage": "https://cnnespanol.cnn.com/seccion/cnn-radio-argentina/",
+        "country": "Argentina",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 0
+    },
+    {
+        "name": "CNN Indonesia",
+        "stream_url": "https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist.m3u8",
+        "homepage": "https://cnnindonesia.com/",
+        "country": "Indonesia",
+        "language": "",
+        "tags": "news",
+        "codec": "UNKNOWN",
+        "bitrate": 384
+    },
+    {
+        "name": "CNN Indonesia TV",
+        "stream_url": "http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w275412545_b384000_sleng.m3u8",
+        "homepage": "http://www.cnnindonesia.com/",
+        "country": "Indonesia",
+        "language": "bahasa indonesia",
+        "tags": "",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "CNN INT",
+        "stream_url": "https://d30x5vsa85tvmd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/index.m3u8",
+        "homepage": "https://superradio.cc/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "cnn,news,国家台,新闻",
+        "codec": "AAC,H.264",
+        "bitrate": 8914
+    },
+    {
+        "name": "CNN International",
+        "stream_url": "https://tunein.cdnstream1.com/3519_96.aac",
+        "homepage": "https://www.cnn.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 98
+    },
+    {
+        "name": "CNN Lite [audio]",
+        "stream_url": "https://s3.amazonaws.com/cnn-assets/app-assets/cnn-lite/liteaudio.m3u8",
+        "homepage": "https://lite.cnn.com/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "news",
+        "codec": "AAC",
+        "bitrate": 70
+    },
+    {
+        "name": "Cnn Türk Radyo",
+        "stream_url": "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8?listeningSessionID=669e367246737fe5_6249184_Zq120UIn__0000001w2Bs&downloadSessionID=0",
+        "homepage": "http://cnnturk.com/",
+        "country": "Türkiye",
+        "language": "turkish",
+        "tags": "",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "Fisherton CNN Rosario",
+        "stream_url": "https://media425.digitar.net:8141/radio.mp3",
+        "homepage": "http://www.fishertoncnn.com/",
+        "country": "Argentina",
+        "language": "",
+        "tags": "classical,news",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "Radio CNN",
+        "stream_url": "https://stm13.voxhd.com.br:7148/;",
+        "homepage": "https://radiocnn.com.br/",
+        "country": "Brazil",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "AZPM NPR 89.1 AAC 128",
+        "stream_url": "https://streaming.azpm.org/kuaz128",
+        "homepage": "https://radio.azpm.org/kuaz/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "news,npr,talk",
+        "codec": "AAC",
+        "bitrate": 127
+    },
+    {
+        "name": "AZPM NPR 89.1 AAC 256",
+        "stream_url": "https://streaming.azpm.org/kuaz256",
+        "homepage": "https://radio.azpm.org/kuaz/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "news,npr,talk",
+        "codec": "AAC",
+        "bitrate": 256
+    },
+    {
+        "name": "AZPM NPR 89.1 AAC 64",
+        "stream_url": "https://streaming.azpm.org/kuaz64",
+        "homepage": "https://radio.azpm.org/kuaz/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "news,npr,talk",
+        "codec": "AAC+",
+        "bitrate": 63
+    },
+    {
+        "name": "FluxFM - Ferienprogramm",
+        "stream_url": "http://streams.fluxfm.de/event04/mp3-128/audio/play.m3",
+        "homepage": "https://www.fluxfm.de/",
+        "country": "Germany",
+        "language": "german",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "KCUR 89.3 | NPR in Kansas City",
+        "stream_url": "https://18423.live.streamtheworld.com/KCURFMAAC.aac",
+        "homepage": "https://www.kcur.org/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "kansas city,local news,news,npr",
+        "codec": "AAC+",
+        "bitrate": 64
+    },
+    {
+        "name": "KQED 88.5  - NPR San Francisco, CA (New Stream)",
+        "stream_url": "http://streams.kqed.org/",
+        "homepage": "https://www.kqed.org/radio/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "talk & speech",
+        "codec": "MP3",
+        "bitrate": 32
+    },
+    {
+        "name": "KTEP 88.5  NPR Jazz & Classsical El Paso, TX (New Stream)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/KTEPFM.mp3",
+        "homepage": "https://www.ktep.org/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "university radio",
+        "codec": "MP3",
+        "bitrate": 56
+    },
+    {
+        "name": "KUER NPR Utah",
+        "stream_url": "https://kuer.streamguys1.com/high_icy",
+        "homepage": "https://www.kuer.org/",
+        "country": "The United States Of America",
+        "language": "american english",
+        "tags": "news",
+        "codec": "AAC+",
+        "bitrate": 63
+    },
+    {
+        "name": "KWGS HD1 Stream NPR",
+        "stream_url": "https://utulsa.streamguys1.com/KWGSHD1-AAC",
+        "homepage": "https://www.publicradiotulsa.org/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 80
+    },
+    {
+        "name": "News 88.9 KNPR Nevada",
+        "stream_url": "https://playerservices.streamtheworld.com/pls/knprfm.pls",
+        "homepage": "https://knpr.org/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "news,npr",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "NPR 24 Hour Program Stream",
+        "stream_url": "http://npr-ice.streamguys1.com/live.aac",
+        "homepage": "https://www.npr.org/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "arts,culture,journalism,music,newscasts,non-commercial,non-profit,panel discussions,political,politics,public radio,talk",
+        "codec": "AAC",
+        "bitrate": 64
+    },
+    {
+        "name": "NPR 24 Hour Program Stream",
+        "stream_url": "http://npr-ice.streamguys1.com/live.mp3",
+        "homepage": "https://www.npr.org/2016/04/05/472557877/npr-program-stream",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "news,news talk,political talk,politics,public radio,talk",
+        "codec": "MP3",
+        "bitrate": 96
+    },
+    {
+        "name": "NPR Illinois",
+        "stream_url": "https://war.streamguys1.com:7785/wuis.mp3",
+        "homepage": "https://www.nprillinois.org/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "public radio",
+        "codec": "MP3",
+        "bitrate": 56
+    },
+    {
+        "name": "NPR Newscast",
+        "stream_url": "http://pd.npr.org/anon.npr-mp3/npr/news/newscast.mp3",
+        "homepage": "https://www.npr.org/",
+        "country": "The United States Of America",
+        "language": "american english",
+        "tags": "news,world news",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "NPR Program Stream",
+        "stream_url": "https://npr-ice.streamguys1.com/live.mp3",
+        "homepage": "https://npr.org/",
+        "country": "The United States Of America",
+        "language": "american english,english",
+        "tags": "news,npr,politics,public,talk",
+        "codec": "MP3",
+        "bitrate": 96
+    },
+    {
+        "name": "publicdomainproject   classic",
+        "stream_url": "http://relay.publicdomainproject.org/classical.mp3",
+        "homepage": "http://radio.publicdomainproject.org/de/index.html",
+        "country": "Switzerland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "publicdomainproject  swing jazz",
+        "stream_url": "http://relay.publicdomainradio.org/jazz_swing.mp3",
+        "homepage": "http://radio.publicdomainproject.org/de/index.html",
+        "country": "Switzerland",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "iHeartRadio Broadway",
+        "stream_url": "https://ample.revma.ihrhls.com/zc7378/14_ypx1lharbetk02/playlist.m3u8",
+        "homepage": "https://www.iheart.com/live/iheartradio-broadway-7378/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "broadway,musicals,showtunes,soundtrack,theatre,west end",
+        "codec": "UNKNOWN",
+        "bitrate": 0
+    },
+    {
+        "name": "iHeartRadio Broadway",
+        "stream_url": "http://stream.revma.ihrhls.com/zc7378",
+        "homepage": "https://www.iheart.com/live/iheartradio-broadway-7378/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "broadway,musical,musical theater,musicals,off-broadway,showtunes,soundtrack,soundtracks,theater,theatre,west end",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "iHeartRadio Broadway",
+        "stream_url": "http://stream.revma.ihrhls.com/zc7378/hls.m3u8",
+        "homepage": "https://www.iheart.com/live/iheartradio-broadway-7378/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "broadway,musical,musical theater,musical theatre,musicals,off-broadway,showtunes,soundtrack,soundtracks,theater,theatre,west end",
+        "codec": "AAC",
+        "bitrate": 24
+    },
+    {
+        "name": "iHeartRadio Christmas",
+        "stream_url": "http://stream.revma.ihrhls.com/zc4596/hls.m3u8",
+        "homepage": "https://www.iheart.com/live/iheart-christmas-4596/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "christmas,christmas music,xmas",
+        "codec": "AAC",
+        "bitrate": 24
+    },
+    {
+        "name": "iHeartRadio Christmas Jazz",
+        "stream_url": "https://stream.revma.ihrhls.com/zc7251/hls.m3u8",
+        "homepage": "https://www.iheart.com/live/christmas-jazz-7251/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 24
+    },
+    {
+        "name": "iHeartRadio Countdown Australia (AAC)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT11AAC.aac",
+        "homepage": "https://www.iheart.com/live/iheartradio-countdown-aus-6902/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "music",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "iHeartRadio Countdown Australia (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT11.mp3",
+        "homepage": "https://www.iheart.com/live/iheartradio-countdown-aus-6902/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "music",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "iHeartRadio North Pole Radio",
+        "stream_url": "http://stream.revma.ihrhls.com/zc6734/hls.m3u8",
+        "homepage": "https://www.iheart.com/live/north-pole-radio-6734/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "",
+        "codec": "AAC",
+        "bitrate": 24
+    },
+    {
+        "name": "iHeartRadio Pop (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR31_s01AAC.aac",
+        "homepage": "https://www.iheart.com/live/iheartradio-pop-8167/",
+        "country": "Mexico",
+        "language": "spanish",
+        "tags": "acir,acir online,ciudad de mexico,ciudad de méxico,ciudad mexico,estación,grupo acir,iheart,iheart radio,mex,mexico,mexico city,music,musica,mx,méxico,música,música pop,online,online only,pop,pop dance,pop music,radio,radio online,valle de méxico",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "The 80s iHeartRadio Australia (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT8AAC.aac",
+        "homepage": "https://www.iheart.com/live/the-80s-iheartradio-6794/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1980's,1980s,80's,80s",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "The 80s iHeartRadio Australia (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT8.mp3",
+        "homepage": "https://www.iheart.com/live/the-80s-iheartradio-6794/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1980's,1980s,80's,80s",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "The 90s iHeartRadio Australia (AAC+)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT10AAC.aac",
+        "homepage": "https://www.iheart.com/live/the-90s-iheartradio-6793/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1990s,90's,90s",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "The 90s iHeartRadio Australia (MP3)",
+        "stream_url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT10.mp3",
+        "homepage": "https://www.iheart.com/live/the-90s-iheartradio-6793/",
+        "country": "Australia",
+        "language": "english",
+        "tags": "1990s,90's,90s",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "The Beatles Now And Then (iHeartRadio United States) (AAC)",
+        "stream_url": "http://stream.revma.ihrhls.com/zc10023",
+        "homepage": "https://www.iheart.com/live/the-beatles-now-and-then-10023/",
+        "country": "The United States Of America",
+        "language": "english",
+        "tags": "24/7,classic rock,commercial-free,the beatles,various",
+        "codec": "AAC",
+        "bitrate": 0
+    }
+]
