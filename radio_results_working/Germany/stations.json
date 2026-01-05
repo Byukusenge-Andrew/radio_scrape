@@ -1,0 +1,192 @@
+[
+    {
+        "name": "\tBlasmusikradio mit Bernd",
+        "stream_url": "https://stream.laut.fm/blasmusikradio_mit_bernd",
+        "homepage": "https://laut.fm/blasmusikradio_mit_bernd",
+        "country": "Germany",
+        "language": "german",
+        "tags": "blasmusik,folk,marsch,polka",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "\tpsyradio * fm - progressive",
+        "stream_url": "http://streamer.psyradio.org:8010/;listen.mp3",
+        "homepage": "http://psyradio.fm/",
+        "country": "Germany",
+        "language": "",
+        "tags": "progressive,psychedelic,psytrance",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "\tWDR Sportschau - 2. Fussball Bundesliga-Konferenz LIVE",
+        "stream_url": "http://wdr-sportschau-liga2konferenz.icecastssl.wdr.de/wdr/sportschau/liga2konferenz/mp3/high",
+        "homepage": "http://wdr.de/",
+        "country": "Germany",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": " \tROCKANTENNE Alternative (mp3)",
+        "stream_url": "https://stream.rockantenne.de/alternative/stream/mp3",
+        "homepage": "https://www.rockantenne.de/",
+        "country": "Germany",
+        "language": "german",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": " - DJ & CLUB CHARTS ---> Club Classics, Festival-Hits, Remixes, Single Charts, Mashups, DJ Sets, Club Edits, Dancefloor, Underground, Nightlife, Party Anthems, Ibiza, Miami, Clubbing, Festival, Remix, Mashup, DJ, EDM,  RAVE, Dance, Urban, Latin, Beachclub, Lounge",
+        "stream_url": "https://breakz-2012-high.rautemusik.fm/?ref=rb-djclubcharts",
+        "homepage": "https://breakz.fm/trackliste/",
+        "country": "Germany",
+        "language": "english,german",
+        "tags": "#bewirbdich!,#mashup,beach,best music,brandnew,charts,chillout+lounge,club,clubbing,community radio,dance smashes,dj,dj remix,dj sets,edm,edm radioshows,hard techno,hiphop,hits,hot ac,houseparty,ibiza,ibiza classics,ibiza club,lounge,mashup,minimal techno,non-stop music,party,partycharts,promodj,radio,rave,remixed,singlecharts,sunset,tech house,techno,top 100,top 40,top charts,top hits,underground,urban",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": " - NEUERSCHEINUNGEN - Radio Charts - DJ Charts - Club Charts - Top 100 - Top 40 Club - Pop, Hip-Hop, Dance, EDM, House, Techno, R&B, Trap, Reggaeton, Afrobeat, Indie-Pop, Tropical House, Future Bass, Electro Swing, Synthwave, Deep House, Progressive House, Vocal House, DJ Sets, Remix, Mashup, Dancefloor, Festival-Hits, Club-Hits, Nightlife, Underground.",
+        "stream_url": "https://breakz-high.rautemusik.fm/?ref=rb-neuerscheinungen",
+        "homepage": "https://www.breakz.fm/",
+        "country": "Germany",
+        "language": "english,german",
+        "tags": "chillout,club,club dance,dj,dj sets,electro sets,electronic dance music,future bass,house,ibiza,mashup,non-stop music,pop,pop dance,pop music,promodj,radiocharts,remixes,soul,sunset,tech house,techhouse,top 100,top 40,top charts,top club,top hits,top100,top40",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": " Bremen Zwei NEU",
+        "stream_url": "https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3",
+        "homepage": "https://www.bremenzwei.de/",
+        "country": "Germany",
+        "language": "german",
+        "tags": "ard,culture,information,public radio,radio bremen",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": " Techno Lovers FM Vocal Trance",
+        "stream_url": "https://stream.technolovers.fm/vocal-trance",
+        "homepage": "https://technolovers.fm/",
+        "country": "Germany",
+        "language": "german",
+        "tags": "electro",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "__12PUNKS.FM__ by rautemusik (rm.fm)",
+        "stream_url": "https://12punks-high.rautemusik.fm/?ref=radiobrowser",
+        "homepage": "https://www.rm.fm/12punks",
+        "country": "Germany",
+        "language": "german",
+        "tags": "alternativ rock,classic rock,heavy metal,metal,new rock,punk,rock,rock hits,soft rock",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "__80S__ by rautemusik (rm.fm)",
+        "stream_url": "https://80s-high.rautemusik.fm/?ref=radiobrowser",
+        "homepage": "https://www.rm.fm/80s",
+        "country": "Germany",
+        "language": "english,german",
+        "tags": "1980s,80,80's,80er,80s,golden oldies,goldies,oldies",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "__90S__ by rautemusik (rm.fm)",
+        "stream_url": "https://90s-high.rautemusik.fm/?ref=radiobrowser",
+        "homepage": "https://www.rm.fm/90s",
+        "country": "Germany",
+        "language": "german",
+        "tags": "1990s,90er,90s,dance,eurodance,hiphop,hits,oldies,pop,rap,rm.fm",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "__BASS__ by rautemusik (rm.fm)",
+        "stream_url": "https://bass-high.rautemusik.fm/?ref=radiobrowser",
+        "homepage": "https://www.rm.fm/bass",
+        "country": "Germany",
+        "language": "english,german",
+        "tags": "chilled trap,drum & bass,drum 'n' bass,drum and bass,hip-hop,hiphop,liquid trap,rap hiphop rnb,trap",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "__BEST OF SCHLAGER__ by rautemusik (rm.fm)",
+        "stream_url": "https://best-of-schlager-high.rautemusik.fm/?ref=radiobrowser",
+        "homepage": "https://www.rm.fm/best-of-schlager",
+        "country": "Germany",
+        "language": "english,german",
+        "tags": "70s disco,best,best music,charts,deutschland,disco,discofox,hits,schlager,schlagerhits",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "__BIGCITYBEATS.FM__ by rautemusik (rm.fm)",
+        "stream_url": "https://stream.bigcitybeats.de/bcb-radio/mp3-192/radiobrowser",
+        "homepage": "https://bigcitybeats.de/",
+        "country": "Germany",
+        "language": "english,german",
+        "tags": "charts,dance,deejay,dj,dj sets,edm,electronic,elektronik,festival,hits,house,minimal",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "__BREAKZ.FM__ by rautemusik (rm.fm)",
+        "stream_url": "https://breakz-high.rautemusik.fm/?ref=radiobrowser",
+        "homepage": "https://breakz.fm/",
+        "country": "Germany",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "__BREAKZ.FM__ by rm.fm (rautemusik)",
+        "stream_url": "https://breakz-high.rautemusik.fm/?ref=radiobrowserinfo",
+        "homepage": "https://breakz.fm/",
+        "country": "Germany",
+        "language": "english,german",
+        "tags": "dance,deejay,dj,dj mixes,dj sets,edm,electro,electro house,electronic,hardstyle,hiphop,house,mixtapes,moombahton,reggaeton,rnb,urban",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "__CHARTHITS.FM__ by rautemusik (rm.fm)",
+        "stream_url": "https://charthits-high.rautemusik.fm/?ref=radiobrowser",
+        "homepage": "https://www.charthits.fm/",
+        "country": "Germany",
+        "language": "english,german",
+        "tags": "charts,dance,edm,electro house,electronic,electronica,electropop,hits,house,top40",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "__CHRISTMAS CHOR__ by rautemusik (rm.fm)",
+        "stream_url": "https://christmas-chor-high.rautemusik.fm/?ref=radiobrowser",
+        "homepage": "https://www.rm.fm/christmas-chor",
+        "country": "Germany",
+        "language": "german",
+        "tags": "choral,christmas,christmas music,church,church of christ,klassik weihnachten christmas,weihnachten",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "__CHRISTMAS SCHLAGER__ by rautemusik (rm.fm)",
+        "stream_url": "https://christmas-schlager-high.rautemusik.fm/?ref=radiobrowser",
+        "homepage": "https://www.rm.fm/christmas-schlager",
+        "country": "Germany",
+        "language": "english,german",
+        "tags": "christmas,christmas music,discofox,klassik weihnachten christmas,schlager,schlagerhits,weihnachten,weihnachtsrock",
+        "codec": "MP3",
+        "bitrate": 192
+    }
+]
