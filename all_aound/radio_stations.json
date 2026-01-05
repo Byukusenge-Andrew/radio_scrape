@@ -1,0 +1,302 @@
+[
+    {
+        "name": "\tArrow Classic Rock",
+        "stream_url": "http://stream.gal.io/arrow",
+        "homepage": "https://www.arrow.nl/",
+        "country": "The Netherlands",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "\tBlasmusikradio mit Bernd",
+        "stream_url": "https://stream.laut.fm/blasmusikradio_mit_bernd",
+        "homepage": "https://laut.fm/blasmusikradio_mit_bernd",
+        "country": "Germany",
+        "language": "german",
+        "tags": "blasmusik,folk,marsch,polka",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "\tFun Radio",
+        "stream_url": "http://stream.funradio.sk:8000/fun128.mp3",
+        "homepage": "http://www.funradio.sk/",
+        "country": "Slovakia",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "\tHard Rock Radio FM",
+        "stream_url": "http://67.249.184.45:8015/listen.pls",
+        "homepage": "https://hardrockradiofm.weebly.com/",
+        "country": "The United States Of America",
+        "language": "",
+        "tags": "80's,90's,hard rock,heavy metal",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "\tPolskie Radio Bialystok",
+        "stream_url": "http://stream4.nadaje.com:15476/radiobialystok",
+        "homepage": "http://www.radio.bialystok.pl/",
+        "country": "Poland",
+        "language": "polish",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 160
+    },
+    {
+        "name": "\tpsyradio * fm - progressive",
+        "stream_url": "http://streamer.psyradio.org:8010/;listen.mp3",
+        "homepage": "http://psyradio.fm/",
+        "country": "Germany",
+        "language": "",
+        "tags": "progressive,psychedelic,psytrance",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "\tRadio Bruno Pentasport Fiorentina",
+        "stream_url": "https://stream3.xdevel.com/audio6s975355-281/stream/icecast.audio",
+        "homepage": "http://www.radiobrunotoscana.it/",
+        "country": "Italy",
+        "language": "",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 0
+    },
+    {
+        "name": "\tRadio Capital",
+        "stream_url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma.m3u8",
+        "homepage": "https://www.capital.it/",
+        "country": "Italy",
+        "language": "italian",
+        "tags": "",
+        "codec": "AAC+",
+        "bitrate": 122
+    },
+    {
+        "name": "\tRadio Margherita ",
+        "stream_url": "https://streaming.radiomargherita.com/stream/radiomargherita",
+        "homepage": "http://www.radiomargherita.com/",
+        "country": "Italy",
+        "language": "italian",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "\tRadio Record - Russian Gold",
+        "stream_url": "https://radiorecord.hostingradio.ru/russiangold96.aacp",
+        "homepage": "https://www.radiorecord.ru/",
+        "country": "The Russian Federation",
+        "language": "russian",
+        "tags": "pop,russian",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "\tRadio Tešanj 92.2MHz",
+        "stream_url": "http://radio.daj.ba:8082/stream",
+        "homepage": "https://www.radiotesanj.ba/",
+        "country": "Bosnia And Herzegovina",
+        "language": "bosnian",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "\tRTL France",
+        "stream_url": "http://streaming.radio.rtl.fr/rtl-1-44-128",
+        "homepage": "https://www.rtl.fr/",
+        "country": "France",
+        "language": "french,frenchhttps://rfiswahili96k.ice.infomaniak.ch/rfis",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "\tTick Tock Radio - 1950",
+        "stream_url": "https://streaming.ticktock.radio/tt/1950/icecast.audio",
+        "homepage": "https://ticktock.radio/",
+        "country": "Finland",
+        "language": "finnish",
+        "tags": "1950",
+        "codec": "MP3",
+        "bitrate": 0
+    },
+    {
+        "name": "\tWDR Sportschau - 2. Fussball Bundesliga-Konferenz LIVE",
+        "stream_url": "http://wdr-sportschau-liga2konferenz.icecastssl.wdr.de/wdr/sportschau/liga2konferenz/mp3/high",
+        "homepage": "http://wdr.de/",
+        "country": "Germany",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "\tЕвропа Плюс",
+        "stream_url": "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
+        "homepage": "http://www.europaplus.ru/",
+        "country": "The Russian Federation",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "\nRADIO MARIAM ARABIC\n",
+        "stream_url": "http://dreamsiteradiocp4.com:8046/stream",
+        "homepage": "",
+        "country": "Afghanistan",
+        "language": "",
+        "tags": "classical",
+        "codec": "MP3",
+        "bitrate": 64
+    },
+    {
+        "name": "\r\nГарик Сукачёв",
+        "stream_url": "https://stream.pcradio.ru/Garik_Sukachov-hi",
+        "homepage": "https://pcradio.ru/",
+        "country": "The Russian Federation",
+        "language": "russian",
+        "tags": "discography",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "\r\nМихаил Круг Радио ",
+        "stream_url": "https://stream.pcradio.ru/Michail_Krug-hi",
+        "homepage": "https://pcradio.ru/",
+        "country": "The Russian Federation",
+        "language": "russian",
+        "tags": "discography",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "\r\nСергей Трофимов",
+        "stream_url": "https://stream.pcradio.ru/Sergej_trofimov-hi",
+        "homepage": "https://pcradio.ru/",
+        "country": "The Russian Federation",
+        "language": "russian",
+        "tags": "discography",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": "\r\nЧайф",
+        "stream_url": "https://stream.pcradio.ru/Chaif-hi",
+        "homepage": "https://pcradio.ru/",
+        "country": "The Russian Federation",
+        "language": "russian",
+        "tags": "discography",
+        "codec": "AAC",
+        "bitrate": 0
+    },
+    {
+        "name": " \tROCKANTENNE Alternative (mp3)",
+        "stream_url": "https://stream.rockantenne.de/alternative/stream/mp3",
+        "homepage": "https://www.rockantenne.de/",
+        "country": "Germany",
+        "language": "german",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
+        "name": "    ",
+        "stream_url": "https://vip1.fhbf9.com/20210705/eoQxrzxS/index.m3u8",
+        "homepage": "https://www.fqxww.cn/",
+        "country": "China",
+        "language": "chinese",
+        "tags": "",
+        "codec": "UNKNOWN",
+        "bitrate": 800
+    },
+    {
+        "name": "     ",
+        "stream_url": "https://vip1.fhbf9.com/20210705/63Zb2fOi/index.m3u8",
+        "homepage": "https://www.fqxww.cn/",
+        "country": "China",
+        "language": "chinese",
+        "tags": "",
+        "codec": "UNKNOWN",
+        "bitrate": 800
+    },
+    {
+        "name": "    Squirrel FM",
+        "stream_url": "http://s25.myradiostream.com:10092/stream",
+        "homepage": "https://squirrelfm.ca/",
+        "country": "Canada",
+        "language": "",
+        "tags": "",
+        "codec": "MP3",
+        "bitrate": 192
+    },
+    {
+        "name": "   Radio Disney 94.3 - Buenos Aires, Argentina",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac",
+        "homepage": "https://ar.radiodisney.com/",
+        "country": "Mexico",
+        "language": "spanish",
+        "tags": "94.3 fm,américa,argentina,buenos aires,disney,entretenimiento,español,estación,familia,family,fm,juvenil,latinoamérica,moi merino,música,música en español e inglés,música pop,pop,pop en español e inglés,pop music,pop rock,radio,radio disney,suramérica,top 40,top charts,top hits",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "   Radio Disney 94.3 - Buenos Aires, Argentina",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac",
+        "homepage": "https://ar.radiodisney.com/",
+        "country": "Argentina",
+        "language": "spanish",
+        "tags": "94.3 fm,américa,argentina,buenos aires,disney,entretenimiento,español,estación,familia,family,fm,juvenil,latinoamérica,moi merino,música,música en español e inglés,música pop,pop,pop en español e inglés,pop music,pop rock,radio,radio disney,suramérica,top 40,top charts,top hits",
+        "codec": "AAC+",
+        "bitrate": 128
+    },
+    {
+        "name": "  EXA FM: En Todas Partes Ponte Exa",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+        "homepage": "https://www.exafm.com/",
+        "country": "Mexico",
+        "language": "spanish",
+        "tags": "93.3 fm,boca del río,entretenimiento,español,estación,exa,exa fm,fm,juvenil,la estación exacta,la estación naranja,latinoamérica,moi merino,music,mvs,mvs noticias,mvs radio,méxico,música,música en español e inglés,música pop,música variada,música y noticias,norteamérica,ponte exa,pop,pop en español,pop en español e inglés,pop latino,pop music,pop rock,radio,veracruz,veracruz city",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "  EXA FM: POP MUSIC in Spanish and English",
+        "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+        "homepage": "https://exafm.com/plaza/veracruz/",
+        "country": "The United States Of America",
+        "language": "spanish",
+        "tags": "contemporary hits,entertainment,music,news,pop,pop music,top 40",
+        "codec": "AAC+",
+        "bitrate": 48
+    },
+    {
+        "name": "  ICE RADIO",
+        "stream_url": "https://stream.iceradio.nl/iceradiohq?ver=30283",
+        "homepage": "",
+        "country": "The Netherlands",
+        "language": "",
+        "tags": "rock",
+        "codec": "MP3",
+        "bitrate": 320
+    },
+    {
+        "name": "  Stereorey: 100.9 FM - Aguascalientes, México. La Máxima Dimensión del Radio.",
+        "stream_url": "https://hls.gvstream.live/radiouniversal/life1009.stream/playlist.m3u8",
+        "homepage": "https://stereorey.com/",
+        "country": "Mexico",
+        "language": "spanish",
+        "tags": "100.9 fm,adult,adult contemporary,adult hits,aguascalientes,classic hits,clásicos,clásicos en inglés,estación,fm,hot ac,hot adult contemporary,hot hits,moi merino,mvs,mvs radio,méxico,música pop,pop,pop en ingles,pop en inglés,pop music,radio,radio universal,retro,soft adult contemporary,stereorey,synthpop",
+        "codec": "AAC",
+        "bitrate": 32
+    }
+]

@@ -1,0 +1,37 @@
+name,stream_url,homepage,country,language,tags,codec,bitrate
+	Arrow Classic Rock,http://stream.gal.io/arrow,https://www.arrow.nl/,The Netherlands,,,MP3,192
+	Blasmusikradio mit Bernd,https://stream.laut.fm/blasmusikradio_mit_bernd,https://laut.fm/blasmusikradio_mit_bernd,Germany,german,"blasmusik,folk,marsch,polka",MP3,128
+	Fun Radio,http://stream.funradio.sk:8000/fun128.mp3,http://www.funradio.sk/,Slovakia,,,MP3,128
+	Hard Rock Radio FM,http://67.249.184.45:8015/listen.pls,https://hardrockradiofm.weebly.com/,The United States Of America,,"80's,90's,hard rock,heavy metal",MP3,128
+	Polskie Radio Bialystok,http://stream4.nadaje.com:15476/radiobialystok,http://www.radio.bialystok.pl/,Poland,polish,,AAC+,160
+	psyradio * fm - progressive,http://streamer.psyradio.org:8010/;listen.mp3,http://psyradio.fm/,Germany,,"progressive,psychedelic,psytrance",MP3,128
+	Radio Bruno Pentasport Fiorentina,https://stream3.xdevel.com/audio6s975355-281/stream/icecast.audio,http://www.radiobrunotoscana.it/,Italy,,,AAC+,0
+	Radio Capital,https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma.m3u8,https://www.capital.it/,Italy,italian,,AAC+,122
+	Radio Margherita ,https://streaming.radiomargherita.com/stream/radiomargherita,http://www.radiomargherita.com/,Italy,italian,,MP3,320
+	Radio Record - Russian Gold,https://radiorecord.hostingradio.ru/russiangold96.aacp,https://www.radiorecord.ru/,The Russian Federation,russian,"pop,russian",AAC,0
+	Radio Tešanj 92.2MHz,http://radio.daj.ba:8082/stream,https://www.radiotesanj.ba/,Bosnia And Herzegovina,bosnian,,MP3,128
+	RTL France,http://streaming.radio.rtl.fr/rtl-1-44-128,https://www.rtl.fr/,France,"french,frenchhttps://rfiswahili96k.ice.infomaniak.ch/rfis",,MP3,128
+	Tick Tock Radio - 1950,https://streaming.ticktock.radio/tt/1950/icecast.audio,https://ticktock.radio/,Finland,finnish,1950,MP3,0
+	WDR Sportschau - 2. Fussball Bundesliga-Konferenz LIVE,http://wdr-sportschau-liga2konferenz.icecastssl.wdr.de/wdr/sportschau/liga2konferenz/mp3/high,http://wdr.de/,Germany,,,MP3,128
+	Европа Плюс,http://ep256.hostingradio.ru:8052/europaplus256.mp3,http://www.europaplus.ru/,The Russian Federation,,,MP3,128
+"
+RADIO MARIAM ARABIC
+",http://dreamsiteradiocp4.com:8046/stream,,Afghanistan,,classical,MP3,64
+"
+Гарик Сукачёв",https://stream.pcradio.ru/Garik_Sukachov-hi,https://pcradio.ru/,The Russian Federation,russian,discography,AAC,0
+"
+Михаил Круг Радио ",https://stream.pcradio.ru/Michail_Krug-hi,https://pcradio.ru/,The Russian Federation,russian,discography,AAC,0
+"
+Сергей Трофимов",https://stream.pcradio.ru/Sergej_trofimov-hi,https://pcradio.ru/,The Russian Federation,russian,discography,AAC,0
+"
+Чайф",https://stream.pcradio.ru/Chaif-hi,https://pcradio.ru/,The Russian Federation,russian,discography,AAC,0
+ 	ROCKANTENNE Alternative (mp3),https://stream.rockantenne.de/alternative/stream/mp3,https://www.rockantenne.de/,Germany,german,,MP3,128
+    ,https://vip1.fhbf9.com/20210705/eoQxrzxS/index.m3u8,https://www.fqxww.cn/,China,chinese,,UNKNOWN,800
+     ,https://vip1.fhbf9.com/20210705/63Zb2fOi/index.m3u8,https://www.fqxww.cn/,China,chinese,,UNKNOWN,800
+    Squirrel FM,http://s25.myradiostream.com:10092/stream,https://squirrelfm.ca/,Canada,,,MP3,192
+"   Radio Disney 94.3 - Buenos Aires, Argentina",https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac,https://ar.radiodisney.com/,Mexico,spanish,"94.3 fm,américa,argentina,buenos aires,disney,entretenimiento,español,estación,familia,family,fm,juvenil,latinoamérica,moi merino,música,música en español e inglés,música pop,pop,pop en español e inglés,pop music,pop rock,radio,radio disney,suramérica,top 40,top charts,top hits",AAC+,128
+"   Radio Disney 94.3 - Buenos Aires, Argentina",https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac,https://ar.radiodisney.com/,Argentina,spanish,"94.3 fm,américa,argentina,buenos aires,disney,entretenimiento,español,estación,familia,family,fm,juvenil,latinoamérica,moi merino,música,música en español e inglés,música pop,pop,pop en español e inglés,pop music,pop rock,radio,radio disney,suramérica,top 40,top charts,top hits",AAC+,128
+  EXA FM: En Todas Partes Ponte Exa,https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac,https://www.exafm.com/,Mexico,spanish,"93.3 fm,boca del río,entretenimiento,español,estación,exa,exa fm,fm,juvenil,la estación exacta,la estación naranja,latinoamérica,moi merino,music,mvs,mvs noticias,mvs radio,méxico,música,música en español e inglés,música pop,música variada,música y noticias,norteamérica,ponte exa,pop,pop en español,pop en español e inglés,pop latino,pop music,pop rock,radio,veracruz,veracruz city",AAC+,48
+  EXA FM: POP MUSIC in Spanish and English,https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac,https://exafm.com/plaza/veracruz/,The United States Of America,spanish,"contemporary hits,entertainment,music,news,pop,pop music,top 40",AAC+,48
+  ICE RADIO,https://stream.iceradio.nl/iceradiohq?ver=30283,,The Netherlands,,rock,MP3,320
+"  Stereorey: 100.9 FM - Aguascalientes, México. La Máxima Dimensión del Radio.",https://hls.gvstream.live/radiouniversal/life1009.stream/playlist.m3u8,https://stereorey.com/,Mexico,spanish,"100.9 fm,adult,adult contemporary,adult hits,aguascalientes,classic hits,clásicos,clásicos en inglés,estación,fm,hot ac,hot adult contemporary,hot hits,moi merino,mvs,mvs radio,méxico,música pop,pop,pop en ingles,pop en inglés,pop music,radio,radio universal,retro,soft adult contemporary,stereorey,synthpop",AAC,32
