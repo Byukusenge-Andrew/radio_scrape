@@ -45,6 +45,15 @@
         "bitrate": 64
     },
     {
+        "name": "Heaven FM Radio Rwanda",
+        "stream_url": "http://stream.zeno.fm/eequgfw72hhvv",
+        "homepage": "https://zeno.fm/",
+        "country": "Rwanda",
+        "tags": "Christian, Gospel",
+        "codec": "MP3",
+        "bitrate": 128
+    },
+    {
         "name": "Bachwezi Radio",
         "stream_url": "http://stream.zeno.fm/4vcb1euurnhvv",
         "homepage": "https://mytuner-radio.com/radio/bachwezi-radio-488187/",

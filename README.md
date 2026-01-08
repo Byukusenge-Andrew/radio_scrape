@@ -1,0 +1,183 @@
+# Radio Scrape 📻
+
+A Python-based radio station scraper and player that fetches, filters, and plays internet radio streams from the Radio Browser API.
+
+## Features
+
+- 🌍 **Scrape Radio Stations** - Fetch radio stations by country, name, or get all stations
+- ✅ **Filter Working Streams** - Automatically test and filter out dead/broken radio streams
+- 🎵 **Play Radio Stations** - Interactive CLI player to browse and play working radio stations
+- 💾 **Multiple Output Formats** - Save results in both JSON and CSV formats
+- 🔄 **Multi-threaded Processing** - Faster scraping and filtering with concurrent operations
+
+## Project Structure
+
+```
+radio_scrape/
+├── radio_scrape.py          # Main scraper to fetch radio stations
+├── multi_scrape.py          # Multi-threaded version of the scraper
+├── filter.py                # Filter working radio streams
+├── multi_filter.py          # Multi-threaded stream filter
+├── play.py                  # Simple radio player
+├── play_m.py                # Multi-country radio player
+├── radio_station.json       # Sample radio stations data
+├── working_radios.json      # Filtered working radio stations
+├── radio_results/           # Scraped results by country
+├── radio_results_working/   # Filtered working stations by country
+└── requirements.txt         # Python dependencies
+```
+
+## Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone <repository-url>
+   cd radio_scrape
+   ```
+
+2. **Install Python dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Install FFmpeg** (required for playing streams)
+   - **Windows**: Download from [ffmpeg.org](https://ffmpeg.org/download.html) and add to PATH
+   - **macOS**: `brew install ffmpeg`
+   - **Linux**: `sudo apt install ffmpeg`
+
+## Usage
+
+### 1. Scrape Radio Stations
+
+Fetch radio stations from the Radio Browser API:
+
+```bash
+# Get 20 stations from any country
+python radio_scrape.py
+
+# Get stations from a specific country
+python radio_scrape.py --country Rwanda --limit 50
+
+# Search by station name
+python radio_scrape.py --name "BBC" --limit 30
+
+# Custom output filename
+python radio_scrape.py --country Kenya --output kenya_stations
+```
+
+**Options:**
+- `--country` - Filter by country name
+- `--name` - Search by station name
+- `--limit` - Maximum number of stations to fetch (default: 20)
+- `--output` - Output filename without extension (default: radio_station)
+
+### 2. Filter Working Streams
+
+Test and filter out dead radio streams:
+
+```bash
+# Filter stations from radio_station.json
+python filter.py
+```
+
+This will:
+- Test each stream URL for availability
+- Display working ✔ and dead ✘ stations
+- Save working stations to `working_radios.json`
+
+**Multi-threaded version** (faster):
+```bash
+python multi_filter.py
+```
+
+### 3. Play Radio Stations
+
+Interactive CLI player to browse and play stations:
+
+```bash
+# Play from working_radios.json
+python play.py
+
+# Play from multi-country results
+python play_m.py
+```
+
+The player will:
+1. Show available countries
+2. List stations in the selected country
+3. Play the selected station using FFplay
+
+**Controls:**
+- Press `CTRL+C` to stop playback
+
+## Example Workflow
+
+```bash
+# 1. Scrape Rwandan radio stations
+python radio_scrape.py --country Rwanda --limit 50 --output rwanda_radios
+
+# 2. Filter working streams
+python filter.py
+
+# 3. Play a station
+python play.py
+```
+
+## API Reference
+
+This project uses the [Radio Browser API](https://api.radio-browser.info/) to fetch radio station data.
+
+### Data Fields
+
+Each radio station includes:
+- `name` - Station name
+- `stream_url` - Direct stream URL
+- `homepage` - Station website
+- `country` - Country of origin
+- `language` - Broadcast language
+- `tags` - Genre/category tags
+- `codec` - Audio codec (MP3, AAC, etc.)
+- `bitrate` - Stream bitrate in kbps
+
+## Requirements
+
+- Python 3.6+
+- `requests` - HTTP library for API calls
+- `python-vlc` - VLC Python bindings (optional)
+- FFmpeg/FFplay - For audio playback
+
+## Troubleshooting
+
+### Stream won't play
+- Ensure FFmpeg is installed and in your PATH
+- Some streams may be geo-restricted
+- Try a different station
+
+### No working stations found
+- The Radio Browser API data may be outdated
+- Try scraping from a different country
+- Increase the `--limit` parameter
+
+### Slow filtering
+- Use `multi_filter.py` for faster multi-threaded filtering
+- Reduce timeout in the filter script (default: 5 seconds)
+
+## Contributing
+
+Contributions are welcome! Feel free to:
+- Report bugs
+- Suggest new features
+- Submit pull requests
+
+## License
+
+This project is open source and available under the MIT License.
+
+## Acknowledgments
+
+- [Radio Browser API](https://www.radio-browser.info/) for providing free radio station data
+- FFmpeg project for audio playback capabilities
+
+---
+
+**Made with ❤️ for radio enthusiasts**
