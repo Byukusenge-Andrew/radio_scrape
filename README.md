@@ -2,6 +2,19 @@
 
 A Python-based radio station scraper and player that fetches, filters, and plays internet radio streams from the Radio Browser API.
 
+## DockerHub repository 
+
+[https://hub.docker.com/r/drefault/radio_player](https://hub.docker.com/r/drefault/radio_player)
+
+## Terminal Player Requirements(Windows)
+
+- Python
+- VLC 64-bit(add it to your env)
+
+
+
+
+
 ## Features
 
 - 🌍 **Scrape Radio Stations** - Fetch radio stations by country, name, or get all stations
@@ -48,10 +61,10 @@ radio_scrape/
    pip install -r requirements.txt
    ```
 
-3. **Install FFmpeg** (required for CLI players only)
-   - **Windows**: Download from [ffmpeg.org](https://ffmpeg.org/download.html) and add to PATH
-   - **macOS**: `brew install ffmpeg`
-   - **Linux**: `sudo apt install ffmpeg`
+3. **Install VLC** (required for CLI players only)
+   - **Windows&MacOS**: Download from [https://images.videolan.org/vlc/](https://images.videolan.org/vlc/) and add to PATH
+  
+   - **Linux**: there by default on most distros
 
 ## Docker Web Interface 🐳
 
@@ -122,7 +135,7 @@ docker push drefault/radio_player:latest
 - 🎨 **Modern UI** - Beautiful glassmorphism design with smooth animations
 - 🔍 **Search** - Find stations by name instantly
 - 🌍 **Filter by Country** - Browse stations from specific countries
-- 🎵 **Browser Playback** - Play streams directly in your browser (no FFmpeg needed!)
+- 🎵 **Browser Playback** - Play streams directly in your browser (no VLC needed!)
 - 📱 **Responsive** - Works perfectly on desktop, tablet, and mobile
 - 🎯 **Now Playing** - See what's currently streaming with station details
 
@@ -235,12 +248,12 @@ Each radio station includes:
 - Python 3.6+
 - `requests` - HTTP library for API calls
 - `python-vlc` - VLC Python bindings (optional)
-- FFmpeg/FFplay - For audio playback
+- VLC/FFplay - For audio playback
 
 ## Troubleshooting
 
 ### Stream won't play
-- Ensure FFmpeg is installed and in your PATH
+- Ensure VLC is installed and in your PATH
 - Some streams may be geo-restricted
 - Try a different station
 
@@ -267,7 +280,7 @@ This project is open source and available under the MIT License.
 ## Acknowledgments
 
 - [Radio Browser API](https://www.radio-browser.info/) for providing free radio station data
-- FFmpeg project for audio playback capabilities
+- VLC project for audio playback capabilities
 
 ---
 
