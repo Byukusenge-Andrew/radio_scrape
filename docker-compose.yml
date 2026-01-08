@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  radio-player:
+    image: drefault/radio_player:latest
+    # Uncomment below to build locally instead
+    # build: .
+    container_name: radio-player
+    ports:
+      - "5000:5000"
+    volumes:
+      # Mount for development (optional - remove in production)
+      - ./working_radios.json:/app/working_radios.json:ro
+      - ./radio_station.json:/app/radio_station.json:ro
+    environment:
+      - FLASK_ENV=production
+      - FLASK_APP=app.py
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/health"]
+      interval: 30s
+      timeout: 3s
+      retries: 3
+      start_period: 5s

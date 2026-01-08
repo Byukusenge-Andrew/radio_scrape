@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Radio Player 📻</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1 class="logo">
+                    <span class="logo-icon">📻</span>
+                    Radio Player
+                </h1>
+                <div class="header-stats">
+                    <span class="stat" id="station-count">Loading...</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Controls -->
+        <div class="controls">
+            <div class="search-box">
+                <input 
+                    type="text" 
+                    id="search-input" 
+                    placeholder="🔍 Search stations..."
+                    autocomplete="off"
+                >
+            </div>
+            <div class="filter-box">
+                <select id="country-filter">
+                    <option value="">🌍 All Countries</option>
+                </select>
+            </div>
+        </div>
+
+        <!-- Now Playing -->
+        <div class="now-playing" id="now-playing" style="display: none;">
+            <div class="now-playing-content">
+                <div class="now-playing-info">
+                    <div class="now-playing-icon">🎵</div>
+                    <div class="now-playing-details">
+                        <div class="now-playing-title" id="playing-title">Station Name</div>
+                        <div class="now-playing-meta" id="playing-meta">Country • Codec • Bitrate</div>
+                    </div>
+                </div>
+                <div class="now-playing-controls">
+                    <button class="control-btn" id="stop-btn" title="Stop">
+                        <span>⏹</span>
+                    </button>
+                </div>
+            </div>
+            <audio id="audio-player"></audio>
+        </div>
+
+        <!-- Stations Grid -->
+        <div class="stations-container">
+            <div class="stations-grid" id="stations-grid">
+                <!-- Stations will be loaded here -->
+            </div>
+        </div>
+
+        <!-- Loading State -->
+        <div class="loading" id="loading">
+            <div class="loading-spinner"></div>
+            <p>Loading stations...</p>
+        </div>
+
+        <!-- Empty State -->
+        <div class="empty-state" id="empty-state" style="display: none;">
+            <div class="empty-icon">📻</div>
+            <h3>No stations found</h3>
+            <p>Try adjusting your search or filter</p>
+        </div>
+    </div>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>

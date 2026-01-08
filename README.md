@@ -14,12 +14,20 @@ A Python-based radio station scraper and player that fetches, filters, and plays
 
 ```
 radio_scrape/
+├── app.py                   # Flask web application
+├── static/                  # Web interface files
+│   ├── index.html          # Main HTML page
+│   ├── style.css           # Styles and animations
+│   └── app.js              # Frontend JavaScript
 ├── radio_scrape.py          # Main scraper to fetch radio stations
 ├── multi_scrape.py          # Multi-threaded version of the scraper
 ├── filter.py                # Filter working radio streams
 ├── multi_filter.py          # Multi-threaded stream filter
 ├── play.py                  # Simple radio player
 ├── play_m.py                # Multi-country radio player
+├── Dockerfile               # Docker container configuration
+├── docker-compose.yml       # Docker Compose setup
+├── .dockerignore            # Docker build exclusions
 ├── radio_station.json       # Sample radio stations data
 ├── working_radios.json      # Filtered working radio stations
 ├── radio_results/           # Scraped results by country
@@ -40,10 +48,93 @@ radio_scrape/
    pip install -r requirements.txt
    ```
 
-3. **Install FFmpeg** (required for playing streams)
+3. **Install FFmpeg** (required for CLI players only)
    - **Windows**: Download from [ffmpeg.org](https://ffmpeg.org/download.html) and add to PATH
    - **macOS**: `brew install ffmpeg`
    - **Linux**: `sudo apt install ffmpeg`
+
+## Docker Web Interface 🐳
+
+The easiest way to use Radio Player is with Docker! This provides a beautiful web interface accessible from any browser.
+
+### Quick Start with Docker
+
+**Option 1: Pull from Docker Hub (Recommended)**
+
+```bash
+# Pull and run the pre-built image
+docker-compose up -d
+
+# Or run directly
+docker run -d -p 5000:5000 \
+  -v $(pwd)/working_radios.json:/app/working_radios.json:ro \
+  drefault/radio_player:latest
+```
+
+**Option 2: Build Locally**
+
+```bash
+# Edit docker-compose.yml and uncomment the build line
+# Then build and run
+docker-compose up -d --build
+```
+
+### Access the Web Interface
+
+1. Open your browser to: **http://localhost:5000**
+2. Browse, search, and play radio stations!
+
+### Stop the Container
+
+```bash
+docker-compose down
+```
+
+### Building and Pushing to Docker Hub
+
+For maintainers who want to update the Docker Hub image:
+
+**Windows (PowerShell):**
+```powershell
+.\build-and-push.ps1
+```
+
+**Linux/Mac:**
+```bash
+chmod +x build-and-push.sh
+./build-and-push.sh
+```
+
+**Manual Commands:**
+```bash
+# Build with Docker Hub tag
+docker build -t drefault/radio_player:latest .
+
+# Login to Docker Hub
+docker login
+
+# Push to Docker Hub
+docker push drefault/radio_player:latest
+```
+
+### Web Interface Features
+
+- 🎨 **Modern UI** - Beautiful glassmorphism design with smooth animations
+- 🔍 **Search** - Find stations by name instantly
+- 🌍 **Filter by Country** - Browse stations from specific countries
+- 🎵 **Browser Playback** - Play streams directly in your browser (no FFmpeg needed!)
+- 📱 **Responsive** - Works perfectly on desktop, tablet, and mobile
+- 🎯 **Now Playing** - See what's currently streaming with station details
+
+### Configuration
+
+Edit `docker-compose.yml` to customize:
+
+```yaml
+ports:
+  - "8080:5000"  # Change 8080 to your preferred port
+```
+
 
 ## Usage
 

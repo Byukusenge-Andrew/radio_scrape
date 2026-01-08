@@ -1,2 +1,9 @@
-requests
-python-vlc
+# Web Application Dependencies
+Flask==3.0.0
+Flask-CORS==4.0.0
+
+# HTTP Requests (for scraping and filtering)
+requests==2.31.0
+
+# CLI Player Dependencies (optional - not needed for Docker web app)
+python-vlc==3.0.20123
